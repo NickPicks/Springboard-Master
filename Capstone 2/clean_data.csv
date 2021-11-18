@@ -1,0 +1,3308 @@
+,price,property_type,bedrooms,bathrooms_text,beds,neighbourhood_cleansed
+1,135.0,Entire guesthouse,2.0,1.0,2.0,Highland
+2,179.0,Entire loft,1.0,1.5,1.0,Five Points
+3,55.0,Private room in residential home,1.0,1.0,1.0,North Park Hill
+4,52.0,Private room in residential home,1.0,1.0,1.0,North Park Hill
+5,33.0,Private room in residential home,1.0,1.0,2.0,North Capitol Hill
+7,87.0,Entire guest suite,1.0,1.0,1.0,West Highland
+8,113.0,Entire cottage,1.0,1.0,1.0,Highland
+9,126.0,Entire rental unit,1.0,1.0,2.0,Capitol Hill
+10,79.0,Entire guesthouse,1.0,1.0,1.0,Overland
+11,90.0,Private room in residential home,1.0,1.0,1.0,South Park Hill
+12,67.0,Entire condominium (condo),1.0,1.0,1.0,CBD
+13,400.0,Entire residential home,5.0,4.0,7.0,Washington Park
+14,44.0,Private room in condominium (condo),1.0,1.0,1.0,South Park Hill
+15,100.0,Private room in condominium (condo),1.0,1.5,2.0,Highland
+16,165.0,Entire loft,2.0,1.5,2.0,Union Station
+18,82.0,Private room in residential home,1.0,1.0,1.0,Five Points
+19,223.0,Entire townhouse,3.0,2.5,3.0,Washington Park West
+20,55.0,Private room in townhouse,1.0,1.0,1.0,Baker
+21,55.0,Private room in residential home,1.0,1.5,1.0,City Park West
+22,155.0,Entire residential home,2.0,2.0,2.0,Clayton
+23,118.0,Entire rental unit,1.0,1.0,1.0,City Park West
+24,50.0,Private room in residential home,1.0,1.0,1.0,City Park West
+25,200.0,Entire loft,2.0,1.0,2.0,Five Points
+26,122.0,Entire townhouse,2.0,2.0,2.0,Highland
+27,160.0,Entire rental unit,2.0,1.0,2.0,Highland
+28,195.0,Entire residential home,3.0,2.5,3.0,Stapleton
+29,119.0,Entire bungalow,2.0,1.0,2.0,Platt Park
+30,359.0,Entire residential home,3.0,2.5,6.0,Five Points
+31,56.0,Private room in townhouse,1.0,1.5,1.0,Lowry Field
+32,82.0,Entire guest suite,2.0,1.0,2.0,South Park Hill
+33,25.0,Private room in townhouse,4.0,3.5,3.0,West Highland
+34,180.0,Private room in residential home,2.0,1.0,2.0,South Park Hill
+35,77.0,Entire rental unit,1.0,1.0,1.0,City Park West
+36,228.0,Entire residential home,3.0,3.0,3.0,Platt Park
+37,163.0,Entire residential home,2.0,1.0,2.0,Sunnyside
+38,74.0,Private room in residential home,1.0,1.0,1.0,Congress Park
+39,105.0,Entire bungalow,1.0,1.0,3.0,City Park West
+40,151.0,Entire guest suite,2.0,1.0,5.0,Goldsmith
+41,95.0,Entire residential home,1.0,1.0,2.0,Capitol Hill
+42,129.0,Entire loft,1.0,1.0,0.0,Highland
+43,90.0,Entire bungalow,2.0,1.0,3.0,Congress Park
+44,125.0,Entire condominium (condo),2.0,2.0,2.0,CBD
+45,125.0,Entire guesthouse,1.0,1.0,1.0,Stapleton
+46,139.0,Entire residential home,3.0,2.0,5.0,Five Points
+47,165.0,Entire guest suite,2.0,1.0,3.0,Berkeley
+48,145.0,Entire guest suite,1.0,1.0,0.0,Berkeley
+49,100.0,Entire residential home,2.0,1.5,2.0,Sunnyside
+50,182.0,Entire residential home,1.0,1.0,1.0,Lincoln Park
+51,120.0,Entire townhouse,1.0,1.0,2.0,City Park West
+52,136.0,Entire residential home,3.0,2.0,4.0,Cole
+53,56.0,Entire condominium (condo),1.0,1.0,1.0,CBD
+54,68.0,Private room in residential home,1.0,1.0,1.0,Cheesman Park
+55,58.0,Private room in residential home,1.0,1.0,2.0,Cheesman Park
+57,53.0,Entire condominium (condo),1.0,1.0,1.0,CBD
+58,47.0,Private room in residential home,1.0,1.0,1.0,Cole
+59,65.0,Entire rental unit,1.0,1.0,1.0,Speer
+61,98.0,Entire condominium (condo),2.0,2.0,2.0,CBD
+63,98.0,Entire condominium (condo),2.0,2.0,2.0,CBD
+65,218.0,Entire residential home,5.0,2.0,5.0,University
+66,78.0,Entire condominium (condo),1.0,1.0,1.0,CBD
+67,125.0,Entire townhouse,2.0,2.0,2.0,Capitol Hill
+68,56.0,Entire condominium (condo),1.0,1.0,1.0,CBD
+69,92.0,Entire rental unit,1.0,1.0,1.0,Highland
+70,245.0,Entire residential home,5.0,2.0,6.0,West Colfax
+71,102.0,Private room in residential home,2.0,1.0,2.0,Congress Park
+72,74.0,Entire guest suite,1.0,1.0,1.0,Berkeley
+73,121.0,Entire rental unit,2.0,1.0,2.0,West Highland
+74,108.0,Entire bungalow,1.0,1.0,1.0,Speer
+75,88.0,Entire rental unit,2.0,1.0,3.0,West Colfax
+76,60.0,Private room in residential home,1.0,1.0,1.0,South Park Hill
+77,211.0,Entire residential home,2.0,2.0,2.0,Sloan Lake
+78,101.0,Private room in residential home,1.0,1.0,5.0,Cheesman Park
+80,56.0,Private room in residential home,1.0,1.0,1.0,Cheesman Park
+81,81.0,Private room in residential home,2.0,1.5,1.0,Congress Park
+82,350.0,Entire loft,1.0,1.5,1.0,CBD
+83,35.0,Private room in residential home,1.0,1.0,1.0,University
+84,35.0,Private room in residential home,1.0,1.0,1.0,University
+85,110.0,Entire guest suite,2.0,1.0,2.0,Berkeley
+86,451.0,Entire townhouse,2.0,2.5,2.0,Sunnyside
+87,200.0,Entire rental unit,1.0,1.0,1.0,CBD
+88,39.0,Private room in bungalow,1.0,1.0,1.0,Clayton
+89,150.0,Entire residential home,3.0,2.0,4.0,Platt Park
+90,76.0,Entire rental unit,1.0,1.0,0.0,City Park West
+91,258.0,Entire residential home,2.0,1.0,3.0,Lincoln Park
+92,92.0,Entire rental unit,2.0,1.0,2.0,Hilltop
+93,151.0,Entire residential home,2.0,1.0,3.0,Sunnyside
+94,26.0,Private room in residential home,1.0,1.0,1.0,University
+96,260.0,Entire residential home,3.0,3.0,5.0,Country Club
+97,189.0,Entire residential home,3.0,1.0,4.0,Clayton
+98,80.0,Entire rental unit,1.0,1.0,1.0,City Park West
+99,115.0,Entire guest suite,1.0,1.0,2.0,West Highland
+100,70.0,Entire guest suite,1.0,1.0,1.0,Berkeley
+101,130.0,Entire loft,1.0,1.0,1.0,West Highland
+102,48.0,Entire condominium (condo),1.0,1.0,1.0,City Park West
+103,300.0,Entire residential home,1.0,1.5,1.0,Cory - Merrill
+104,165.0,Entire guest suite,2.0,1.0,2.0,City Park
+105,199.0,Entire residential home,3.0,1.0,4.0,Athmar Park
+106,210.0,Entire residential home,3.0,2.5,3.0,Stapleton
+107,159.0,Entire guesthouse,1.0,1.0,1.0,Highland
+108,79.0,Private room in residential home,1.0,1.0,1.0,Five Points
+109,74.0,Private room in residential home,1.0,1.0,1.0,Five Points
+110,118.0,Entire condominium (condo),2.0,1.0,3.0,Washington Virginia Vale
+111,150.0,Entire residential home,2.0,2.0,2.0,Highland
+112,75.0,Entire condominium (condo),1.0,1.0,1.0,Lowry Field
+113,79.0,Private room in residential home,1.0,1.0,1.0,Congress Park
+114,106.0,Private room in residential home,1.0,1.0,1.0,Highland
+115,199.0,Entire residential home,3.0,1.0,4.0,Athmar Park
+116,87.0,Entire townhouse,2.0,1.0,2.0,Baker
+117,260.0,Entire residential home,3.0,2.0,4.0,Sloan Lake
+118,600.0,Entire residential home,4.0,3.0,6.0,Baker
+119,321.0,Entire residential home,5.0,3.0,5.0,Gateway - Green Valley Ranch
+120,160.0,Entire residential home,2.0,1.5,2.0,West Highland
+121,185.0,Entire residential home,2.0,1.5,2.0,Capitol Hill
+122,518.0,Entire residential home,2.0,2.0,7.0,Cole
+123,125.0,Entire residential home,2.0,1.0,1.0,Highland
+124,190.0,Entire rental unit,1.0,1.0,1.0,Union Station
+126,164.0,Entire residential home,2.0,2.0,2.0,Five Points
+127,93.0,Entire rental unit,1.0,1.0,2.0,Rosedale
+128,55.0,Entire guesthouse,1.0,1.0,1.0,Five Points
+129,135.0,Entire residential home,2.0,2.5,2.0,Whittier
+130,172.0,Entire guest suite,1.0,1.0,1.0,West Highland
+131,77.0,Private room in townhouse,1.0,1.0,1.0,Fort Logan
+132,105.0,Entire loft,1.0,1.0,1.0,Five Points
+133,179.0,Entire residential home,2.0,1.0,2.0,Sunnyside
+134,139.0,Entire residential home,3.0,2.0,1.0,Lincoln Park
+135,125.0,Private room in residential home,3.0,1.5,3.0,University
+136,115.0,Private room in residential home,1.0,1.0,1.0,Capitol Hill
+137,176.0,Entire townhouse,2.0,2.5,2.0,Sunnyside
+138,80.0,Entire residential home,2.0,1.0,2.0,City Park West
+139,63.0,Entire rental unit,1.0,1.0,1.0,Skyland
+140,850.0,Entire loft,2.0,2.5,3.0,Union Station
+141,110.0,Entire condominium (condo),1.0,1.0,1.0,North Capitol Hill
+142,123.0,Entire residential home,2.0,2.5,5.0,City Park West
+143,40.0,Private room in residential home,1.0,1.0,1.0,Cole
+144,170.0,Entire residential home,3.0,2.0,3.0,Platt Park
+145,170.0,Entire loft,2.0,1.0,2.0,Five Points
+146,113.0,Entire rental unit,1.0,1.0,1.0,Skyland
+147,155.0,Entire guest suite,2.0,1.0,2.0,Skyland
+148,35.0,Private room in rental unit,1.0,1.0,1.0,Windsor
+149,69.0,Private room in residential home,1.0,1.0,1.0,Platt Park
+150,190.0,Entire condominium (condo),2.0,2.5,2.0,CBD
+151,416.0,Entire residential home,5.0,3.0,6.0,Whittier
+152,146.0,Entire guesthouse,2.0,1.0,2.0,Berkeley
+153,564.0,Entire residential home,5.0,3.5,9.0,Baker
+154,137.0,Entire guest suite,1.0,1.0,1.0,Five Points
+156,100.0,Entire residential home,1.0,1.0,1.0,West Highland
+157,250.0,Entire bungalow,3.0,2.0,4.0,Whittier
+158,274.0,Entire residential home,4.0,3.0,4.0,North Park Hill
+159,146.0,Entire townhouse,1.0,1.0,2.0,Five Points
+160,156.0,Entire rental unit,1.0,1.0,1.0,Congress Park
+161,60.0,Private room in rental unit,1.0,1.0,2.0,West Colfax
+162,175.0,Entire residential home,4.0,1.0,4.0,Hale
+163,140.0,Entire townhouse,1.0,1.0,1.0,Congress Park
+164,78.0,Entire condominium (condo),1.0,1.0,1.0,Hale
+165,125.0,Entire residential home,2.0,2.5,2.0,Cherry Creek
+166,108.0,Private room in residential home,2.0,1.0,3.0,South Park Hill
+167,99.0,Entire residential home,2.0,1.0,2.0,Skyland
+168,132.0,Entire residential home,1.0,1.0,1.0,Baker
+169,75.0,Entire condominium (condo),1.0,1.0,1.0,CBD
+170,130.0,Entire loft,1.0,1.0,1.0,Union Station
+171,219.0,Entire residential home,2.0,1.0,2.0,Hilltop
+172,65.0,Entire rental unit,1.0,1.0,1.0,Capitol Hill
+173,107.0,Entire rental unit,2.0,1.5,2.0,North Capitol Hill
+174,163.0,Private room in townhouse,2.0,2.5,2.0,Washington Virginia Vale
+175,175.0,Entire condominium (condo),1.0,1.5,2.0,Five Points
+176,80.0,Entire guest suite,1.0,1.0,1.0,Berkeley
+178,144.0,Entire rental unit,2.0,2.0,2.0,North Capitol Hill
+179,79.0,Entire rental unit,1.0,1.0,1.0,Speer
+180,151.0,Entire residential home,1.0,1.0,2.0,Lincoln Park
+182,600.0,Entire residential home,4.0,3.0,4.0,South Park Hill
+184,115.0,Entire residential home,2.0,1.0,2.0,Highland
+185,100.0,Entire rental unit,1.0,1.0,1.0,Speer
+186,252.0,Entire rental unit,1.0,1.0,2.0,City Park West
+187,96.0,Private room in residential home,1.0,1.0,1.0,Capitol Hill
+188,293.0,Entire residential home,4.0,4.5,4.0,Harvey Park
+189,73.0,Private room in residential home,1.0,2.0,1.0,Highland
+190,122.0,Entire rental unit,1.0,1.0,2.0,Union Station
+191,100.0,Entire guesthouse,1.0,1.0,2.0,West Highland
+192,77.0,Entire residential home,2.0,1.0,2.0,Whittier
+193,129.0,Entire condominium (condo),1.0,1.0,1.0,Five Points
+194,90.0,Entire condominium (condo),2.0,2.0,5.0,Capitol Hill
+195,49.0,Entire guest suite,1.0,1.0,1.0,Ruby Hill
+196,115.0,Entire bungalow,2.0,1.0,2.0,Highland
+197,33.0,Private room in residential home,1.0,1.0,1.0,Congress Park
+198,50.0,Private room in residential home,1.0,1.0,1.0,Hampden South
+199,295.0,Entire rental unit,2.0,2.0,2.0,Union Station
+200,120.0,Entire rental unit,1.0,1.0,1.0,Capitol Hill
+201,175.0,Entire loft,1.0,1.0,2.0,Civic Center
+202,150.0,Entire rental unit,1.0,1.0,2.0,Five Points
+203,500.0,Entire residential home,4.0,2.5,4.0,Stapleton
+204,91.0,Entire guest suite,1.0,1.0,1.0,Berkeley
+207,98.0,Entire condominium (condo),2.0,2.0,2.0,CBD
+208,395.0,Entire residential home,3.0,4.0,0.0,Jefferson Park
+209,60.0,Private room in residential home,1.0,1.0,1.0,South Park Hill
+210,115.0,Entire rental unit,1.0,1.0,1.0,North Capitol Hill
+211,229.0,Entire bungalow,2.0,1.0,2.0,Speer
+212,125.0,Entire residential home,1.0,1.0,1.0,Montclair
+213,160.0,Entire guesthouse,1.0,1.0,1.0,Speer
+214,125.0,Entire townhouse,1.0,1.0,1.0,Sloan Lake
+215,741.0,Entire residential home,6.0,2.5,7.0,West Highland
+216,128.0,Entire townhouse,1.0,1.0,2.0,Five Points
+217,29.0,Private room in residential home,1.0,0.0,1.0,Harvey Park South
+218,120.0,Entire loft,1.0,1.0,1.0,Speer
+219,228.0,Entire residential home,4.0,3.0,4.0,Washington Virginia Vale
+220,90.0,Entire rental unit,1.0,1.0,2.0,Capitol Hill
+221,65.0,Private room in residential home,1.0,1.0,1.0,Cole
+222,75.0,Private room in townhouse,1.0,1.5,1.0,Sunnyside
+223,174.0,Entire residential home,3.0,2.0,6.0,Regis
+224,79.0,Entire condominium (condo),2.0,2.0,3.0,CBD
+225,99.0,Private room in townhouse,1.0,1.0,1.0,Capitol Hill
+226,346.0,Entire townhouse,2.0,1.0,3.0,Capitol Hill
+227,205.0,Entire condominium (condo),3.0,3.0,3.0,Five Points
+228,38.0,Private room in residential home,1.0,1.0,1.0,Berkeley
+229,39.0,Private room in residential home,1.0,1.0,1.0,University Park
+230,42.0,Private room in residential home,1.0,1.0,1.0,Gateway - Green Valley Ranch
+231,365.0,Entire townhouse,2.0,2.5,2.0,Five Points
+232,200.0,Entire townhouse,2.0,1.0,2.0,Baker
+233,350.0,Entire loft,2.0,2.0,0.0,Five Points
+234,150.0,Entire residential home,4.0,2.0,10.0,Regis
+235,295.0,Entire residential home,2.0,1.0,2.0,City Park
+236,75.0,Entire condominium (condo),1.0,1.5,1.0,Speer
+237,468.0,Entire residential home,4.0,2.5,6.0,Stapleton
+238,49.0,Private room in residential home,1.0,1.0,1.0,Cheesman Park
+239,375.0,Entire residential home,5.0,3.0,6.0,Congress Park
+240,165.0,Entire townhouse,2.0,1.5,2.0,Rosedale
+241,129.0,Tiny house,1.0,1.0,1.0,Rosedale
+242,98.0,Entire guest suite,2.0,1.0,3.0,Washington Virginia Vale
+243,120.0,Private room in residential home,1.0,1.0,1.0,West Highland
+244,118.0,Entire bungalow,1.0,1.0,2.0,University Park
+245,135.0,Entire rental unit,2.0,1.0,2.0,North Capitol Hill
+246,65.0,Private room in residential home,1.0,1.0,1.0,Hale
+247,100.0,Entire rental unit,1.0,1.0,1.0,Hale
+248,85.0,Entire rental unit,1.0,1.0,0.0,Speer
+249,150.0,Entire residential home,2.0,1.0,3.0,North Park Hill
+250,150.0,Entire rental unit,2.0,1.0,2.0,Congress Park
+251,60.0,Entire guest suite,1.0,1.0,1.0,City Park West
+252,499.0,Entire residential home,2.0,3.5,2.0,Highland
+253,400.0,Entire residential home,3.0,2.5,5.0,Five Points
+254,129.0,Entire residential home,1.0,1.0,1.0,North Capitol Hill
+255,236.0,Entire residential home,2.0,2.5,2.0,Cole
+256,55.0,Private room in residential home,1.0,1.0,1.0,Cole
+257,119.0,Entire guesthouse,1.0,1.0,2.0,City Park West
+259,404.0,Entire residential home,4.0,2.0,4.0,Goldsmith
+260,146.0,Entire guesthouse,1.0,1.0,2.0,Clayton
+261,165.0,Entire residential home,2.0,2.0,2.0,Sloan Lake
+262,451.0,Entire townhouse,3.0,3.0,4.0,Five Points
+263,182.0,Entire rental unit,1.0,1.0,1.0,Capitol Hill
+264,59.0,Private room in residential home,2.0,1.5,3.0,Hampden
+265,399.0,Entire residential home,4.0,2.0,4.0,West Colfax
+266,578.0,Entire residential home,4.0,3.5,4.0,City Park West
+267,197.0,Entire residential home,2.0,1.0,2.0,Highland
+268,98.0,Entire residential home,2.0,1.0,2.0,Sloan Lake
+269,94.0,Private room in residential home,1.0,1.0,1.0,University
+270,138.0,Entire rental unit,1.0,1.0,1.0,Whittier
+271,79.0,Entire condominium (condo),2.0,1.0,2.0,South Park Hill
+272,125.0,Entire townhouse,2.0,1.0,3.0,Rosedale
+273,250.0,Private room in residential home,1.0,1.0,1.0,Country Club
+274,199.0,Entire residential home,5.0,2.0,6.0,Civic Center
+275,126.0,Entire townhouse,1.0,1.0,2.0,Highland
+276,93.0,Entire guest suite,1.0,1.0,2.0,Gateway - Green Valley Ranch
+277,70.0,Entire condominium (condo),1.0,1.0,2.0,Congress Park
+278,127.0,Entire rental unit,2.0,1.0,3.0,Speer
+279,90.0,Entire rental unit,1.0,1.0,2.0,Capitol Hill
+281,44.0,Private room in residential home,1.0,1.0,1.0,Barnum West
+282,39.0,Private room in residential home,1.0,1.0,1.0,Barnum West
+283,63.0,Entire residential home,2.0,2.0,2.0,West Highland
+284,75.0,Private room in townhouse,1.0,1.5,1.0,Sunnyside
+285,350.0,Entire residential home,3.0,3.0,3.0,Hampden South
+286,133.0,Entire townhouse,1.0,1.0,2.0,Highland
+287,130.0,Entire guest suite,2.0,1.0,2.0,Washington Park West
+288,275.0,Private room in townhouse,1.0,1.5,1.0,Sloan Lake
+289,34.0,Private room in residential home,1.0,1.0,1.0,Congress Park
+290,70.0,Entire condominium (condo),1.0,1.0,1.0,Highland
+291,138.0,Entire guest suite,1.0,1.0,1.0,Whittier
+292,98.0,Entire rental unit,1.0,1.0,1.0,Whittier
+293,118.0,Entire residential home,2.0,1.0,2.0,Jefferson Park
+294,56.0,Entire condominium (condo),1.0,1.0,1.0,Hale
+295,490.0,Castle,5.0,4.5,7.0,Speer
+296,120.0,Entire rental unit,1.0,1.0,1.0,Capitol Hill
+297,95.0,Entire condominium (condo),2.0,2.0,2.0,Congress Park
+298,120.0,Entire condominium (condo),2.0,2.0,2.0,CBD
+300,159.0,Entire bungalow,3.0,1.0,4.0,Sloan Lake
+301,249.0,Entire residential home,2.0,3.0,3.0,Jefferson Park
+302,115.0,Entire guesthouse,1.0,1.0,2.0,Highland
+304,60.0,Entire guest suite,1.0,1.0,1.0,Fort Logan
+305,310.0,Entire townhouse,3.0,1.0,2.0,Five Points
+306,130.0,Entire residential home,3.0,3.0,4.0,West Highland
+307,389.0,Entire bungalow,3.0,2.0,3.0,Rosedale
+308,118.0,Entire residential home,2.0,1.0,3.0,Five Points
+309,66.0,Private room in residential home,1.0,1.0,2.0,West Highland
+310,22.0,Shared room in residential home,1.0,1.0,2.0,West Highland
+311,415.0,Entire townhouse,3.0,2.0,4.0,North Capitol Hill
+312,110.0,Entire rental unit,2.0,2.0,2.0,Union Station
+313,47.0,Entire bungalow,1.0,1.0,1.0,Baker
+314,80.0,Entire guest suite,2.0,1.0,2.0,Sloan Lake
+315,370.0,Entire residential home,4.0,4.0,6.0,Sloan Lake
+316,160.0,Entire residential home,3.0,3.0,4.0,North Park Hill
+317,45.0,Private room in rental unit,1.0,1.0,1.0,Berkeley
+318,121.0,Entire guest suite,2.0,1.0,3.0,North Park Hill
+319,265.0,Entire townhouse,3.0,2.5,6.0,Stapleton
+320,167.0,Room in hostel,1.0,1.0,1.0,Five Points
+321,75.0,Entire rental unit,1.0,1.0,1.0,Whittier
+322,22.0,Shared room in residential home,1.0,1.0,2.0,West Highland
+323,47.0,Private room in residential home,1.0,1.0,1.0,Congress Park
+324,100.0,Entire guest suite,1.0,1.0,2.0,West Highland
+325,263.0,Entire loft,2.0,2.0,2.0,City Park West
+326,125.0,Entire townhouse,2.0,2.0,2.0,Hampden
+327,97.0,Entire loft,1.0,1.0,1.0,CBD
+329,91.0,Private room in townhouse,1.0,1.0,1.0,Highland
+330,865.0,Entire residential home,5.0,4.5,5.0,University Park
+331,73.0,Private room in condominium (condo),1.0,1.0,1.0,Windsor
+332,265.0,Entire townhouse,2.0,2.0,2.0,Jefferson Park
+333,24.0,Entire residential home,1.0,1.0,2.0,Lincoln Park
+334,61.0,Private room in residential home,1.0,1.0,1.0,Gateway - Green Valley Ranch
+335,82.0,Entire residential home,2.0,1.0,2.0,West Highland
+336,90.0,Private room in residential home,2.0,1.5,3.0,West Highland
+337,127.0,Entire rental unit,1.0,1.0,0.0,Baker
+338,879.0,Entire residential home,6.0,5.0,13.0,Capitol Hill
+340,228.0,Entire residential home,2.0,1.0,2.0,Jefferson Park
+341,55.0,Private room in residential home,1.0,1.0,1.0,Speer
+342,199.0,Entire residential home,3.0,1.0,4.0,Athmar Park
+343,99.0,Entire residential home,2.0,1.0,4.0,City Park
+344,65.0,Private room in guest suite,1.0,1.0,1.0,Barnum West
+345,102.0,Entire condominium (condo),2.0,1.0,2.0,City Park
+346,148.0,Entire residential home,2.0,1.0,2.0,Virginia Village
+347,84.0,Entire guest suite,1.0,1.0,1.0,Congress Park
+348,400.0,Entire bungalow,2.0,2.0,2.0,South Park Hill
+349,182.0,Entire residential home,1.0,1.0,1.0,Berkeley
+350,840.0,Entire residential home,6.0,3.0,8.0,Athmar Park
+352,126.0,Entire loft,1.0,1.0,1.0,CBD
+354,291.0,Entire townhouse,1.0,1.0,1.0,Highland
+355,141.0,Entire guesthouse,2.0,1.0,2.0,Highland
+356,75.0,Private room in rental unit,1.0,1.0,1.0,Capitol Hill
+357,399.0,Entire residential home,5.0,3.5,5.0,Hampden
+358,75.0,Entire residential home,2.0,1.0,2.0,Gateway - Green Valley Ranch
+359,115.0,Private room in residential home,1.0,1.5,1.0,City Park West
+360,267.0,Entire residential home,3.0,2.0,3.0,Capitol Hill
+361,164.0,Room in hostel,1.0,1.0,1.0,Five Points
+362,44.0,Room in hostel,1.0,2.0,6.0,Five Points
+363,46.0,Room in hostel,1.0,2.0,6.0,Union Station
+364,63.0,Room in hostel,1.0,2.0,4.0,Five Points
+365,171.0,Room in hostel,1.0,2.0,4.0,Five Points
+366,151.0,Entire residential home,2.0,1.0,2.0,Baker
+367,178.0,Entire condominium (condo),2.0,2.0,2.0,Cole
+368,115.0,Entire townhouse,2.0,1.0,2.0,Sloan Lake
+369,89.0,Entire residential home,2.0,1.0,2.0,Barnum
+370,107.0,Entire residential home,2.0,1.0,2.0,Highland
+371,137.0,Entire loft,2.0,1.5,2.0,Berkeley
+372,115.0,Entire residential home,3.0,1.5,3.0,Rosedale
+373,300.0,Entire residential home,2.0,3.0,2.0,Berkeley
+374,329.0,Entire residential home,3.0,3.0,2.0,Capitol Hill
+375,90.0,Entire guest suite,1.0,1.0,1.0,Capitol Hill
+376,160.0,Entire loft,1.0,1.0,1.0,Five Points
+377,74.0,Entire rental unit,1.0,1.0,1.0,Hampden South
+378,85.0,Entire rental unit,1.0,1.0,1.0,Highland
+379,35.0,Private room in residential home,1.0,1.5,1.0,University Hills
+380,111.0,Entire townhouse,1.0,1.0,2.0,Five Points
+381,164.0,Entire condominium (condo),2.0,1.0,2.0,Speer
+382,75.0,Private room in residential home,1.0,1.0,1.0,West Highland
+383,124.0,Entire guest suite,1.0,1.0,2.0,Five Points
+384,75.0,Private room in townhouse,1.0,1.0,1.0,Washington Virginia Vale
+385,112.0,Private room in residential home,1.0,1.0,4.0,South Park Hill
+386,91.0,Entire guest suite,1.0,1.0,1.0,Skyland
+387,165.0,Entire rental unit,2.0,1.0,2.0,West Highland
+389,143.0,Entire rental unit,1.0,1.0,1.0,Capitol Hill
+391,76.0,Private room in residential home,1.0,1.0,1.0,Montclair
+392,160.0,Entire bungalow,2.0,1.0,2.0,Sunnyside
+393,600.0,Entire rental unit,1.0,1.0,2.0,Hale
+394,400.0,Entire townhouse,2.0,2.5,2.0,Highland
+396,150.0,Entire rental unit,1.0,1.0,2.0,Highland
+397,170.0,Entire residential home,3.0,2.5,4.0,Lowry Field
+398,203.0,Entire residential home,2.0,2.0,2.0,West Colfax
+399,94.0,Entire rental unit,2.0,2.0,2.0,Five Points
+400,139.0,Entire townhouse,2.0,1.0,2.0,Five Points
+401,75.0,Private room in residential home,1.0,1.5,1.0,Capitol Hill
+402,92.0,Entire condominium (condo),2.0,2.5,2.0,Northeast Park Hill
+403,52.0,Private room in residential home,1.0,1.5,1.0,Clayton
+404,68.0,Private room in bungalow,1.0,1.0,1.0,Sunnyside
+405,101.0,Entire rental unit,1.0,1.0,1.0,City Park
+406,89.0,Entire condominium (condo),1.0,1.0,1.0,Capitol Hill
+407,475.0,Entire residential home,3.0,2.0,3.0,Whittier
+408,164.0,Entire rental unit,2.0,2.0,2.0,West Colfax
+409,142.0,Entire rental unit,2.0,1.0,3.0,Congress Park
+410,30.0,Private room in residential home,1.0,1.0,1.0,East Colfax
+411,88.0,Entire rental unit,1.0,1.0,2.0,Speer
+412,110.0,Entire condominium (condo),2.0,1.0,3.0,Union Station
+414,105.0,Entire residential home,1.0,1.0,1.0,Cheesman Park
+415,75.0,Entire condominium (condo),1.0,1.0,1.0,Cheesman Park
+416,481.0,Entire residential home,4.0,2.0,4.0,Capitol Hill
+417,65.0,Private room in bungalow,1.0,1.0,1.0,Montclair
+418,364.0,Entire townhouse,2.0,2.0,3.0,Jefferson Park
+419,77.0,Entire rental unit,1.0,1.0,1.0,Virginia Village
+421,88.0,Private room in residential home,1.0,1.0,2.0,Five Points
+422,179.0,Entire townhouse,1.0,1.0,1.0,Five Points
+423,225.0,Private room in bungalow,2.0,1.0,2.0,Berkeley
+424,195.0,Entire condominium (condo),1.0,1.0,1.0,CBD
+425,420.0,Entire residential home,3.0,2.0,5.0,City Park West
+426,160.0,Entire residential home,3.0,3.0,2.0,Washington Park
+427,70.0,Private room in townhouse,1.0,1.5,1.0,Lowry Field
+428,150.0,Entire residential home,3.0,2.0,4.0,Virginia Village
+429,53.0,Private room in residential home,1.0,1.0,1.0,Five Points
+430,126.0,Entire townhouse,2.0,1.0,2.0,Sloan Lake
+431,111.0,Entire cottage,1.0,1.0,1.0,West Highland
+432,57.0,Entire rental unit,1.0,1.0,1.0,South Park Hill
+433,170.0,Entire townhouse,2.0,1.0,2.0,Washington Park West
+434,80.0,Entire guesthouse,1.0,1.0,1.0,Stapleton
+435,415.0,Entire residential home,2.0,3.0,2.0,West Highland
+436,80.0,Entire residential home,1.0,1.0,2.0,Highland
+437,120.0,Entire residential home,2.0,1.0,2.0,Highland
+438,373.0,Entire residential home,3.0,2.0,3.0,North Park Hill
+439,155.0,Entire loft,1.0,1.0,2.0,Union Station
+440,102.0,Entire guest suite,1.0,1.0,1.0,City Park West
+441,579.0,Entire residential home,4.0,1.5,5.0,Cheesman Park
+442,74.0,Entire guest suite,1.0,1.0,1.0,Skyland
+443,155.0,Entire rental unit,2.0,1.0,2.0,Sunnyside
+444,446.0,Entire townhouse,2.0,2.5,2.0,Highland
+445,299.0,Entire rental unit,3.0,2.0,4.0,Cheesman Park
+446,328.0,Entire townhouse,2.0,2.5,3.0,Highland
+447,175.0,Entire loft,3.0,2.0,3.0,Lincoln Park
+448,159.0,Entire bungalow,2.0,2.0,2.0,North Park Hill
+449,60.0,Entire condominium (condo),1.0,1.0,1.0,City Park West
+450,55.0,Entire condominium (condo),1.0,1.0,1.0,CBD
+451,22.0,Shared room in residential home,1.0,1.0,2.0,West Highland
+452,46.0,Private room in townhouse,1.0,1.5,1.0,Villa Park
+453,195.0,Entire rental unit,3.0,1.0,3.0,Whittier
+454,95.0,Entire rental unit,1.0,1.0,1.0,Whittier
+455,205.0,Entire condominium (condo),1.0,1.0,1.0,CBD
+456,171.0,Entire condominium (condo),1.0,1.0,1.0,CBD
+458,65.0,Entire condominium (condo),1.0,1.0,1.0,Virginia Village
+459,87.0,Entire guest suite,2.0,1.0,2.0,Skyland
+460,160.0,Entire condominium (condo),2.0,2.0,2.0,CBD
+461,225.0,Entire residential home,1.0,1.0,2.0,Highland
+462,128.0,Entire rental unit,1.0,1.0,1.0,North Capitol Hill
+463,76.0,Entire residential home,1.0,1.0,1.0,Highland
+464,220.0,Entire guest suite,2.0,1.0,4.0,Cherry Creek
+465,182.0,Entire condominium (condo),1.0,1.0,1.0,CBD
+466,75.0,Entire rental unit,2.0,1.0,2.0,Congress Park
+467,115.0,Entire guesthouse,1.0,1.0,3.0,Platt Park
+468,182.0,Entire condominium (condo),1.0,1.0,1.0,CBD
+469,196.0,Entire condominium (condo),1.0,1.0,1.0,CBD
+470,112.0,Private room in residential home,1.0,1.0,1.0,Cole
+471,108.0,Private room in residential home,1.0,1.0,1.0,Hilltop
+472,135.0,Entire condominium (condo),1.0,1.0,1.0,CBD
+473,58.0,Private room in residential home,1.0,1.0,2.0,Washington Park West
+474,38.0,Private room in residential home,1.0,1.0,2.0,University Park
+475,168.0,Entire condominium (condo),1.0,1.0,1.0,Union Station
+477,726.0,Entire residential home,4.0,3.5,4.0,Sloan Lake
+478,170.0,Private room in residential home,1.0,1.0,2.0,Berkeley
+479,50.0,Private room in bungalow,1.0,1.0,1.0,Regis
+480,135.0,Entire rental unit,2.0,1.0,2.0,North Park Hill
+481,127.0,Entire townhouse,1.0,1.0,1.0,Whittier
+482,133.0,Entire residential home,3.0,1.5,3.0,Whittier
+483,361.0,Entire townhouse,3.0,2.5,3.0,Highland
+484,145.0,Entire rental unit,2.0,1.0,2.0,West Colfax
+485,70.0,Private room in residential home,1.0,1.0,1.0,Gateway - Green Valley Ranch
+486,74.0,Entire townhouse,2.0,1.0,3.0,Northeast Park Hill
+487,414.0,Entire townhouse,2.0,3.0,2.0,West Colfax
+488,115.0,Entire rental unit,2.0,1.0,2.0,Sloan Lake
+489,95.0,Private room in residential home,1.0,1.0,2.0,Gateway - Green Valley Ranch
+490,76.0,Entire guest suite,1.0,1.0,1.0,Berkeley
+491,114.0,Private room in bed and breakfast,1.0,1.0,1.0,Speer
+492,67.0,Entire rental unit,1.0,1.0,1.0,Whittier
+493,135.0,Entire residential home,1.0,1.5,2.0,South Park Hill
+494,305.0,Entire residential home,4.0,3.0,5.0,Clayton
+495,700.0,Shipping container,5.0,3.5,5.0,Chaffee Park
+496,106.0,Entire rental unit,1.0,1.0,2.0,West Highland
+497,95.0,Entire guest suite,1.0,1.0,1.0,Speer
+498,200.0,Entire residential home,6.0,3.5,6.0,Gateway - Green Valley Ranch
+499,156.0,Entire guest suite,1.0,1.0,1.0,Regis
+500,76.0,Entire rental unit,1.0,1.0,1.0,West Highland
+501,200.0,Entire residential home,3.0,3.0,4.0,Capitol Hill
+502,63.0,Private room in residential home,1.0,2.0,1.0,Five Points
+503,50.0,Private room in townhouse,1.0,1.0,1.0,Five Points
+504,102.0,Entire loft,2.0,2.0,2.0,CBD
+505,85.0,Private room in residential home,1.0,1.0,1.0,Whittier
+506,30.0,Private room in residential home,1.0,1.0,1.0,East Colfax
+507,400.0,Entire townhouse,3.0,3.0,3.0,Jefferson Park
+508,101.0,Entire rental unit,2.0,1.0,2.0,Sloan Lake
+509,150.0,Entire residential home,4.0,2.0,5.0,Sunnyside
+510,85.0,Entire residential home,1.0,1.0,1.0,Whittier
+511,105.0,Entire cottage,1.0,1.0,1.0,Platt Park
+512,70.0,Entire rental unit,1.0,1.0,1.0,Highland
+513,70.0,Entire rental unit,1.0,1.0,1.0,Highland
+514,261.0,Entire loft,2.0,1.5,2.0,Cole
+515,320.0,Entire townhouse,4.0,3.5,4.0,Stapleton
+516,60.0,Private room in residential home,1.0,1.0,1.0,Clayton
+517,250.0,Entire residential home,3.0,2.0,3.0,Baker
+518,391.0,Entire residential home,5.0,3.0,5.0,Whittier
+519,448.0,Entire residential home,4.0,2.0,6.0,Jefferson Park
+520,143.0,Entire guest suite,1.0,1.0,0.0,Five Points
+522,81.0,Entire condominium (condo),1.0,1.0,1.0,Washington Virginia Vale
+523,326.0,Entire loft,3.0,2.0,4.0,CBD
+524,49.0,Private room in rental unit,1.0,1.0,1.0,Hale
+525,87.0,Private room in villa,1.0,1.0,1.0,Highland
+526,71.0,Entire condominium (condo),1.0,1.0,1.0,Lowry Field
+527,150.0,Entire residential home,3.0,3.0,3.0,Gateway - Green Valley Ranch
+528,95.0,Entire residential home,2.0,1.0,2.0,Northeast Park Hill
+529,195.0,Entire bungalow,3.0,2.0,3.0,Highland
+530,38.0,Private room in residential home,1.0,1.5,1.0,Stapleton
+531,130.0,Entire loft,1.0,1.0,1.0,City Park West
+532,225.0,Entire loft,1.0,1.0,1.0,Highland
+533,811.0,Entire condominium (condo),3.0,2.5,4.0,CBD
+534,811.0,Entire condominium (condo),3.0,3.0,8.0,Civic Center
+535,45.0,Private room in residential home,1.0,1.0,1.0,Hale
+536,811.0,Entire condominium (condo),3.0,2.5,5.0,Civic Center
+538,75.0,Entire guest suite,1.0,1.0,2.0,Cory - Merrill
+539,98.0,Entire guesthouse,1.0,1.0,1.0,Cheesman Park
+540,87.0,Entire residential home,3.0,2.0,4.0,Skyland
+541,120.0,Entire residential home,1.0,1.0,1.0,Baker
+542,115.0,Private room in residential home,1.0,1.0,1.0,Berkeley
+543,55.0,Entire rental unit,1.0,1.0,1.0,Lincoln Park
+544,498.0,Entire townhouse,3.0,3.5,3.0,Civic Center
+545,242.0,Entire residential home,3.0,2.5,3.0,Belcaro
+547,134.0,Entire residential home,2.0,1.0,2.0,Montclair
+548,69.0,Entire residential home,1.0,2.0,2.0,Five Points
+549,195.0,Entire townhouse,2.0,2.5,2.0,Cherry Creek
+550,150.0,Private room in residential home,1.0,1.0,1.0,North Park Hill
+551,90.0,Entire guest suite,1.0,1.0,1.0,University
+552,125.0,Entire residential home,2.0,1.0,3.0,Regis
+553,182.0,Entire condominium (condo),2.0,2.5,4.0,Cole
+554,65.0,Entire guest suite,1.0,1.0,1.0,West Colfax
+555,208.0,Entire townhouse,2.0,1.5,2.0,Villa Park
+557,428.0,Entire residential home,8.0,4.0,11.0,City Park West
+558,600.0,Entire residential home,5.0,2.5,7.0,West Highland
+559,70.0,Entire rental unit,1.0,1.0,1.0,Highland
+560,129.0,Entire loft,2.0,1.0,2.0,Five Points
+561,325.0,Entire residential home,3.0,3.0,4.0,Sunnyside
+562,157.0,Entire condominium (condo),1.0,1.0,2.0,City Park West
+563,52.0,Entire guest suite,1.0,1.0,1.0,Cory - Merrill
+564,102.0,Entire guest suite,1.0,1.0,2.0,Whittier
+565,142.0,Entire rental unit,1.0,1.0,2.0,Cheesman Park
+566,75.0,Entire guest suite,1.0,1.0,2.0,Hale
+567,99.0,Private room in residential home,2.0,2.0,2.0,Washington Park West
+568,100.0,Entire condominium (condo),2.0,2.0,3.0,CBD
+569,182.0,Entire townhouse,1.0,1.0,1.0,Sloan Lake
+570,67.0,Entire condominium (condo),1.0,1.0,1.0,Capitol Hill
+571,400.0,Entire residential home,4.0,3.5,4.0,Whittier
+572,79.0,Entire condominium (condo),1.0,1.0,1.0,CBD
+573,230.0,Entire bungalow,3.0,2.0,3.0,Highland
+574,89.0,Private room in residential home,1.0,1.0,1.0,Northeast Park Hill
+575,79.0,Entire condominium (condo),1.0,1.0,1.0,CBD
+576,129.0,Entire residential home,2.0,2.5,6.0,Gateway - Green Valley Ranch
+577,213.0,Entire bungalow,2.0,2.0,2.0,Berkeley
+578,101.0,Private room in bed and breakfast,1.0,1.0,1.0,Speer
+579,400.0,Entire townhouse,3.0,4.0,3.0,Five Points
+580,137.0,Entire guesthouse,1.0,1.0,1.0,Cheesman Park
+581,253.0,Entire residential home,2.0,1.0,2.0,Lincoln Park
+582,120.0,Entire rental unit,2.0,1.0,2.0,Capitol Hill
+583,147.0,Entire guest suite,2.0,1.0,3.0,Sloan Lake
+584,152.0,Entire rental unit,2.0,1.0,2.0,Five Points
+585,70.0,Entire residential home,1.0,1.0,1.0,Virginia Village
+586,103.0,Entire rental unit,1.0,1.0,1.0,City Park
+587,129.0,Entire guesthouse,1.0,1.0,3.0,Regis
+588,225.0,Entire residential home,3.0,2.5,3.0,University Park
+589,88.0,Entire loft,1.0,1.0,1.0,Union Station
+590,145.0,Private room in residential home,1.0,1.5,1.0,Platt Park
+591,56.0,Private room in residential home,1.0,1.0,1.0,Northeast Park Hill
+593,400.0,Entire residential home,5.0,4.5,6.0,Hilltop
+595,103.0,Entire rental unit,1.0,1.0,1.0,Baker
+596,155.0,Entire condominium (condo),2.0,1.0,3.0,Jefferson Park
+598,40.0,Private room in loft,1.0,1.0,1.0,Speer
+599,249.0,Entire residential home,2.0,2.5,2.0,Stapleton
+600,150.0,Entire condominium (condo),1.0,1.0,1.0,Union Station
+601,199.0,Entire townhouse,3.0,1.0,4.0,Speer
+602,306.0,Entire residential home,5.0,2.5,5.0,City Park West
+603,127.0,Entire residential home,2.0,1.0,3.0,Ruby Hill
+604,155.0,Entire loft,1.0,1.0,1.0,Union Station
+605,370.0,Entire residential home,3.0,2.0,3.0,Five Points
+607,64.0,Entire rental unit,1.0,1.0,1.0,West Colfax
+608,74.0,Private room in condominium (condo),1.0,1.0,1.0,Belcaro
+609,95.0,Entire residential home,1.0,1.0,1.0,Sunnyside
+610,177.0,Entire condominium (condo),2.0,2.0,2.0,Union Station
+611,87.0,Entire guest suite,1.0,1.0,1.0,Chaffee Park
+612,132.0,Entire guesthouse,1.0,1.0,1.0,Sunnyside
+613,329.0,Entire residential home,4.0,2.0,7.0,Baker
+614,50.0,Private room in residential home,1.0,1.0,0.0,Cole
+615,150.0,Entire residential home,2.0,1.0,2.0,Northeast Park Hill
+616,185.0,Entire guesthouse,1.0,1.0,2.0,Highland
+617,242.0,Entire townhouse,1.0,1.5,3.0,Sloan Lake
+618,115.0,Entire rental unit,1.0,1.0,1.0,Sunnyside
+619,60.0,Private room in townhouse,1.0,1.5,1.0,Five Points
+620,75.0,Entire townhouse,2.0,1.0,2.0,Washington Park West
+621,339.0,Entire townhouse,3.0,2.0,8.0,Jefferson Park
+622,134.0,Entire condominium (condo),1.0,1.0,1.0,Union Station
+623,65.0,Private room in residential home,1.0,1.0,1.0,Cole
+625,90.0,Private room in residential home,1.0,1.0,1.0,Northeast Park Hill
+626,99.0,Entire rental unit,1.0,1.0,1.0,West Highland
+627,120.0,Entire condominium (condo),1.0,1.0,1.0,City Park
+628,153.0,Entire rental unit,1.0,1.0,1.0,Five Points
+629,87.0,Private room in townhouse,1.0,1.0,1.0,City Park West
+630,89.0,Private room in residential home,1.0,1.0,1.0,Gateway - Green Valley Ranch
+631,325.0,Entire residential home,4.0,3.5,4.0,Sloan Lake
+632,180.0,Entire condominium (condo),1.0,1.0,1.0,CBD
+633,218.0,Entire townhouse,2.0,2.5,2.0,Five Points
+634,222.0,Entire condominium (condo),2.0,2.0,2.0,Cheesman Park
+635,90.0,Entire guesthouse,2.0,1.0,2.0,Five Points
+636,262.0,Entire townhouse,2.0,1.5,3.0,Five Points
+637,207.0,Entire bungalow,3.0,2.0,3.0,University
+639,80.0,Entire residential home,1.0,1.0,1.0,City Park West
+640,86.0,Entire guest suite,1.0,1.0,1.0,University
+641,63.0,Entire guest suite,2.0,1.0,2.0,Rosedale
+642,102.0,Entire residential home,2.0,1.0,2.0,University Hills
+643,270.0,Entire residential home,3.0,2.0,4.0,Berkeley
+644,778.0,Entire residential home,2.0,1.0,3.0,University Hills
+645,58.0,Private room in residential home,1.0,1.0,1.0,Baker
+646,128.0,Private room in bed and breakfast,1.0,1.0,1.0,Baker
+647,110.0,Private room in bungalow,1.0,1.0,1.0,Whittier
+648,115.0,Entire rental unit,2.0,1.0,3.0,Capitol Hill
+650,50.0,Private room in residential home,1.0,1.0,1.0,Whittier
+651,112.0,Entire guest suite,1.0,1.0,2.0,Barnum
+652,49.0,Private room in residential home,1.0,1.5,1.0,Gateway - Green Valley Ranch
+654,69.0,Entire condominium (condo),1.0,1.0,1.0,Capitol Hill
+655,406.0,Entire residential home,3.0,2.0,3.0,Cherry Creek
+656,101.0,Entire guest suite,1.0,1.0,1.0,Overland
+657,89.0,Entire rental unit,2.0,1.0,2.0,Cheesman Park
+658,129.0,Entire guest suite,2.0,1.0,3.0,Berkeley
+659,84.0,Entire guest suite,1.0,1.0,1.0,Whittier
+660,85.0,Entire townhouse,2.0,2.5,2.0,Indian Creek
+661,56.0,Private room in bungalow,1.0,1.0,1.0,Cole
+662,85.0,Entire guest suite,1.0,1.0,1.0,Hale
+663,175.0,Entire bungalow,3.0,2.0,3.0,Globeville
+664,50.0,Private room in residential home,2.0,1.0,2.0,Regis
+665,246.0,Entire residential home,5.0,3.5,5.0,Stapleton
+666,118.0,Entire townhouse,2.0,1.0,2.0,Sloan Lake
+667,173.0,Entire rental unit,1.0,1.0,1.0,Capitol Hill
+668,175.0,Entire residential home,1.0,1.0,2.0,Baker
+669,900.0,Entire residential home,5.0,4.5,5.0,Sloan Lake
+670,202.0,Entire bungalow,2.0,1.0,2.0,Villa Park
+671,24.0,Private room in condominium (condo),1.0,1.0,1.0,Hampden
+672,148.0,Entire guest suite,1.0,1.0,1.0,Sunnyside
+673,132.0,Entire rental unit,1.0,1.0,1.0,North Capitol Hill
+674,536.0,Entire residential home,5.0,2.0,8.0,Highland
+675,99.0,Entire residential home,2.0,1.0,3.0,South Park Hill
+676,230.0,Entire residential home,2.0,2.0,3.0,Highland
+677,129.0,Entire residential home,3.0,2.5,3.0,Gateway - Green Valley Ranch
+678,149.0,Entire residential home,2.0,2.0,2.0,Athmar Park
+679,228.0,Entire condominium (condo),2.0,1.0,2.0,Cheesman Park
+680,206.0,Entire rental unit,3.0,2.0,3.0,Union Station
+681,115.0,Entire rental unit,2.0,1.0,2.0,Capitol Hill
+682,77.0,Entire rental unit,2.0,1.0,2.0,Clayton
+683,278.0,Entire residential home,3.0,3.0,3.0,Whittier
+684,60.0,Private room in townhouse,2.0,1.0,3.0,Platt Park
+685,293.0,Entire residential home,2.0,1.5,2.0,West Highland
+686,289.0,Entire residential home,3.0,2.0,3.0,Baker
+687,750.0,Entire residential home,2.0,2.5,2.0,Highland
+688,125.0,Entire guest suite,1.0,1.0,1.0,Five Points
+689,125.0,Entire rental unit,1.0,1.0,1.0,Lincoln Park
+690,158.0,Entire guest suite,1.0,1.0,1.0,Capitol Hill
+692,300.0,Entire townhouse,2.0,2.5,2.0,Five Points
+693,74.0,Entire guest suite,1.0,1.0,1.0,Sloan Lake
+694,116.0,Entire guest suite,1.0,1.0,3.0,Platt Park
+695,93.0,Entire condominium (condo),2.0,1.0,2.0,Capitol Hill
+696,88.0,Entire condominium (condo),2.0,1.0,2.0,Five Points
+697,153.0,Entire rental unit,1.0,1.0,1.0,Congress Park
+698,75.0,Private room in residential home,1.0,1.0,1.0,Virginia Village
+699,118.0,Entire residential home,3.0,2.0,3.0,Whittier
+700,350.0,Entire loft,1.0,1.0,1.0,Union Station
+701,71.0,Private room in residential home,1.0,1.0,1.0,University
+702,174.0,Private room in townhouse,1.0,1.5,3.0,West Colfax
+703,75.0,Private room in residential home,1.0,1.0,1.0,Stapleton
+704,119.0,Entire townhouse,2.0,1.0,3.0,Washington Park West
+705,218.0,Entire guesthouse,2.0,1.0,2.0,Whittier
+706,85.0,Entire townhouse,1.0,1.0,2.0,Baker
+707,79.0,Entire condominium (condo),1.0,1.0,2.0,CBD
+708,439.0,Entire townhouse,2.0,1.5,5.0,West Colfax
+709,350.0,Entire residential home,3.0,2.0,3.0,Jefferson Park
+711,132.0,Entire guesthouse,1.0,1.0,2.0,West Highland
+713,101.0,Entire guest suite,1.0,1.0,1.0,Capitol Hill
+714,110.0,Entire residential home,1.0,1.0,2.0,Lincoln Park
+715,90.0,Entire condominium (condo),2.0,1.0,2.0,Five Points
+716,99.0,Entire condominium (condo),2.0,1.0,2.0,Union Station
+717,155.0,Entire residential home,1.0,1.0,2.0,Berkeley
+718,224.0,Entire townhouse,2.0,2.0,2.0,Five Points
+719,155.0,Entire guest suite,2.0,1.0,2.0,Cheesman Park
+721,125.0,Entire townhouse,2.0,1.0,2.0,Highland
+722,79.0,Private room in residential home,1.0,1.0,1.0,Platt Park
+723,107.0,Entire residential home,1.0,1.0,1.0,Platt Park
+724,260.0,Entire residential home,4.0,2.0,5.0,Highland
+725,50.0,Entire rental unit,1.0,1.0,1.0,Baker
+726,120.0,Entire residential home,3.0,1.0,3.0,Washington Park
+727,99.0,Entire townhouse,2.0,1.0,2.0,Clayton
+728,164.0,Entire guesthouse,1.0,1.0,2.0,Berkeley
+729,60.0,Entire condominium (condo),1.0,1.0,1.0,City Park West
+730,172.0,Entire residential home,2.0,1.0,2.0,Lincoln Park
+731,100.0,Entire condominium (condo),1.0,1.0,1.0,CBD
+732,70.0,Private room in guest suite,2.0,1.0,2.0,Speer
+733,277.0,Entire townhouse,2.0,2.0,2.0,Baker
+734,711.0,Entire residential home,6.0,3.0,6.0,Sloan Lake
+735,625.0,Entire townhouse,2.0,1.0,2.0,Sunnyside
+736,132.0,Entire guesthouse,1.0,1.0,2.0,Congress Park
+737,406.0,Entire residential home,3.0,2.5,3.0,Stapleton
+738,238.0,Entire bungalow,2.0,1.0,2.0,Chaffee Park
+739,413.0,Entire townhouse,2.0,2.5,2.0,City Park West
+740,73.0,Entire townhouse,1.0,1.0,1.0,Chaffee Park
+741,308.0,Entire townhouse,3.0,3.0,5.0,Five Points
+742,87.0,Entire guest suite,1.0,1.0,1.0,Lincoln Park
+743,319.0,Entire rental unit,3.0,2.0,5.0,City Park West
+744,235.0,Entire bungalow,4.0,2.0,4.0,West Colfax
+745,60.0,Entire condominium (condo),1.0,1.0,1.0,Hale
+746,35.0,Private room in bungalow,1.0,1.0,1.0,Clayton
+748,33.0,Private room in bungalow,1.0,1.0,1.0,Clayton
+749,50.0,Private room in residential home,1.0,1.0,1.0,Montbello
+750,90.0,Private room in residential home,2.0,1.0,2.0,Gateway - Green Valley Ranch
+751,100.0,Entire residential home,3.0,1.0,4.0,Sunnyside
+752,135.0,Entire guesthouse,1.0,1.0,2.0,Speer
+753,399.0,Entire condominium (condo),2.0,1.0,2.0,Cheesman Park
+754,72.0,Private room in residential home,1.0,1.0,1.0,Baker
+755,95.0,Entire cottage,1.0,1.0,1.0,Berkeley
+756,113.0,Entire guesthouse,1.0,1.0,2.0,Platt Park
+757,195.0,Entire rental unit,1.0,1.0,1.0,Union Station
+758,194.0,Entire rental unit,1.0,1.0,1.0,CBD
+759,98.0,Entire guesthouse,1.0,1.0,2.0,Cole
+760,130.0,Entire residential home,1.0,1.0,1.0,Sunnyside
+761,218.0,Entire guesthouse,2.0,1.0,2.0,Capitol Hill
+762,76.0,Entire rental unit,1.0,1.0,2.0,Baker
+763,79.0,Entire rental unit,1.0,1.0,2.0,Baker
+764,129.0,Entire residential home,2.0,1.0,3.0,Cory - Merrill
+765,105.0,Entire condominium (condo),2.0,1.5,3.0,CBD
+766,48.0,Entire guesthouse,1.0,1.0,1.0,Whittier
+767,70.0,Private room in bungalow,1.0,1.0,1.0,Washington Park
+768,125.0,Private room in guest suite,1.0,2.0,1.0,Washington Park West
+769,64.0,Entire guest suite,1.0,1.0,1.0,South Park Hill
+770,25.0,Private room in residential home,1.0,1.5,1.0,University Hills
+771,110.0,Entire condominium (condo),1.0,1.0,1.0,Union Station
+772,125.0,Private room in guest suite,1.0,1.0,1.0,Washington Park West
+773,338.0,Entire residential home,4.0,2.0,5.0,West Colfax
+774,245.0,Entire residential home,3.0,2.0,3.0,West Highland
+775,286.0,Entire townhouse,2.0,2.0,1.0,Capitol Hill
+776,350.0,Entire loft,1.0,1.0,1.0,CBD
+777,214.0,Entire townhouse,2.0,2.0,2.0,Sunnyside
+778,300.0,Private room in residential home,1.0,1.0,1.0,Cory - Merrill
+779,177.0,Entire loft,1.0,1.0,2.0,Whittier
+780,119.0,Entire guest suite,2.0,1.0,2.0,West Highland
+782,136.0,Entire serviced apartment,1.0,1.0,1.0,Union Station
+783,100.0,Entire guesthouse,1.0,1.0,1.0,Regis
+784,50.0,Private room in townhouse,1.0,1.0,1.0,DIA
+785,250.0,Entire loft,2.0,1.5,2.0,Five Points
+786,84.0,Private room in guest suite,1.0,2.0,1.0,City Park West
+787,355.0,Entire townhouse,2.0,3.0,2.0,Jefferson Park
+788,150.0,Private room in residential home,2.0,2.0,12.0,Cole
+789,130.0,Entire condominium (condo),1.0,1.0,1.0,CBD
+790,80.0,Entire condominium (condo),1.0,1.0,1.0,Virginia Village
+791,135.0,Entire condominium (condo),2.0,2.0,2.0,CBD
+792,174.0,Entire residential home,2.0,2.5,2.0,West Colfax
+793,227.0,Entire condominium (condo),1.0,1.0,1.0,CBD
+794,309.0,Entire residential home,3.0,2.0,3.0,West Highland
+795,200.0,Entire residential home,2.0,2.0,2.0,Villa Park
+796,55.0,Private room in bungalow,1.0,1.0,2.0,Sunnyside
+797,142.0,Entire residential home,2.0,2.0,2.0,West Highland
+798,169.0,Entire townhouse,2.0,1.0,3.0,Speer
+799,83.0,Entire guest suite,1.0,1.0,2.0,Sloan Lake
+800,72.0,Entire rental unit,2.0,1.0,2.0,Gateway - Green Valley Ranch
+801,92.0,Entire rental unit,2.0,2.0,2.0,Washington Park West
+802,120.0,Entire condominium (condo),2.0,1.0,2.0,Capitol Hill
+803,80.0,Entire rental unit,1.0,1.0,1.0,Capitol Hill
+804,71.0,Entire residential home,1.0,1.0,1.0,Stapleton
+805,225.0,Entire residential home,4.0,2.0,4.0,Virginia Village
+806,122.0,Entire townhouse,2.0,1.0,2.0,Sloan Lake
+807,51.0,Private room in residential home,1.0,1.0,1.0,Clayton
+808,144.0,Entire rental unit,1.0,1.0,1.0,Five Points
+809,335.0,Private room in townhouse,2.0,1.5,5.0,West Colfax
+810,70.0,Entire rental unit,1.0,1.0,1.0,Capitol Hill
+811,99.0,Entire rental unit,2.0,1.0,2.0,Ruby Hill
+812,90.0,Private room in condominium (condo),1.0,1.0,1.0,CBD
+813,95.0,Private room in condominium (condo),1.0,1.0,1.0,CBD
+814,40.0,Private room in condominium (condo),1.0,1.0,1.0,Hampden South
+815,149.0,Entire townhouse,1.0,1.5,1.0,Five Points
+816,89.0,Entire guest suite,1.0,1.0,1.0,Congress Park
+817,106.0,Entire bungalow,1.0,1.0,1.0,Berkeley
+818,615.0,Entire bungalow,4.0,2.0,6.0,Rosedale
+819,132.0,Entire townhouse,1.0,1.0,2.0,Jefferson Park
+820,50.0,Private room in residential home,1.0,1.0,1.0,Mar Lee
+821,135.0,Entire residential home,3.0,1.0,3.0,City Park West
+822,120.0,Entire residential home,1.0,1.0,2.0,Clayton
+823,457.0,Entire townhouse,3.0,2.5,6.0,Five Points
+824,179.0,Entire rental unit,1.0,1.0,3.0,Speer
+825,408.0,Entire bungalow,3.0,2.0,3.0,City Park
+827,91.0,Entire townhouse,2.0,1.0,2.0,Northeast Park Hill
+828,115.0,Entire townhouse,1.0,1.0,1.0,Sunnyside
+829,78.0,Entire residential home,2.0,1.0,2.0,Barnum
+830,103.0,Entire guest suite,1.0,1.0,1.0,East Colfax
+831,131.0,Entire bungalow,2.0,1.0,3.0,West Colfax
+832,391.0,Entire residential home,4.0,3.5,8.0,University Park
+833,100.0,Private room in townhouse,1.0,1.0,1.0,Highland
+834,85.0,Entire townhouse,2.0,2.5,3.0,Highland
+835,200.0,Entire rental unit,2.0,2.0,3.0,Union Station
+836,79.0,Entire guest suite,1.0,1.0,2.0,Platt Park
+837,199.0,Entire residential home,2.0,1.0,3.0,Whittier
+838,119.0,Entire rental unit,1.0,1.0,2.0,Speer
+839,80.0,Private room in townhouse,1.0,1.0,1.0,Chaffee Park
+840,56.0,Private room in condominium (condo),1.0,1.0,1.0,Capitol Hill
+841,74.0,Entire guest suite,1.0,1.0,1.0,Baker
+842,129.0,Entire rental unit,1.0,1.0,1.0,South Park Hill
+843,68.0,Entire guest suite,1.0,1.0,1.0,Athmar Park
+844,811.0,Entire condominium (condo),3.0,2.5,8.0,CBD
+845,86.0,Entire rental unit,1.0,1.0,2.0,Hampden South
+847,90.0,Entire residential home,3.0,1.0,3.0,Gateway - Green Valley Ranch
+848,195.0,Entire guesthouse,1.0,1.0,2.0,Whittier
+849,124.0,Entire loft,1.0,1.0,1.0,Cole
+850,177.0,Entire condominium (condo),2.0,2.0,2.0,Belcaro
+851,183.0,Entire residential home,1.0,1.0,1.0,Berkeley
+852,80.0,Private room,1.0,1.0,1.0,CBD
+853,31.0,Private room in townhouse,1.0,1.5,0.0,Mar Lee
+854,30.0,Private room in townhouse,1.0,1.5,0.0,Ruby Hill
+855,199.0,Entire guest suite,3.0,1.0,3.0,West Highland
+856,125.0,Entire townhouse,2.0,1.5,2.0,Stapleton
+857,89.0,Private room in loft,1.0,1.0,1.0,Five Points
+858,75.0,Entire loft,1.0,1.0,1.0,Hilltop
+859,210.0,Entire residential home,3.0,2.0,3.0,Highland
+860,84.0,Entire townhouse,1.0,1.5,1.0,Stapleton
+861,105.0,Entire rental unit,1.0,1.0,1.0,Hale
+862,80.0,Entire townhouse,1.0,1.0,2.0,Highland
+863,71.0,Entire rental unit,1.0,1.0,1.0,Capitol Hill
+864,350.0,Entire residential home,5.0,4.5,6.0,West Colfax
+865,300.0,Entire residential home,2.0,1.0,2.0,Berkeley
+866,229.0,Entire residential home,1.0,1.5,1.0,Country Club
+867,250.0,Entire residential home,2.0,1.0,2.0,South Park Hill
+868,89.0,Entire rental unit,1.0,1.0,1.0,Five Points
+869,33.0,Private room in residential home,1.0,1.0,1.0,West Highland
+871,195.0,Entire residential home,3.0,1.0,3.0,Congress Park
+872,131.0,Entire residential home,2.0,1.0,2.0,Cole
+873,158.0,Entire guest suite,1.0,1.0,1.0,Sunnyside
+874,79.0,Entire condominium (condo),1.0,1.0,1.0,Cheesman Park
+875,110.0,Entire guest suite,1.0,1.0,1.0,Congress Park
+876,98.0,Entire guesthouse,1.0,1.0,2.0,Westwood
+877,105.0,Private room in residential home,1.0,1.5,1.0,Gateway - Green Valley Ranch
+878,162.0,Entire guesthouse,1.0,1.0,2.0,Whittier
+879,85.0,Entire residential home,1.0,1.0,3.0,Highland
+880,56.0,Entire guest suite,1.0,1.0,1.0,Gateway - Green Valley Ranch
+881,97.0,Entire guesthouse,1.0,1.0,1.0,West Highland
+882,99.0,Entire condominium (condo),2.0,1.0,2.0,Cheesman Park
+883,75.0,Entire residential home,1.0,1.0,1.0,Five Points
+884,41.0,Private room in residential home,1.0,1.5,1.0,Montbello
+885,874.0,Entire residential home,6.0,3.0,8.0,Athmar Park
+886,58.0,Private room in residential home,1.0,2.0,1.0,Five Points
+887,360.0,Entire residential home,4.0,3.0,4.0,Bear Valley
+888,100.0,Private room in residential home,1.0,1.5,1.0,Gateway - Green Valley Ranch
+889,93.0,Entire guest suite,1.0,1.0,0.0,Five Points
+890,79.0,Entire rental unit,2.0,1.0,2.0,Cole
+891,169.0,Entire guest suite,2.0,1.0,4.0,Gateway - Green Valley Ranch
+892,55.0,Private room in residential home,1.0,1.0,1.0,South Park Hill
+893,72.0,Entire rental unit,1.0,1.0,1.0,Highland
+894,55.0,Private room in residential home,1.0,1.0,1.0,East Colfax
+895,142.0,Entire residential home,1.0,1.0,1.0,Platt Park
+896,125.0,Entire townhouse,3.0,3.5,3.0,West Colfax
+897,140.0,Entire guest suite,1.0,1.0,1.0,Platt Park
+898,349.0,Entire residential home,5.0,3.5,9.0,Barnum West
+901,150.0,Entire condominium (condo),2.0,2.0,2.0,Stapleton
+902,65.0,Entire condominium (condo),1.0,1.0,1.0,Hale
+903,393.0,Entire residential home,3.0,1.5,4.0,Highland
+904,76.0,Entire guest suite,1.0,1.0,1.0,City Park
+905,231.0,Room in hostel,1.0,1.0,1.0,Capitol Hill
+906,79.0,Room in hostel,1.0,1.5,0.0,Capitol Hill
+907,425.0,Entire residential home,4.0,4.5,4.0,West Colfax
+908,80.0,Room in hostel,1.0,1.0,1.0,Capitol Hill
+909,115.0,Entire rental unit,1.0,1.0,2.0,Union Station
+910,605.0,Entire townhouse,3.0,3.5,3.0,Highland
+911,929.0,Entire serviced apartment,1.0,1.0,1.0,CBD
+912,250.0,Entire townhouse,2.0,3.0,3.0,Jefferson Park
+913,44.0,Entire rental unit,1.0,1.0,1.0,Cole
+914,99.0,Entire rental unit,1.0,1.0,2.0,Five Points
+915,119.0,Entire townhouse,2.0,2.5,2.0,West Colfax
+916,101.0,Entire guest suite,1.0,1.0,1.0,City Park
+918,104.0,Entire rental unit,1.0,1.0,1.0,Washington Park
+919,70.0,Entire rental unit,2.0,1.0,2.0,Barnum
+920,125.0,Private room in rental unit,2.0,1.0,3.0,West Colfax
+921,132.0,Entire bungalow,1.0,1.0,1.0,Chaffee Park
+922,194.0,Entire guest suite,1.0,1.0,1.0,Overland
+923,100.0,Entire townhouse,2.0,2.0,2.0,DIA
+924,100.0,Entire rental unit,1.0,1.0,4.0,CBD
+925,149.0,Entire condominium (condo),1.0,1.0,1.0,Capitol Hill
+926,199.0,Entire bungalow,2.0,2.0,2.0,West Highland
+927,155.0,Entire residential home,3.0,2.0,4.0,Sloan Lake
+928,141.0,Entire rental unit,2.0,1.0,2.0,Sunnyside
+929,520.0,Entire residential home,5.0,3.5,8.0,Sunnyside
+930,112.0,Entire rental unit,2.0,1.0,2.0,Speer
+931,119.0,Entire guest suite,2.0,1.0,2.0,Cole
+932,404.0,Entire residential home,4.0,3.0,4.0,Capitol Hill
+933,45.0,Private room in residential home,1.0,1.0,1.0,Valverde
+934,173.0,Entire condominium (condo),1.0,1.0,1.0,CBD
+935,399.0,Entire residential home,6.0,3.0,9.0,Highland
+936,93.0,Entire guesthouse,1.0,1.0,2.0,Cole
+937,47.0,Private room in townhouse,1.0,1.5,1.0,Five Points
+938,23.0,Private room in townhouse,1.0,1.0,1.0,Windsor
+939,695.0,Entire townhouse,3.0,3.0,3.0,Skyland
+940,196.0,Entire rental unit,1.0,1.0,2.0,North Park Hill
+941,100.0,Entire rental unit,2.0,1.0,2.0,Sloan Lake
+942,79.0,Entire rental unit,2.0,1.0,2.0,Cole
+943,105.0,Entire rental unit,1.0,1.0,1.0,Washington Park
+944,99.0,Private room in residential home,1.0,1.0,2.0,Berkeley
+945,31.0,Private room in townhouse,2.0,1.0,2.0,Ruby Hill
+946,153.0,Entire condominium (condo),2.0,2.0,3.0,Union Station
+947,106.0,Entire rental unit,1.0,1.0,2.0,North Park Hill
+948,213.0,Entire bungalow,3.0,2.0,3.0,Sunnyside
+949,172.0,Entire guesthouse,2.0,1.0,2.0,Five Points
+950,75.0,Entire guest suite,1.0,1.0,1.0,Sunnyside
+951,150.0,Entire residential home,2.0,2.0,2.0,Highland
+952,72.0,Entire residential home,1.0,1.0,1.0,Highland
+953,256.0,Entire residential home,4.0,3.5,9.0,Five Points
+954,60.0,Private room in residential home,2.0,1.0,1.0,Hampden South
+955,354.0,Entire residential home,5.0,3.0,6.0,Sloan Lake
+956,180.0,Entire condominium (condo),1.0,1.0,1.0,CBD
+957,450.0,Entire townhouse,2.0,2.5,3.0,West Colfax
+958,122.0,Entire rental unit,1.0,1.0,2.0,Union Station
+959,260.0,Entire residential home,3.0,1.5,6.0,Congress Park
+960,62.0,Private room in residential home,1.0,1.0,1.0,Speer
+961,71.0,Room in hostel,1.0,17.0,1.0,Capitol Hill
+962,542.0,Entire residential home,4.0,4.0,6.0,Congress Park
+963,89.0,Room in hostel,1.0,17.0,1.0,Capitol Hill
+964,115.0,Entire residential home,1.0,1.0,2.0,Gateway - Green Valley Ranch
+965,222.0,Entire condominium (condo),2.0,2.0,2.0,CBD
+966,163.0,Entire condominium (condo),1.0,1.0,1.0,CBD
+967,152.0,Entire rental unit,2.0,1.0,2.0,West Highland
+968,89.0,Entire guesthouse,1.0,1.0,1.0,Berkeley
+969,85.0,Entire rental unit,2.0,1.0,2.0,Cole
+970,389.0,Entire townhouse,3.0,3.5,4.0,Highland
+971,122.0,Entire residential home,3.0,1.5,5.0,North Capitol Hill
+972,136.0,Entire townhouse,1.0,1.0,1.0,Highland
+973,110.0,Entire guesthouse,1.0,1.0,1.0,City Park West
+974,570.0,Entire residential home,5.0,3.0,6.0,Bear Valley
+975,60.0,Entire rental unit,1.0,1.0,1.0,Hale
+977,82.0,Private room in residential home,2.0,1.0,2.0,Baker
+978,95.0,Entire residential home,3.0,1.0,3.0,Mar Lee
+980,75.0,Private room in guest suite,2.0,1.0,2.0,Washington Park West
+981,110.0,Entire guest suite,1.0,1.0,3.0,Highland
+982,63.0,Entire townhouse,1.0,1.0,2.0,Chaffee Park
+983,148.0,Private room in townhouse,1.0,1.0,1.0,Lincoln Park
+984,500.0,Private room in residential home,1.0,1.0,1.0,Hampden South
+986,99.0,Entire guest suite,1.0,1.0,2.0,Speer
+987,62.0,Private room in residential home,1.0,1.0,2.0,Harvey Park South
+988,130.0,Private room in condominium (condo),1.0,1.0,1.0,Five Points
+989,383.0,Entire residential home,4.0,3.0,6.0,Five Points
+990,73.0,Private room in residential home,2.0,1.0,2.0,Gateway - Green Valley Ranch
+991,79.0,Private room in townhouse,1.0,1.0,1.0,City Park West
+992,595.0,Entire condominium (condo),2.0,1.0,2.0,Five Points
+993,135.0,Entire condominium (condo),1.0,1.0,1.0,City Park West
+994,198.0,Entire condominium (condo),1.0,1.0,1.0,Highland
+995,150.0,Entire condominium (condo),1.0,2.0,1.0,Civic Center
+996,139.0,Entire condominium (condo),1.0,1.0,2.0,Union Station
+997,230.0,Entire residential home,2.0,1.0,3.0,Lincoln Park
+998,199.0,Entire residential home,2.0,1.0,3.0,West Highland
+999,215.0,Entire residential home,3.0,2.0,3.0,University Hills
+1000,81.0,Entire guest suite,1.0,1.0,2.0,City Park
+1002,69.0,Private room in residential home,1.0,1.0,1.0,Northeast Park Hill
+1006,190.0,Entire residential home,3.0,2.0,5.0,North Park Hill
+1007,55.0,Private room in townhouse,1.0,1.5,1.0,Indian Creek
+1008,177.0,Entire residential home,1.0,1.0,1.0,Belcaro
+1009,45.0,Private room in residential home,1.0,1.0,1.0,Gateway - Green Valley Ranch
+1010,116.0,Entire condominium (condo),2.0,1.0,2.0,Speer
+1011,95.0,Entire townhouse,1.0,1.0,1.0,Skyland
+1012,148.0,Entire rental unit,1.0,1.0,2.0,Five Points
+1013,146.0,Entire residential home,2.0,1.0,2.0,Platt Park
+1014,234.0,Entire residential home,3.0,2.0,3.0,Congress Park
+1016,195.0,Entire rental unit,1.0,1.0,1.0,City Park
+1017,237.0,Entire townhouse,3.0,3.5,3.0,Rosedale
+1018,75.0,Private room in residential home,2.0,1.0,2.0,Gateway - Green Valley Ranch
+1019,76.0,Entire guesthouse,1.0,1.0,1.0,Barnum
+1020,60.0,Private room in residential home,1.0,1.0,1.0,University Hills
+1021,139.0,Entire townhouse,2.0,1.0,4.0,Jefferson Park
+1022,150.0,Entire rental unit,1.0,1.0,1.0,North Capitol Hill
+1023,61.0,Entire rental unit,1.0,1.0,1.0,North Park Hill
+1024,739.0,Entire townhouse,5.0,3.5,8.0,West Colfax
+1025,55.0,Private room in residential home,1.0,1.0,1.0,Sunnyside
+1026,100.0,Entire residential home,3.0,2.0,3.0,Northeast Park Hill
+1027,223.0,Entire residential home,2.0,1.0,2.0,Baker
+1028,104.0,Entire residential home,1.0,1.0,2.0,West Highland
+1029,427.0,Entire residential home,4.0,3.5,5.0,Stapleton
+1030,399.0,Entire residential home,6.0,4.0,8.0,Congress Park
+1031,128.0,Entire rental unit,2.0,1.0,2.0,West Colfax
+1032,250.0,Entire residential home,4.0,3.0,5.0,Sunnyside
+1033,106.0,Entire townhouse,2.0,1.0,2.0,Westwood
+1034,49.0,Private room in residential home,1.0,1.0,1.0,University Hills
+1035,134.0,Entire guest suite,1.0,1.0,2.0,Cheesman Park
+1037,137.0,Entire rental unit,1.0,1.0,1.0,Cheesman Park
+1038,90.0,Entire guest suite,1.0,1.0,1.0,Washington Park West
+1039,239.0,Entire condominium (condo),2.0,2.0,5.0,Union Station
+1040,182.0,Entire bungalow,1.0,1.0,1.0,Highland
+1041,289.0,Entire residential home,3.0,2.0,4.0,Belcaro
+1042,148.0,Entire bungalow,2.0,1.0,2.0,South Park Hill
+1043,199.0,Entire rental unit,3.0,1.5,4.0,Union Station
+1044,135.0,Entire townhouse,2.0,2.0,2.0,West Colfax
+1045,685.0,Entire residential home,5.0,5.0,12.0,West Colfax
+1046,98.0,Tiny house,1.0,1.0,1.0,Berkeley
+1047,238.0,Entire residential home,3.0,2.0,3.0,Whittier
+1048,359.0,Entire guesthouse,1.0,1.0,2.0,North Capitol Hill
+1050,112.0,Entire guest suite,1.0,1.0,2.0,Valverde
+1051,813.0,Entire residential home,4.0,3.5,5.0,Highland
+1052,90.0,Entire rental unit,1.0,1.0,1.0,Globeville
+1053,225.0,Entire condominium (condo),2.0,2.0,2.0,CBD
+1054,89.0,Private room in residential home,1.0,1.0,1.0,Platt Park
+1055,169.0,Entire guest suite,1.0,1.0,2.0,Sunnyside
+1056,71.0,Room in hostel,1.0,17.0,1.0,Capitol Hill
+1057,137.0,Entire residential home,2.0,1.0,2.0,Hale
+1058,119.0,Entire rental unit,1.0,1.0,1.0,Speer
+1059,175.0,Entire rental unit,2.0,1.0,3.0,Stapleton
+1060,236.0,Entire townhouse,3.0,3.0,3.0,Virginia Village
+1061,121.0,Entire guesthouse,1.0,1.0,1.0,Congress Park
+1062,83.0,Entire townhouse,1.0,1.0,2.0,Baker
+1063,309.0,Entire townhouse,2.0,2.5,4.0,Five Points
+1064,100.0,Entire residential home,2.0,1.0,2.0,Whittier
+1065,155.0,Entire bungalow,3.0,3.0,6.0,Cole
+1066,61.0,Private room in residential home,1.0,1.5,1.0,Montbello
+1067,56.0,Private room in residential home,1.0,1.5,1.0,Montbello
+1068,221.0,Entire condominium (condo),2.0,2.0,2.0,Highland
+1069,139.0,Entire rental unit,1.0,1.0,1.0,Stapleton
+1070,86.0,Entire guest suite,1.0,1.0,1.0,South Park Hill
+1071,140.0,Entire guest suite,1.0,1.0,2.0,Five Points
+1072,104.0,Entire condominium (condo),2.0,2.0,2.0,Washington Park West
+1073,378.0,Entire townhouse,4.0,3.0,5.0,Civic Center
+1075,321.0,Entire bungalow,3.0,2.0,3.0,Lincoln Park
+1076,85.0,Entire condominium (condo),1.0,1.0,1.0,Five Points
+1077,135.0,Private room in residential home,1.0,1.0,1.0,City Park West
+1079,101.0,Entire condominium (condo),1.0,1.0,0.0,Congress Park
+1081,44.0,Private room in residential home,1.0,1.0,2.0,Rosedale
+1082,175.0,Entire guesthouse,1.0,1.0,1.0,Cory - Merrill
+1083,109.0,Entire residential home,2.0,1.0,2.0,Clayton
+1084,66.0,Private room in residential home,1.0,1.0,1.0,Northeast Park Hill
+1085,377.0,Entire townhouse,3.0,3.0,4.0,West Colfax
+1086,95.0,Entire guesthouse,1.0,1.0,1.0,Washington Park West
+1087,110.0,Entire condominium (condo),1.0,1.0,1.0,West Colfax
+1088,240.0,Entire residential home,2.0,2.0,2.0,Whittier
+1089,115.0,Entire condominium (condo),2.0,2.0,2.0,North Capitol Hill
+1090,47.0,Entire residential home,1.0,1.0,1.0,Harvey Park South
+1091,164.0,Entire rental unit,2.0,1.0,5.0,Washington Park West
+1092,472.0,Entire residential home,3.0,2.5,4.0,Highland
+1093,195.0,Entire townhouse,3.0,4.5,3.0,Sunnyside
+1094,99.0,Private room in residential home,1.0,1.0,1.0,Gateway - Green Valley Ranch
+1095,120.0,Entire guesthouse,1.0,1.0,1.0,Capitol Hill
+1096,270.0,Entire residential home,2.0,1.0,2.0,Berkeley
+1097,595.0,Entire residential home,5.0,3.5,7.0,Five Points
+1098,140.0,Entire condominium (condo),1.0,1.0,1.0,Capitol Hill
+1099,130.0,Entire loft,1.0,1.0,2.0,Five Points
+1100,383.0,Entire bungalow,2.0,1.0,2.0,West Highland
+1101,115.0,Entire residential home,1.0,1.0,1.0,Berkeley
+1102,71.0,Entire townhouse,1.0,1.0,2.0,Clayton
+1103,95.0,Entire residential home,2.0,1.0,2.0,Five Points
+1104,202.0,Entire residential home,2.0,1.0,2.0,Sunnyside
+1105,67.0,Entire guest suite,1.0,1.0,1.0,Skyland
+1106,68.0,Entire residential home,1.0,1.0,1.0,Montclair
+1107,55.0,Private room in residential home,1.0,1.0,2.0,Rosedale
+1108,417.0,Entire residential home,6.0,4.0,7.0,West Colfax
+1109,115.0,Entire residential home,2.0,2.0,2.0,Jefferson Park
+1110,98.0,Entire guest suite,1.0,1.0,1.0,Berkeley
+1111,82.0,Private room in residential home,1.0,1.0,1.0,West Colfax
+1112,96.0,Entire cottage,1.0,1.0,1.0,Hale
+1113,90.0,Private room in residential home,1.0,1.0,1.0,Gateway - Green Valley Ranch
+1114,165.0,Entire guesthouse,1.0,1.0,1.0,West Highland
+1115,338.0,Entire townhouse,3.0,2.5,3.0,West Colfax
+1116,116.0,Entire guest suite,2.0,1.0,2.0,Regis
+1117,92.0,Entire guest suite,1.0,1.0,1.0,Rosedale
+1118,250.0,Entire loft,1.0,1.5,1.0,Five Points
+1119,166.0,Entire guest suite,1.0,1.0,1.0,Cole
+1120,145.0,Entire guest suite,2.0,1.0,2.0,Speer
+1121,99.0,Entire guesthouse,1.0,1.5,1.0,Speer
+1122,104.0,Entire guesthouse,1.0,1.0,2.0,Berkeley
+1123,267.0,Entire townhouse,3.0,3.5,3.0,Stapleton
+1124,140.0,Entire residential home,3.0,2.0,3.0,West Colfax
+1125,125.0,Entire residential home,1.0,2.0,1.0,Baker
+1126,152.0,Entire guest suite,1.0,1.0,2.0,Capitol Hill
+1127,135.0,Entire guesthouse,1.0,1.0,1.0,Sloan Lake
+1128,79.0,Entire rental unit,1.0,1.0,1.0,City Park West
+1129,129.0,Entire guesthouse,1.0,1.0,2.0,Jefferson Park
+1130,190.0,Entire rental unit,1.0,1.5,1.0,Cherry Creek
+1131,142.0,Entire rental unit,1.0,1.0,1.0,Five Points
+1132,182.0,Entire townhouse,3.0,1.0,3.0,Highland
+1133,459.0,Entire guesthouse,2.0,1.0,2.0,Highland
+1134,156.0,Entire guest suite,1.0,1.0,2.0,Cheesman Park
+1135,492.0,Entire residential home,3.0,3.0,4.0,West Highland
+1136,144.0,Entire townhouse,1.0,1.0,2.0,Five Points
+1137,134.0,Entire guest suite,2.0,1.0,2.0,Whittier
+1138,140.0,Entire residential home,4.0,2.0,4.0,Berkeley
+1139,80.0,Camper/RV,1.0,1.0,2.0,Villa Park
+1140,109.0,Private room in townhouse,1.0,1.5,1.0,West Colfax
+1141,121.0,Entire guest suite,1.0,1.0,1.0,Stapleton
+1142,198.0,Entire residential home,3.0,1.5,3.0,Jefferson Park
+1143,302.0,Entire residential home,4.0,2.5,6.0,Gateway - Green Valley Ranch
+1144,170.0,Entire guest suite,2.0,1.0,2.0,North Park Hill
+1145,709.0,Entire townhouse,3.0,2.5,3.0,Highland
+1146,106.0,Private room in residential home,1.0,1.0,1.0,Five Points
+1147,109.0,Private room in residential home,1.0,1.0,1.0,Five Points
+1148,111.0,Private room in residential home,1.0,1.0,1.0,Five Points
+1149,199.0,Entire rental unit,1.0,1.0,1.0,Five Points
+1150,140.0,Private room in residential home,1.0,1.0,1.0,Five Points
+1151,117.0,Private room in residential home,1.0,1.0,1.0,Five Points
+1152,117.0,Private room in residential home,1.0,1.0,1.0,Five Points
+1153,122.0,Private room in residential home,1.0,1.0,1.0,Five Points
+1154,123.0,Private room in residential home,1.0,1.0,1.0,Five Points
+1155,250.0,Entire townhouse,2.0,2.5,3.0,Jefferson Park
+1156,72.0,Private room in residential home,1.0,1.0,1.0,Speer
+1157,78.0,Entire guest suite,1.0,1.0,1.0,Gateway - Green Valley Ranch
+1158,109.0,Entire guest suite,2.0,1.0,4.0,Gateway - Green Valley Ranch
+1159,190.0,Entire residential home,3.0,2.5,5.0,Stapleton
+1160,150.0,Entire residential home,2.0,2.0,2.0,Berkeley
+1161,350.0,Entire residential home,5.0,5.0,8.0,Stapleton
+1162,171.0,Entire residential home,3.0,2.0,3.0,City Park West
+1163,200.0,Entire residential home,5.0,2.5,5.0,Speer
+1164,593.0,Entire residential home,5.0,4.0,6.0,Speer
+1165,308.0,Entire condominium (condo),2.0,1.0,2.0,Five Points
+1166,475.0,Entire residential home,4.0,3.0,5.0,Five Points
+1167,72.0,Private room in guest suite,1.0,1.0,1.0,City Park West
+1169,150.0,Entire guesthouse,1.0,1.0,2.0,Rosedale
+1170,165.0,Private room in bungalow,1.0,1.0,1.0,Sloan Lake
+1171,89.0,Private room in residential home,1.0,1.0,1.0,University
+1172,371.0,Entire loft,1.0,1.5,2.0,CBD
+1173,120.0,Entire residential home,3.0,2.0,5.0,Hampden
+1174,182.0,Entire condominium (condo),2.0,1.0,2.0,Ruby Hill
+1176,115.0,Private room in residential home,1.0,1.0,1.0,Five Points
+1177,224.0,Entire rental unit,2.0,1.0,2.0,West Colfax
+1178,115.0,Entire townhouse,2.0,1.0,3.0,West Highland
+1179,154.0,Entire guest suite,2.0,1.0,2.0,Speer
+1180,99.0,Entire guesthouse,1.0,1.0,1.0,Berkeley
+1181,96.0,Entire guesthouse,1.0,1.0,1.0,Sunnyside
+1182,300.0,Entire townhouse,2.0,2.5,2.0,University
+1183,79.0,Private room in townhouse,1.0,1.0,1.0,City Park West
+1184,750.0,Entire residential home,5.0,2.5,5.0,Virginia Village
+1185,93.0,Entire townhouse,1.0,1.0,1.0,Westwood
+1187,32.0,Shared room in residential home,1.0,2.0,1.0,Congress Park
+1188,116.0,Entire guest suite,1.0,1.0,1.0,Virginia Village
+1189,470.0,Entire townhouse,3.0,2.5,3.0,Jefferson Park
+1190,162.0,Entire rental unit,1.0,1.0,2.0,Highland
+1192,80.0,Entire condominium (condo),2.0,1.0,2.0,City Park West
+1193,109.0,Entire residential home,2.0,1.0,2.0,Sloan Lake
+1194,87.0,Entire guest suite,2.0,1.0,3.0,Overland
+1196,100.0,Entire condominium (condo),2.0,2.0,2.0,Hampden South
+1197,100.0,Private room in residential home,2.0,2.0,0.0,Highland
+1198,109.0,Entire residential home,2.0,1.0,2.0,West Highland
+1199,93.0,Entire guest suite,1.0,1.0,1.0,Stapleton
+1200,219.0,Entire townhouse,2.0,1.0,3.0,Speer
+1201,999.0,Entire condominium (condo),2.0,2.0,2.0,Union Station
+1202,275.0,Entire residential home,4.0,3.0,4.0,Mar Lee
+1204,119.0,Entire condominium (condo),2.0,2.0,2.0,CBD
+1205,96.0,Entire guest suite,1.0,1.0,1.0,Northeast Park Hill
+1206,134.0,Entire residential home,1.0,1.0,1.0,North Park Hill
+1207,999.0,Entire residential home,4.0,3.0,6.0,Speer
+1208,140.0,Entire loft,1.0,1.0,1.0,Five Points
+1209,145.0,Entire residential home,5.0,3.0,6.0,Cole
+1210,180.0,Entire condominium (condo),1.0,1.0,1.0,CBD
+1211,68.0,Private room in residential home,2.0,1.0,2.0,Gateway - Green Valley Ranch
+1214,225.0,Entire residential home,3.0,2.0,3.0,Highland
+1215,140.0,Entire residential home,2.0,1.0,2.0,Villa Park
+1216,80.0,Entire rental unit,1.0,1.0,1.0,Baker
+1217,84.0,Private room in townhouse,1.0,1.5,1.0,City Park West
+1218,50.0,Entire guesthouse,1.0,1.0,2.0,Villa Park
+1219,72.0,Private room in residential home,1.0,1.0,2.0,Gateway - Green Valley Ranch
+1221,59.0,Private room in residential home,1.0,1.0,1.0,Valverde
+1222,195.0,Entire bungalow,2.0,1.0,4.0,Sloan Lake
+1223,169.0,Entire residential home,3.0,2.0,3.0,Hampden
+1224,116.0,Entire guesthouse,1.0,1.0,2.0,Chaffee Park
+1225,58.0,Private room in residential home,1.0,1.0,1.0,Clayton
+1226,191.0,Entire residential home,3.0,1.0,3.0,University
+1228,215.0,Entire rental unit,1.0,1.0,1.0,Five Points
+1229,100.0,Entire residential home,1.0,1.0,1.0,Sunnyside
+1230,128.0,Entire residential home,3.0,1.0,3.0,Sunnyside
+1231,70.0,Entire guest suite,1.0,1.0,2.0,North Park Hill
+1232,141.0,Entire guesthouse,2.0,1.0,3.0,Clayton
+1233,140.0,Entire bungalow,2.0,1.0,3.0,West Colfax
+1234,135.0,Entire residential home,2.0,2.0,2.0,Cole
+1235,145.0,Entire residential home,3.0,1.0,4.0,North Park Hill
+1236,110.0,Entire townhouse,1.0,1.0,1.0,West Highland
+1237,251.0,Entire residential home,4.0,2.5,4.0,University Park
+1239,98.0,Entire guest suite,2.0,1.0,2.0,Skyland
+1240,169.0,Entire guest suite,1.0,1.0,1.0,Sloan Lake
+1241,55.0,Private room in rental unit,1.0,1.0,1.0,Northeast Park Hill
+1242,55.0,Private room in residential home,1.0,1.0,1.0,Regis
+1243,70.0,Entire rental unit,2.0,2.5,2.0,Gateway - Green Valley Ranch
+1244,31.0,Private room in bungalow,1.0,1.0,1.0,Westwood
+1245,88.0,Entire residential home,1.0,1.0,1.0,Regis
+1247,90.0,Entire residential home,2.0,1.5,2.0,Harvey Park
+1248,157.0,Entire guesthouse,2.0,1.0,3.0,South Park Hill
+1249,92.0,Entire townhouse,1.0,1.5,1.0,Stapleton
+1250,200.0,Entire residential home,2.0,2.0,3.0,Jefferson Park
+1251,48.0,Private room in residential home,1.0,1.0,1.0,College View - South Platte
+1252,193.0,Entire townhouse,2.0,2.0,3.0,Speer
+1253,139.0,Entire bungalow,3.0,2.0,3.0,West Highland
+1254,63.0,Private room in residential home,1.0,1.0,1.0,Northeast Park Hill
+1255,120.0,Entire rental unit,1.0,1.0,1.0,City Park
+1256,25.0,Shared room in residential home,1.0,1.0,0.0,Montbello
+1257,25.0,Shared room in residential home,1.0,1.0,0.0,Montbello
+1258,60.0,Entire condominium (condo),1.0,1.0,1.0,Speer
+1259,75.0,Entire bungalow,2.0,1.0,3.0,Berkeley
+1260,87.0,Entire townhouse,1.0,1.5,1.0,Sunnyside
+1261,432.0,Entire residential home,4.0,2.0,4.0,Lincoln Park
+1262,80.0,Private room in condominium (condo),1.0,1.0,1.0,Lincoln Park
+1263,236.0,Entire rental unit,3.0,2.5,3.0,Congress Park
+1264,650.0,Entire residential home,4.0,4.5,10.0,City Park West
+1265,158.0,Entire residential home,3.0,3.0,4.0,Sunnyside
+1266,82.0,Entire rental unit,2.0,1.0,2.0,Hilltop
+1267,98.0,Entire guest suite,1.0,1.0,1.0,Stapleton
+1268,373.0,Entire townhouse,2.0,2.5,2.0,Stapleton
+1269,24.0,Private room in townhouse,1.0,1.5,1.0,Mar Lee
+1270,192.0,Entire residential home,3.0,1.0,3.0,Villa Park
+1271,341.0,Entire townhouse,4.0,3.5,6.0,Skyland
+1272,250.0,Entire loft,2.0,1.0,4.0,Five Points
+1273,300.0,Entire residential home,2.0,1.0,2.0,Five Points
+1275,66.0,Private room in townhouse,1.0,1.0,1.0,West Colfax
+1276,60.0,Private room in residential home,1.0,1.0,1.0,Stapleton
+1277,62.0,Private room in residential home,1.0,1.0,1.0,East Colfax
+1279,216.0,Entire residential home,3.0,2.0,3.0,Baker
+1280,118.0,Entire residential home,2.0,1.0,2.0,Virginia Village
+1281,450.0,Entire residential home,3.0,1.5,9.0,Five Points
+1282,80.0,Entire guest suite,2.0,1.0,3.0,Congress Park
+1283,35.0,Private room in residential home,1.0,1.0,2.0,West Colfax
+1284,93.0,Entire loft,1.0,1.0,2.0,Union Station
+1285,30.0,Private room in townhouse,1.0,1.0,1.0,Hampden South
+1286,251.0,Entire residential home,5.0,5.0,12.0,Jefferson Park
+1287,80.0,Entire residential home,2.0,1.0,2.0,Speer
+1288,155.0,Entire townhouse,1.0,1.0,1.0,Sunnyside
+1289,90.0,Private room in residential home,1.0,1.5,1.0,Gateway - Green Valley Ranch
+1290,200.0,Entire condominium (condo),1.0,1.0,1.0,Union Station
+1291,184.0,Entire condominium (condo),2.0,1.0,3.0,Union Station
+1292,87.0,Entire guest suite,1.0,1.0,1.0,North Park Hill
+1293,352.0,Entire guesthouse,2.0,1.0,2.0,Lincoln Park
+1294,200.0,Entire residential home,3.0,1.5,3.0,City Park
+1295,58.0,Room in hostel,1.0,2.0,8.0,Five Points
+1296,55.0,Room in hostel,1.0,2.0,10.0,Five Points
+1297,155.0,Entire townhouse,1.0,1.0,2.0,Sunnyside
+1298,325.0,Entire residential home,3.0,1.5,3.0,West Highland
+1299,45.0,Private room in residential home,1.0,1.0,1.0,East Colfax
+1300,84.0,Entire loft,1.0,1.0,1.0,Five Points
+1301,120.0,Entire rental unit,1.0,1.0,2.0,City Park
+1302,297.0,Private room in townhouse,2.0,2.0,2.0,Skyland
+1303,514.0,Entire townhouse,2.0,2.0,3.0,Five Points
+1304,100.0,Entire guest suite,1.0,1.0,1.0,Hilltop
+1305,88.0,Entire guest suite,1.0,1.0,1.0,Berkeley
+1306,204.0,Entire loft,1.0,1.0,2.0,Five Points
+1307,86.0,Entire rental unit,2.0,1.0,3.0,Sunnyside
+1308,99.0,Entire condominium (condo),2.0,1.0,2.0,Union Station
+1309,227.0,Entire residential home,2.0,1.0,2.0,Five Points
+1310,450.0,Entire residential home,3.0,3.0,3.0,University
+1311,85.0,Entire rental unit,2.0,1.0,2.0,West Colfax
+1312,132.0,Entire townhouse,1.0,1.0,2.0,Jefferson Park
+1313,146.0,Entire townhouse,2.0,1.0,4.0,Jefferson Park
+1314,204.0,Entire guest suite,2.0,1.0,2.0,Washington Park West
+1315,120.0,Entire condominium (condo),2.0,2.0,2.0,Cherry Creek
+1316,195.0,Entire townhouse,2.0,2.5,2.0,Highland
+1317,43.0,Private room in residential home,1.0,1.0,1.0,Gateway - Green Valley Ranch
+1318,157.0,Entire townhouse,2.0,2.5,5.0,West Colfax
+1319,123.0,Entire guesthouse,1.0,1.0,2.0,Speer
+1320,131.0,Private room in townhouse,1.0,1.5,1.0,Highland
+1321,155.0,Entire residential home,2.0,1.0,2.0,Baker
+1322,499.0,Entire townhouse,3.0,3.5,3.0,Sunnyside
+1323,145.0,Entire condominium (condo),1.0,1.5,1.0,Union Station
+1325,70.0,Private room in residential home,1.0,1.0,1.0,Gateway - Green Valley Ranch
+1326,154.0,Entire guesthouse,1.0,1.0,1.0,Clayton
+1327,129.0,Entire rental unit,1.0,1.0,1.0,City Park West
+1328,254.0,Entire residential home,3.0,2.5,1.0,Regis
+1329,249.0,Entire guesthouse,1.0,1.0,2.0,West Highland
+1330,160.0,Entire condominium (condo),1.0,1.0,1.0,Union Station
+1331,84.0,Entire guest suite,1.0,1.0,1.0,Ruby Hill
+1332,93.0,Private room in residential home,2.0,1.0,3.0,Gateway - Green Valley Ranch
+1333,48.0,Private room in residential home,1.0,1.0,1.0,Virginia Village
+1334,140.0,Private room in residential home,1.0,1.5,1.0,Platt Park
+1335,98.0,Entire condominium (condo),1.0,1.0,1.0,CBD
+1336,100.0,Entire residential home,2.0,1.0,2.0,Lincoln Park
+1337,229.0,Entire bungalow,3.0,2.0,5.0,Sunnyside
+1338,139.0,Entire guesthouse,1.0,1.0,2.0,Platt Park
+1339,249.0,Entire bungalow,2.0,2.0,2.0,Washington Park
+1340,25.0,Private room in residential home,1.0,1.0,1.0,Valverde
+1341,148.0,Entire rental unit,1.0,1.0,1.0,Cherry Creek
+1342,337.0,Entire residential home,3.0,3.0,3.0,Sunnyside
+1343,139.0,Entire condominium (condo),1.0,1.0,1.0,Speer
+1344,98.0,Entire rental unit,1.0,1.0,1.0,Sunnyside
+1345,89.0,Entire residential home,1.0,1.0,2.0,West Highland
+1346,70.0,Entire residential home,1.0,1.0,1.0,Platt Park
+1347,180.0,Entire residential home,6.0,3.5,7.0,Gateway - Green Valley Ranch
+1348,55.0,Entire condominium (condo),1.0,1.0,1.0,Hale
+1349,100.0,Entire rental unit,1.0,1.0,1.0,Speer
+1350,105.0,Entire condominium (condo),2.0,2.0,2.0,Hampden South
+1351,100.0,Entire bungalow,2.0,1.0,2.0,Sloan Lake
+1352,160.0,Entire residential home,4.0,2.5,5.0,Gateway - Green Valley Ranch
+1353,238.0,Entire rental unit,2.0,1.0,3.0,City Park West
+1355,120.0,Entire residential home,3.0,2.0,3.0,Skyland
+1356,180.0,Entire loft,1.0,1.0,1.0,Union Station
+1357,628.0,Entire residential home,4.0,4.5,4.0,Washington Park
+1358,144.0,Entire townhouse,2.0,1.5,2.0,Speer
+1359,125.0,Entire residential home,1.0,1.0,1.0,Baker
+1360,215.0,Entire guesthouse,2.0,1.0,2.0,West Highland
+1361,160.0,Entire guest suite,1.0,1.0,3.0,Washington Virginia Vale
+1362,145.0,Entire townhouse,1.0,1.0,1.0,Whittier
+1363,148.0,Entire condominium (condo),1.0,1.0,2.0,Five Points
+1364,62.0,Private room in residential home,2.0,1.0,2.0,Gateway - Green Valley Ranch
+1365,232.0,Entire residential home,3.0,1.5,3.0,Congress Park
+1366,59.0,Entire condominium (condo),1.0,1.0,1.0,Speer
+1368,100.0,Private room in rental unit,1.0,2.0,1.0,Capitol Hill
+1369,125.0,Entire residential home,2.0,2.0,2.0,Villa Park
+1371,89.0,Entire guest suite,1.0,1.0,5.0,Highland
+1372,360.0,Entire residential home,3.0,3.5,4.0,Stapleton
+1373,200.0,Entire rental unit,1.0,1.0,1.0,West Colfax
+1375,171.0,Entire guest suite,2.0,1.0,2.0,Montclair
+1376,150.0,Entire condominium (condo),1.0,1.0,1.0,Union Station
+1377,113.0,Entire loft,1.0,1.0,1.0,City Park West
+1378,178.0,Entire residential home,1.0,1.0,2.0,Lincoln Park
+1379,82.0,Entire residential home,2.0,1.0,2.0,Berkeley
+1380,85.0,Entire condominium (condo),1.0,1.0,1.0,Lincoln Park
+1381,67.0,Entire rental unit,1.0,1.0,1.0,City Park West
+1382,150.0,Entire residential home,3.0,2.0,5.0,Highland
+1383,802.0,Entire condominium (condo),2.0,2.0,5.0,Union Station
+1384,286.0,Entire residential home,4.0,2.0,5.0,Skyland
+1385,99.0,Entire condominium (condo),1.0,1.0,1.0,Speer
+1386,145.0,Entire guesthouse,2.0,1.0,2.0,Washington Park West
+1387,180.0,Entire rental unit,1.0,1.0,2.0,Harvey Park
+1388,60.0,Entire guest suite,1.0,1.0,1.0,Cole
+1389,139.0,Entire residential home,2.0,1.0,2.0,West Highland
+1390,149.0,Entire townhouse,2.0,1.5,3.0,Stapleton
+1391,259.0,Entire residential home,2.0,1.5,2.0,Speer
+1392,193.0,Entire cottage,1.0,1.0,1.0,West Highland
+1393,136.0,Entire guest suite,1.0,1.0,2.0,Cory - Merrill
+1394,99.0,Entire residential home,2.0,2.0,3.0,Chaffee Park
+1395,471.0,Entire residential home,4.0,2.5,8.0,Whittier
+1396,144.0,Entire guest suite,1.0,1.0,2.0,Sunnyside
+1399,255.0,Entire residential home,2.0,2.0,2.0,Five Points
+1400,158.0,Entire condominium (condo),2.0,1.5,3.0,Civic Center
+1401,158.0,Entire guest suite,1.0,1.0,2.0,Skyland
+1402,104.0,Entire guest suite,2.0,1.0,2.0,Clayton
+1403,115.0,Entire condominium (condo),1.0,1.5,1.0,Five Points
+1404,500.0,Entire residential home,4.0,3.5,4.0,Berkeley
+1405,52.0,Private room in townhouse,1.0,1.5,1.0,Stapleton
+1406,36.0,Private room in townhouse,1.0,1.0,1.0,Hampden
+1407,182.0,Entire townhouse,1.0,1.0,2.0,Jefferson Park
+1408,475.0,Entire townhouse,3.0,2.5,4.0,Hale
+1409,100.0,Entire rental unit,2.0,1.0,3.0,West Highland
+1410,65.0,Entire condominium (condo),2.0,1.0,2.0,Gateway - Green Valley Ranch
+1411,81.0,Entire guest suite,1.0,1.0,1.0,Valverde
+1412,246.0,Entire guest suite,2.0,1.0,2.0,Union Station
+1414,81.0,Private room in townhouse,1.0,1.0,1.0,Clayton
+1415,80.0,Entire condominium (condo),2.0,1.0,2.0,Congress Park
+1417,89.0,Entire townhouse,1.0,1.0,1.0,Highland
+1418,105.0,Private room in residential home,1.0,1.0,1.0,Five Points
+1419,225.0,Entire residential home,2.0,2.0,2.0,Washington Park
+1420,217.0,Entire residential home,3.0,3.5,3.0,Sloan Lake
+1421,68.0,Entire guest suite,1.0,1.0,1.0,Rosedale
+1422,48.0,Entire condominium (condo),2.0,1.5,2.0,Hale
+1423,399.0,Entire residential home,3.0,2.5,3.0,Villa Park
+1424,40.0,Private room in residential home,1.0,1.0,1.0,Northeast Park Hill
+1425,254.0,Entire townhouse,2.0,1.0,2.0,Cole
+1426,132.0,Entire guesthouse,1.0,1.0,1.0,Washington Park
+1427,200.0,Entire condominium (condo),2.0,1.0,2.0,Capitol Hill
+1428,111.0,Entire condominium (condo),1.0,1.0,1.0,West Highland
+1429,729.0,Entire residential home,6.0,5.0,11.0,Capitol Hill
+1430,80.0,Entire rental unit,1.0,1.0,2.0,Congress Park
+1431,131.0,Entire condominium (condo),3.0,2.0,3.0,Washington Virginia Vale
+1433,55.0,Private room in residential home,1.0,1.0,1.0,University
+1434,127.0,Entire residential home,1.0,1.0,1.0,Whittier
+1435,200.0,Entire residential home,3.0,2.5,3.0,Villa Park
+1436,129.0,Entire residential home,2.0,1.5,2.0,Sunnyside
+1437,99.0,Entire guest suite,1.0,1.0,1.0,Highland
+1438,150.0,Entire residential home,3.0,2.0,4.0,Elyria Swansea
+1439,178.0,Entire residential home,4.0,2.0,3.0,West Colfax
+1440,145.0,Entire rental unit,2.0,1.0,3.0,Country Club
+1441,93.0,Entire rental unit,1.0,2.0,1.0,Congress Park
+1442,399.0,Entire residential home,3.0,3.0,4.0,Stapleton
+1444,55.0,Room in hostel,1.0,2.0,8.0,Five Points
+1445,184.0,Room in hostel,1.0,2.0,4.0,CBD
+1446,99.0,Entire condominium (condo),1.0,1.0,2.0,Jefferson Park
+1447,56.0,Entire guest suite,1.0,1.0,2.0,College View - South Platte
+1448,87.0,Entire guest suite,1.0,1.0,1.0,Washington Park
+1449,243.0,Entire residential home,4.0,2.0,6.0,Berkeley
+1451,83.0,Entire residential home,1.0,1.0,1.0,Regis
+1452,164.0,Entire guest suite,1.0,1.0,1.0,Speer
+1453,77.0,Entire guest suite,2.0,1.0,3.0,Stapleton
+1454,150.0,Entire guesthouse,2.0,1.0,2.0,Jefferson Park
+1455,119.0,Entire guesthouse,1.0,1.0,2.0,Cole
+1456,67.0,Private room in residential home,1.0,2.0,1.0,Five Points
+1457,129.0,Private room in residential home,2.0,2.0,2.0,Five Points
+1458,110.0,Entire guest suite,2.0,1.0,2.0,Whittier
+1459,70.0,Entire guest suite,1.0,1.0,1.0,City Park
+1460,250.0,Entire residential home,5.0,3.0,6.0,Whittier
+1461,191.0,Entire guest suite,2.0,1.0,2.0,Sunnyside
+1462,170.0,Private room in residential home,2.0,2.5,2.0,Gateway - Green Valley Ranch
+1463,529.0,Entire townhouse,2.0,2.5,2.0,Highland
+1464,167.0,Entire residential home,2.0,1.0,2.0,Sunnyside
+1465,99.0,Entire condominium (condo),1.0,1.0,1.0,CBD
+1466,35.0,Private room in residential home,1.0,1.0,1.0,Gateway - Green Valley Ranch
+1468,167.0,Entire rental unit,1.0,1.0,1.0,Highland
+1469,106.0,Entire guest suite,1.0,1.0,2.0,University
+1470,101.0,Entire condominium (condo),2.0,1.0,3.0,CBD
+1471,111.0,Entire residential home,1.0,1.0,1.0,Sloan Lake
+1472,162.0,Entire guest suite,1.0,1.0,1.0,Whittier
+1473,250.0,Entire condominium (condo),2.0,2.0,2.0,Union Station
+1474,182.0,Entire residential home,2.0,2.0,2.0,Platt Park
+1475,99.0,Entire guesthouse,2.0,1.0,3.0,Congress Park
+1476,109.0,Entire guest suite,1.0,1.0,1.0,Hampden
+1477,205.0,Entire condominium (condo),2.0,2.0,2.0,Union Station
+1478,85.0,Entire guest suite,2.0,1.0,2.0,Clayton
+1479,195.0,Entire guest suite,2.0,1.0,2.0,West Colfax
+1480,95.0,Entire townhouse,2.0,1.0,2.0,Cole
+1481,145.0,Entire condominium (condo),1.0,2.0,2.0,City Park West
+1482,35.0,Private room in residential home,1.0,1.0,1.0,Gateway - Green Valley Ranch
+1483,140.0,Entire guesthouse,1.0,1.0,2.0,Five Points
+1484,169.0,Entire townhouse,3.0,2.5,4.0,DIA
+1486,145.0,Entire guest suite,1.0,1.0,2.0,Hilltop
+1487,365.0,Entire condominium (condo),3.0,2.0,4.0,Five Points
+1488,60.0,Private room in residential home,1.0,1.0,1.0,Cory - Merrill
+1489,70.0,Private room in guest suite,1.0,1.5,2.0,Windsor
+1490,190.0,Entire residential home,3.0,2.5,3.0,Highland
+1492,77.0,Private room in residential home,2.0,2.0,3.0,Gateway - Green Valley Ranch
+1493,59.0,Private room in residential home,1.0,1.0,1.0,Ruby Hill
+1494,93.0,Entire residential home,1.0,1.0,2.0,Globeville
+1496,299.0,Entire townhouse,3.0,3.0,3.0,Five Points
+1497,95.0,Entire rental unit,3.0,1.0,3.0,Gateway - Green Valley Ranch
+1498,60.0,Private room in townhouse,1.0,1.5,1.0,City Park West
+1499,171.0,Entire guest suite,2.0,1.0,2.0,Villa Park
+1500,162.0,Private room in bed and breakfast,1.0,1.0,1.0,Capitol Hill
+1501,219.0,Entire residential home,2.0,2.0,2.0,Five Points
+1502,185.0,Entire condominium (condo),2.0,2.0,3.0,CBD
+1503,362.0,Entire townhouse,3.0,4.0,4.0,Sloan Lake
+1504,150.0,Entire townhouse,1.0,1.5,2.0,West Highland
+1505,175.0,Entire townhouse,2.0,2.5,2.0,Highland
+1506,49.0,Private room in residential home,1.0,1.0,1.0,Five Points
+1507,499.0,Entire townhouse,3.0,3.5,3.0,West Colfax
+1508,100.0,Entire condominium (condo),1.0,1.0,1.0,CBD
+1509,200.0,Entire residential home,2.0,2.0,2.0,Berkeley
+1510,204.0,Private room in bed and breakfast,1.0,1.0,2.0,Capitol Hill
+1511,220.0,Private room in bed and breakfast,1.0,1.0,1.0,Capitol Hill
+1512,149.0,Private room in bed and breakfast,1.0,1.0,1.0,Capitol Hill
+1513,216.0,Private room in bed and breakfast,1.0,1.0,1.0,Capitol Hill
+1514,216.0,Private room in bed and breakfast,1.0,1.0,1.0,Capitol Hill
+1515,184.0,Private room in bed and breakfast,1.0,1.0,1.0,Capitol Hill
+1516,224.0,Private room in bed and breakfast,1.0,1.0,1.0,Capitol Hill
+1517,164.0,Entire rental unit,1.0,1.0,2.0,Five Points
+1518,100.0,Entire condominium (condo),1.0,1.0,1.0,Union Station
+1519,90.0,Entire residential home,2.0,1.0,2.0,Sunnyside
+1520,140.0,Private room in condominium (condo),1.0,1.0,1.0,Indian Creek
+1521,114.0,Entire guesthouse,1.0,1.0,2.0,Berkeley
+1522,200.0,Private room in residential home,1.0,2.0,1.0,Virginia Village
+1523,75.0,Entire residential home,1.0,1.0,2.0,Skyland
+1524,138.0,Entire residential home,2.0,1.0,3.0,Hale
+1525,84.0,Private room in residential home,2.0,1.0,2.0,Ruby Hill
+1526,44.0,Private room in residential home,1.0,1.0,1.0,Ruby Hill
+1527,80.0,Private room in rental unit,1.0,1.0,1.0,Kennedy
+1528,109.0,Entire residential home,1.0,2.5,2.0,Gateway - Green Valley Ranch
+1529,232.0,Entire guest suite,2.0,1.0,2.0,South Park Hill
+1530,85.0,Entire condominium (condo),2.0,2.0,4.0,Five Points
+1531,100.0,Private room in residential home,1.0,1.5,1.0,Congress Park
+1532,110.0,Entire residential home,2.0,1.0,2.0,Lincoln Park
+1533,67.0,Entire rental unit,2.0,1.0,2.0,Speer
+1534,400.0,Entire townhouse,3.0,3.5,3.0,Sunnyside
+1535,83.0,Entire bungalow,1.0,1.0,1.0,Sunnyside
+1536,366.0,Entire residential home,2.0,2.5,4.0,Whittier
+1537,133.0,Entire townhouse,1.0,1.0,1.0,Baker
+1538,80.0,Entire loft,1.0,1.0,1.0,Capitol Hill
+1539,139.0,Entire guest suite,2.0,1.0,3.0,Berkeley
+1540,148.0,Entire residential home,2.0,1.0,3.0,Sunnyside
+1541,97.0,Private room in residential home,1.0,1.0,2.0,Gateway - Green Valley Ranch
+1542,60.0,Entire rental unit,1.0,1.0,1.0,Highland
+1543,105.0,Entire rental unit,1.0,1.0,1.0,Speer
+1544,305.0,Entire residential home,3.0,2.0,5.0,Congress Park
+1545,960.0,Entire residential home,5.0,3.5,5.0,Cheesman Park
+1546,129.0,Entire condominium (condo),2.0,2.0,2.0,Lincoln Park
+1547,145.0,Entire condominium (condo),1.0,1.0,1.0,Globeville
+1548,138.0,Entire townhouse,1.0,1.0,2.0,West Colfax
+1549,187.0,Entire rental unit,1.0,1.0,1.0,Cheesman Park
+1550,108.0,Entire townhouse,1.0,1.0,1.0,Baker
+1551,302.0,Entire residential home,3.0,2.5,8.0,Gateway - Green Valley Ranch
+1552,40.0,Private room in townhouse,1.0,1.0,1.0,Hampden South
+1553,85.0,Private room in townhouse,1.0,1.0,1.0,Platt Park
+1554,350.0,Entire residential home,3.0,3.0,3.0,Hampden South
+1555,231.0,Entire townhouse,2.0,1.0,3.0,Cole
+1556,756.0,Entire townhouse,4.0,4.5,7.0,Five Points
+1557,169.0,Entire guest suite,2.0,1.0,3.0,City Park West
+1558,137.0,Entire guest suite,2.0,1.0,2.0,Sloan Lake
+1559,199.0,Entire guest suite,2.0,1.0,3.0,Congress Park
+1560,35.0,Private room in townhouse,1.0,1.5,1.0,Stapleton
+1561,253.0,Entire rental unit,2.0,2.0,3.0,North Capitol Hill
+1562,218.0,Entire residential home,3.0,3.0,5.0,Gateway - Green Valley Ranch
+1563,210.0,Private room in rental unit,2.0,1.0,3.0,Washington Park West
+1564,115.0,Entire condominium (condo),2.0,2.5,4.0,DIA
+1565,130.0,Entire guesthouse,1.0,1.0,2.0,North Park Hill
+1566,93.0,Entire guest suite,1.0,1.0,2.0,South Park Hill
+1567,377.0,Entire rental unit,2.0,1.0,3.0,North Capitol Hill
+1568,237.0,Entire rental unit,1.0,1.0,2.0,North Capitol Hill
+1569,244.0,Entire rental unit,1.0,1.0,2.0,North Capitol Hill
+1570,310.0,Entire rental unit,2.0,2.0,3.0,North Capitol Hill
+1571,327.0,Entire rental unit,2.0,1.0,3.0,North Capitol Hill
+1572,322.0,Entire rental unit,2.0,1.0,2.0,North Capitol Hill
+1573,109.0,Entire townhouse,2.0,1.0,2.0,Capitol Hill
+1574,110.0,Entire residential home,2.0,2.0,3.0,Sunnyside
+1575,30.0,Private room in rental unit,1.0,1.0,1.0,West Colfax
+1576,130.0,Entire residential home,1.0,1.0,1.0,Highland
+1577,409.0,Entire residential home,4.0,4.0,4.0,Skyland
+1579,146.0,Entire condominium (condo),2.0,2.0,2.0,Union Station
+1580,70.0,Private room in residential home,1.0,1.0,1.0,Gateway - Green Valley Ranch
+1581,219.0,Entire residential home,4.0,2.0,3.0,Speer
+1582,107.0,Entire residential home,2.0,1.0,2.0,Rosedale
+1583,99.0,Entire guesthouse,1.0,1.0,1.0,Five Points
+1584,71.0,Private room in residential home,1.0,1.0,1.0,Speer
+1585,137.0,Entire guest suite,1.0,1.0,2.0,Sloan Lake
+1586,152.0,Entire residential home,2.0,1.0,3.0,Mar Lee
+1587,99.0,Private room in bungalow,1.0,1.0,1.0,Country Club
+1588,79.0,Entire guesthouse,2.0,1.0,3.0,City Park West
+1589,100.0,Private room in residential home,1.0,1.0,1.0,Gateway - Green Valley Ranch
+1590,121.0,Entire residential home,1.0,1.0,2.0,Highland
+1591,94.0,Entire guest suite,1.0,1.0,1.0,Whittier
+1592,200.0,Entire residential home,3.0,2.0,3.0,University Park
+1593,51.0,Entire guest suite,1.0,1.0,2.0,Chaffee Park
+1594,65.0,Private room in residential home,1.0,1.5,1.0,Gateway - Green Valley Ranch
+1595,181.0,Entire townhouse,1.0,1.0,1.0,North Capitol Hill
+1596,149.0,Entire guesthouse,1.0,1.0,1.0,Five Points
+1598,275.0,Entire residential home,3.0,1.0,4.0,Jefferson Park
+1599,96.0,Entire guest suite,2.0,1.0,2.0,Valverde
+1600,133.0,Private room in residential home,2.0,1.0,2.0,Five Points
+1601,70.0,Entire condominium (condo),1.0,1.0,1.0,CBD
+1602,74.0,Private room in residential home,1.0,1.0,1.0,City Park West
+1603,132.0,Entire guest suite,2.0,1.0,3.0,Rosedale
+1604,66.0,Private room in townhouse,1.0,1.0,1.0,Capitol Hill
+1606,248.0,Entire residential home,3.0,2.0,3.0,Harvey Park
+1607,70.0,Entire rental unit,1.0,1.0,1.0,Sunnyside
+1608,123.0,Entire guest suite,2.0,1.0,2.0,Elyria Swansea
+1610,250.0,Entire guest suite,2.0,1.0,3.0,Clayton
+1611,175.0,Entire townhouse,2.0,2.5,4.0,Sloan Lake
+1612,138.0,Entire guest suite,1.0,1.0,3.0,Sunnyside
+1613,225.0,Entire townhouse,3.0,2.0,3.0,Goldsmith
+1614,215.0,Entire townhouse,3.0,2.0,3.0,University Hills
+1615,79.0,Private room in residential home,1.0,2.0,1.0,Elyria Swansea
+1616,232.0,Entire residential home,2.0,2.0,3.0,Speer
+1617,64.0,Private room in residential home,1.0,2.0,1.0,Elyria Swansea
+1618,89.0,Entire residential home,2.0,1.0,2.0,Montclair
+1619,70.0,Private room in residential home,1.0,2.0,1.0,Congress Park
+1620,150.0,Entire residential home,2.0,1.0,2.0,Clayton
+1621,317.0,Entire bungalow,3.0,2.0,4.0,West Highland
+1622,147.0,Entire guesthouse,1.0,1.0,1.0,Five Points
+1623,179.0,Entire residential home,3.0,1.0,5.0,Lincoln Park
+1624,86.0,Entire guest suite,1.0,1.0,1.0,Lincoln Park
+1625,249.0,Entire guest suite,2.0,1.0,4.0,Cheesman Park
+1626,186.0,Entire townhouse,2.0,1.0,3.0,Valverde
+1627,215.0,Entire condominium (condo),2.0,2.0,2.0,Union Station
+1628,115.0,Entire guest suite,1.0,1.0,1.0,Congress Park
+1629,138.0,Entire guest suite,2.0,1.0,3.0,Congress Park
+1630,81.0,Entire guest suite,1.0,1.0,1.0,North Park Hill
+1631,315.0,Entire condominium (condo),2.0,1.0,5.0,Union Station
+1632,70.0,Entire guest suite,1.0,1.0,1.0,Ruby Hill
+1633,50.0,Entire condominium (condo),1.0,1.0,1.0,Cheesman Park
+1634,185.0,Entire guesthouse,1.0,1.0,2.0,Capitol Hill
+1636,130.0,Entire townhouse,2.0,1.5,2.0,Speer
+1637,250.0,Entire townhouse,2.0,3.0,3.0,West Colfax
+1638,143.0,Entire guest suite,1.0,1.0,4.0,Highland
+1639,119.0,Entire residential home,2.0,1.0,2.0,University Hills
+1640,35.0,Private room in townhouse,1.0,1.5,1.0,Gateway - Green Valley Ranch
+1641,99.0,Entire guest suite,1.0,1.0,2.0,Platt Park
+1642,311.0,Entire residential home,4.0,2.0,4.0,Congress Park
+1643,490.0,Entire residential home,4.0,3.0,4.0,Hampden South
+1644,159.0,Entire rental unit,1.0,1.0,1.0,Five Points
+1645,65.0,Entire condominium (condo),1.0,1.0,1.0,Hale
+1647,160.0,Entire condominium (condo),3.0,1.0,3.0,Civic Center
+1648,350.0,Entire residential home,3.0,2.0,4.0,West Highland
+1649,499.0,Entire townhouse,3.0,2.5,4.0,Cole
+1650,105.0,Entire residential home,2.0,1.0,2.0,Rosedale
+1651,371.0,Entire residential home,4.0,2.0,4.0,Cole
+1652,82.0,Private room in townhouse,1.0,1.0,1.0,Baker
+1653,101.0,Entire condominium (condo),1.0,1.0,2.0,Union Station
+1654,119.0,Entire guest suite,1.0,1.0,1.0,Sunnyside
+1655,479.0,Entire residential home,3.0,2.0,3.0,Lincoln Park
+1656,90.0,Entire townhouse,2.0,2.0,2.0,Windsor
+1657,235.0,Entire townhouse,2.0,1.0,2.0,Berkeley
+1658,350.0,Entire residential home,3.0,3.0,3.0,Congress Park
+1659,137.0,Entire guesthouse,1.0,1.0,2.0,Speer
+1660,73.0,Entire rental unit,1.0,1.0,1.0,Cheesman Park
+1661,222.0,Entire townhouse,3.0,2.0,4.0,University Hills
+1662,75.0,Private room in rental unit,3.0,1.5,3.0,Gateway - Green Valley Ranch
+1663,98.0,Entire residential home,2.0,1.0,2.0,Sunnyside
+1664,155.0,Entire condominium (condo),2.0,2.0,2.0,Lowry Field
+1665,225.0,Entire residential home,3.0,2.0,3.0,Baker
+1666,152.0,Entire residential home,2.0,2.0,3.0,Stapleton
+1667,65.0,Private room in townhouse,1.0,1.0,1.0,West Colfax
+1668,280.0,Entire townhouse,2.0,3.5,3.0,West Colfax
+1669,102.0,Entire guest suite,1.0,1.0,1.0,Athmar Park
+1670,90.0,Entire residential home,4.0,2.0,4.0,Sloan Lake
+1671,103.0,Entire rental unit,1.0,1.0,2.0,Sunnyside
+1673,125.0,Entire guesthouse,1.0,1.0,3.0,West Highland
+1675,135.0,Private room in bed and breakfast,1.0,1.0,1.0,Belcaro
+1676,130.0,Entire rental unit,1.0,1.0,2.0,Berkeley
+1677,104.0,Entire guesthouse,1.0,1.0,2.0,Cole
+1678,60.0,Private room in residential home,1.0,1.0,1.0,Hampden South
+1679,60.0,Private room in residential home,1.0,1.0,1.0,Hampden South
+1680,74.0,Entire guest suite,1.0,1.0,1.0,Hale
+1681,45.0,Private room in townhouse,1.0,1.0,1.0,Hampden South
+1682,122.0,Entire guest suite,2.0,1.0,3.0,South Park Hill
+1683,145.0,Entire rental unit,2.0,1.0,2.0,Northeast Park Hill
+1684,91.0,Entire residential home,2.0,1.0,2.0,Skyland
+1686,322.0,Entire condominium (condo),2.0,2.0,3.0,Five Points
+1687,145.0,Entire residential home,2.0,1.0,3.0,Barnum West
+1688,475.0,Entire residential home,3.0,3.0,4.0,Sloan Lake
+1689,123.0,Entire guest suite,1.0,1.0,3.0,Platt Park
+1690,265.0,Entire residential home,2.0,1.5,3.0,Baker
+1691,129.0,Entire loft,1.0,1.0,1.0,Five Points
+1692,225.0,Entire townhouse,2.0,1.5,2.0,Regis
+1693,64.0,Private room in townhouse,1.0,1.0,1.0,Capitol Hill
+1694,225.0,Entire condominium (condo),1.0,1.0,1.0,CBD
+1695,166.0,Entire condominium (condo),1.0,1.5,1.0,Civic Center
+1696,108.0,Entire guest suite,1.0,1.0,1.0,Sloan Lake
+1697,200.0,Camper/RV,1.0,1.0,2.0,East Colfax
+1698,68.0,Entire rental unit,1.0,1.0,2.0,Five Points
+1699,132.0,Entire guesthouse,1.0,1.0,2.0,Berkeley
+1700,68.0,Entire rental unit,1.0,1.0,1.0,Five Points
+1701,57.0,Entire rental unit,1.0,1.0,1.0,Lincoln Park
+1702,105.0,Entire rental unit,2.0,1.0,2.0,Highland
+1703,62.0,Entire condominium (condo),1.0,1.0,2.0,Windsor
+1704,115.0,Entire rental unit,2.0,1.0,2.0,Highland
+1705,134.0,Entire guest suite,2.0,1.0,3.0,Washington Park West
+1706,63.0,Entire guest suite,1.0,1.0,1.0,Virginia Village
+1708,80.0,Entire condominium (condo),2.0,2.5,2.0,Stapleton
+1709,77.0,Entire rental unit,1.0,1.0,1.0,Five Points
+1710,175.0,Entire residential home,1.0,1.0,2.0,Athmar Park
+1711,70.0,Private room in bungalow,1.0,1.0,1.0,Congress Park
+1712,299.0,Entire residential home,5.0,3.0,5.0,Gateway - Green Valley Ranch
+1713,76.0,Private room in residential home,1.0,2.5,2.0,Gateway - Green Valley Ranch
+1715,365.0,Entire townhouse,2.0,1.0,2.0,Platt Park
+1716,895.0,Private room in residential home,1.0,1.0,1.0,Country Club
+1717,232.0,Entire condominium (condo),2.0,2.0,3.0,CBD
+1718,275.0,Room in boutique hotel,1.0,1.0,1.0,Five Points
+1719,112.0,Entire guest suite,1.0,1.0,2.0,Villa Park
+1720,275.0,Entire residential home,2.0,2.5,2.0,Hilltop
+1721,93.0,Entire guesthouse,1.0,1.0,1.0,Speer
+1722,50.0,Private room in residential home,1.0,1.0,1.0,North Park Hill
+1723,143.0,Entire guest suite,2.0,1.0,3.0,University
+1724,99.0,Entire condominium (condo),1.0,1.0,1.0,Capitol Hill
+1726,104.0,Entire rental unit,1.0,1.0,1.0,Berkeley
+1727,72.0,Entire rental unit,1.0,1.0,1.0,Congress Park
+1728,60.0,Entire rental unit,1.0,1.0,2.0,Congress Park
+1729,85.0,Private room in guest suite,1.0,1.0,2.0,Baker
+1731,102.0,Private room in residential home,1.0,1.5,1.0,Stapleton
+1732,46.0,Entire rental unit,1.0,1.0,1.0,Baker
+1733,140.0,Entire townhouse,1.0,1.5,1.0,Cole
+1734,45.0,Entire rental unit,1.0,1.0,1.0,Highland
+1735,441.0,Entire residential home,3.0,2.5,3.0,City Park West
+1736,304.0,Entire townhouse,3.0,4.0,3.0,Civic Center
+1737,209.0,Entire residential home,3.0,1.0,3.0,North Park Hill
+1738,50.0,Private room in residential home,1.0,1.0,1.0,Five Points
+1739,65.0,Entire rental unit,1.0,1.0,1.0,City Park West
+1740,136.0,Entire residential home,1.0,1.0,1.0,West Colfax
+1741,212.0,Entire residential home,4.0,2.0,4.0,Sunnyside
+1742,80.0,Entire condominium (condo),1.0,1.0,1.0,Five Points
+1743,135.0,Entire residential home,2.0,1.0,2.0,Baker
+1744,93.0,Private room in residential home,1.0,1.0,1.0,Sloan Lake
+1745,83.0,Entire guest suite,2.0,1.0,3.0,Clayton
+1746,85.0,Entire condominium (condo),1.0,1.0,1.0,Hale
+1747,130.0,Entire residential home,2.0,1.0,2.0,Platt Park
+1748,404.0,Entire townhouse,2.0,2.5,2.0,Jefferson Park
+1749,80.0,Entire residential home,2.0,1.0,2.0,Washington Park
+1750,275.0,Entire townhouse,3.0,3.5,3.0,Sunnyside
+1751,59.0,Private room in residential home,1.0,1.0,1.0,Valverde
+1752,182.0,Entire townhouse,2.0,1.0,3.0,Cole
+1753,71.0,Entire guest suite,1.0,1.0,2.0,Washington Park West
+1754,193.0,Entire guest suite,1.0,1.0,3.0,Five Points
+1755,229.0,Entire townhouse,3.0,2.5,3.0,Five Points
+1756,76.0,Entire guesthouse,1.0,1.0,1.0,Washington Park West
+1757,205.0,Entire townhouse,2.0,2.5,3.0,West Colfax
+1758,169.0,Entire guesthouse,1.0,1.0,4.0,Capitol Hill
+1759,264.0,Entire residential home,1.0,1.0,2.0,Sunnyside
+1760,335.0,Entire townhouse,3.0,2.5,3.0,Five Points
+1761,163.0,Entire rental unit,2.0,1.0,3.0,City Park
+1762,254.0,Entire bungalow,3.0,3.0,3.0,Whittier
+1763,53.0,Private room in residential home,1.0,1.0,1.0,Chaffee Park
+1764,90.0,Entire rental unit,1.0,1.0,2.0,Baker
+1765,119.0,Entire rental unit,1.0,1.0,1.0,West Highland
+1766,167.0,Entire guesthouse,1.0,1.0,2.0,City Park West
+1767,115.0,Entire residential home,2.0,2.0,2.0,Jefferson Park
+1768,50.0,Private room in residential home,1.0,1.5,1.0,Gateway - Green Valley Ranch
+1769,172.0,Entire guest suite,2.0,1.0,3.0,City Park West
+1770,47.0,Private room in residential home,1.0,1.5,1.0,Gateway - Green Valley Ranch
+1771,40.0,Private room in residential home,1.0,1.0,1.0,Valverde
+1773,310.0,Entire loft,2.0,2.0,2.0,Five Points
+1774,234.0,Entire rental unit,2.0,1.0,2.0,Cherry Creek
+1775,100.0,Private room in residential home,1.0,1.5,1.0,Gateway - Green Valley Ranch
+1777,146.0,Entire townhouse,1.0,1.0,1.0,Clayton
+1778,226.0,Entire condominium (condo),1.0,1.0,1.0,Five Points
+1780,69.0,Entire guest suite,1.0,1.0,1.0,Whittier
+1781,64.0,Private room in residential home,1.0,1.0,1.0,North Park Hill
+1782,92.0,Entire guest suite,2.0,1.0,2.0,Highland
+1783,174.0,Entire townhouse,1.0,1.0,1.0,Cherry Creek
+1784,129.0,Entire rental unit,1.0,1.0,1.0,Stapleton
+1785,49.0,Private room in residential home,1.0,1.0,1.0,Gateway - Green Valley Ranch
+1786,225.0,Entire residential home,2.0,1.0,4.0,West Colfax
+1787,72.0,Private room in residential home,1.0,2.0,1.0,Elyria Swansea
+1788,65.0,Entire guest suite,1.0,1.0,1.0,Rosedale
+1789,210.0,Entire residential home,4.0,3.5,4.0,Stapleton
+1790,205.0,Entire residential home,2.0,1.0,3.0,Sloan Lake
+1791,196.0,Room in boutique hotel,1.0,1.0,2.0,City Park West
+1794,320.0,Entire townhouse,2.0,2.5,4.0,West Colfax
+1795,153.0,Entire residential home,3.0,2.5,4.0,Regis
+1796,227.0,Entire condominium (condo),1.0,1.0,1.0,CBD
+1797,100.0,Entire condominium (condo),1.0,1.0,2.0,Union Station
+1798,249.0,Entire residential home,3.0,3.5,3.0,Rosedale
+1799,125.0,Entire guest suite,2.0,1.0,3.0,Athmar Park
+1800,644.0,Entire residential home,5.0,3.5,7.0,Capitol Hill
+1801,154.0,Entire guest suite,2.0,1.0,3.0,Skyland
+1802,101.0,Entire guest suite,1.0,1.0,2.0,North Park Hill
+1805,64.0,Private room in residential home,1.0,1.0,1.0,North Park Hill
+1806,622.0,Entire residential home,3.0,2.0,3.0,Cheesman Park
+1807,129.0,Entire guest suite,1.0,1.0,2.0,Speer
+1808,110.0,Entire guest suite,1.0,1.0,5.0,Gateway - Green Valley Ranch
+1809,150.0,Entire guest suite,2.0,1.0,2.0,West Highland
+1810,96.0,Entire residential home,1.0,1.0,1.0,Westwood
+1811,98.0,Private room in residential home,2.0,1.0,3.0,Gateway - Green Valley Ranch
+1812,216.0,Entire townhouse,2.0,2.0,2.0,Union Station
+1813,83.0,Entire condominium (condo),1.0,1.0,2.0,Hale
+1814,45.0,Private room in townhouse,1.0,1.0,1.0,Sloan Lake
+1815,222.0,Entire rental unit,2.0,1.0,2.0,Union Station
+1816,85.0,Private room in residential home,1.0,1.0,1.0,Cole
+1817,120.0,Entire guest suite,1.0,1.0,2.0,Highland
+1818,110.0,Private room in residential home,2.0,1.0,2.0,North Park Hill
+1819,214.0,Entire bungalow,2.0,1.0,2.0,Skyland
+1820,45.0,Private room in residential home,1.0,1.0,1.0,West Highland
+1821,226.0,Entire guesthouse,1.0,1.5,4.0,Cheesman Park
+1822,45.0,Private room in residential home,1.0,1.0,1.0,West Highland
+1823,95.0,Entire guesthouse,1.0,1.0,3.0,West Highland
+1824,999.0,Entire residential home,3.0,2.0,3.0,Skyland
+1825,50.0,Private room in residential home,1.0,1.0,1.0,City Park
+1826,52.0,Private room in rental unit,1.0,1.0,1.0,Marston
+1827,64.0,Entire rental unit,1.0,1.0,1.0,City Park West
+1828,225.0,Entire loft,1.0,1.0,1.0,Union Station
+1829,132.0,Entire townhouse,3.0,3.5,4.0,Sunnyside
+1830,145.0,Entire guest suite,2.0,1.0,3.0,Mar Lee
+1831,150.0,Entire rental unit,2.0,2.0,2.0,Washington Park
+1832,130.0,Entire townhouse,2.0,1.5,2.0,Berkeley
+1833,119.0,Entire guest suite,2.0,1.0,2.0,Clayton
+1834,295.0,Entire residential home,3.0,2.5,4.0,Regis
+1836,75.0,Private room in residential home,2.0,1.0,3.0,South Park Hill
+1837,78.0,Entire rental unit,1.0,1.0,1.0,Berkeley
+1838,139.0,Private room in residential home,1.0,1.0,2.0,Hampden
+1839,174.0,Entire rental unit,2.0,1.0,2.0,Sunnyside
+1840,132.0,Entire condominium (condo),2.0,2.0,2.0,Highland
+1841,50.0,Private room in townhouse,1.0,1.0,1.0,Jefferson Park
+1842,220.0,Private room in residential home,3.0,1.0,3.0,Harvey Park
+1843,154.0,Entire guesthouse,2.0,1.0,1.0,Skyland
+1844,110.0,Entire guest suite,1.0,1.0,2.0,Sunnyside
+1845,649.0,Entire townhouse,2.0,2.5,2.0,West Colfax
+1846,50.0,Private room in residential home,1.0,1.0,1.0,Congress Park
+1847,196.0,Entire condominium (condo),1.0,1.0,3.0,Highland
+1848,45.0,Private room in residential home,1.0,1.0,1.0,Wellshire
+1849,45.0,Private room in townhouse,1.0,1.0,1.0,University Park
+1850,133.0,Entire guest suite,1.0,1.0,2.0,Montclair
+1851,45.0,Private room in townhouse,1.0,1.0,1.0,Hampden South
+1852,48.0,Private room in residential home,1.0,1.0,1.0,Gateway - Green Valley Ranch
+1855,148.0,Entire bungalow,2.0,1.0,2.0,Whittier
+1856,87.0,Entire townhouse,2.0,1.0,2.0,West Colfax
+1857,70.0,Private room in condominium (condo),1.0,1.0,1.0,Windsor
+1858,50.0,Private room in residential home,1.0,1.0,1.0,Cheesman Park
+1859,40.0,Private room in residential home,1.0,1.0,1.0,Congress Park
+1860,88.0,Entire condominium (condo),2.0,2.0,2.0,Union Station
+1863,131.0,Entire guest suite,1.0,1.0,2.0,Jefferson Park
+1864,74.0,Entire guest suite,1.0,1.0,2.0,Sunnyside
+1865,245.0,Entire residential home,2.0,1.0,2.0,Five Points
+1866,62.0,Entire condominium (condo),1.0,1.0,1.0,Speer
+1867,97.0,Entire guest suite,1.0,1.0,3.0,University
+1868,100.0,Entire townhouse,1.0,1.5,1.0,West Colfax
+1870,44.0,Private room in townhouse,1.0,1.0,1.0,Skyland
+1871,90.0,Private room in residential home,2.0,1.0,3.0,Gateway - Green Valley Ranch
+1872,279.0,Entire guest suite,3.0,1.0,5.0,West Colfax
+1873,95.0,Entire cottage,1.0,1.0,2.0,Barnum West
+1874,55.0,Private room in residential home,1.0,2.0,5.0,Gateway - Green Valley Ranch
+1875,279.0,Entire residential home,3.0,2.0,3.0,Belcaro
+1876,70.0,Entire guesthouse,1.0,1.0,1.0,Whittier
+1877,85.0,Entire rental unit,1.0,1.0,1.0,Sloan Lake
+1878,67.0,Entire guest suite,1.0,1.0,1.0,Speer
+1879,55.0,Private room in residential home,1.0,2.0,3.0,Gateway - Green Valley Ranch
+1880,100.0,Entire residential home,3.0,1.0,3.0,Gateway - Green Valley Ranch
+1881,157.0,Entire guest suite,1.0,1.0,2.0,Highland
+1882,254.0,Entire rental unit,1.0,1.0,1.0,Union Station
+1883,582.0,Entire residential home,4.0,3.5,4.0,Villa Park
+1884,224.0,Entire guest suite,1.0,1.0,1.0,East Colfax
+1885,90.0,Entire rental unit,1.0,1.0,1.0,Sloan Lake
+1886,50.0,Private room in townhouse,1.0,1.0,1.0,Skyland
+1887,132.0,Entire guest suite,1.0,1.0,1.0,Clayton
+1888,150.0,Entire guesthouse,2.0,1.0,3.0,Whittier
+1889,213.0,Entire townhouse,2.0,2.5,2.0,Berkeley
+1890,100.0,Private room in residential home,1.0,1.5,1.0,Gateway - Green Valley Ranch
+1891,72.0,Entire rental unit,2.0,1.0,3.0,Five Points
+1892,134.0,Entire guest suite,1.0,1.0,2.0,West Colfax
+1893,121.0,Entire guest suite,2.0,1.0,2.0,University
+1894,85.0,Entire guest suite,1.0,1.0,1.0,Sloan Lake
+1895,700.0,Entire residential home,5.0,4.5,6.0,Highland
+1896,93.0,Entire bungalow,2.0,1.5,3.0,Clayton
+1897,120.0,Entire guest suite,3.0,1.0,3.0,Elyria Swansea
+1898,142.0,Entire guest suite,1.0,1.0,3.0,North Park Hill
+1899,126.0,Entire guesthouse,1.0,1.0,1.0,Capitol Hill
+1900,357.0,Entire townhouse,4.0,2.5,5.0,Gateway - Green Valley Ranch
+1901,151.0,Entire condominium (condo),1.0,1.5,1.0,Civic Center
+1902,457.0,Entire townhouse,2.0,2.5,3.0,West Colfax
+1903,190.0,Entire rental unit,1.0,1.0,2.0,Country Club
+1904,130.0,Entire loft,1.0,1.0,1.0,Five Points
+1905,110.0,Private room in residential home,2.0,1.0,3.0,Regis
+1906,179.0,Entire rental unit,2.0,1.0,4.0,Skyland
+1907,150.0,Entire rental unit,2.0,1.0,2.0,Speer
+1908,65.0,Entire condominium (condo),1.0,2.0,0.0,CBD
+1909,88.0,Entire guest suite,1.0,1.0,1.0,Hale
+1910,86.0,Entire residential home,1.0,1.0,1.0,Berkeley
+1911,115.0,Entire guest suite,2.0,1.0,2.0,West Colfax
+1912,75.0,Entire rental unit,1.0,1.0,1.0,Baker
+1913,240.0,Entire bungalow,2.0,1.0,2.0,Skyland
+1915,74.0,Entire rental unit,1.0,1.0,2.0,CBD
+1916,129.0,Entire townhouse,3.0,3.0,3.0,Hilltop
+1917,65.0,Entire condominium (condo),1.0,1.0,1.0,North Capitol Hill
+1918,283.0,Entire rental unit,1.0,1.0,2.0,University
+1919,256.0,Entire rental unit,1.0,1.0,2.0,University Park
+1920,525.0,Entire rental unit,2.0,2.0,3.0,University Park
+1922,81.0,Entire loft,1.0,1.0,1.0,Five Points
+1924,472.0,Entire rental unit,2.0,2.0,3.0,University Park
+1925,60.0,Entire rental unit,1.0,1.0,1.0,Speer
+1926,229.0,Entire rental unit,2.0,2.0,3.0,Union Station
+1927,105.0,Entire guest suite,2.0,1.0,4.0,Washington Park West
+1928,108.0,Entire rental unit,1.0,1.0,1.0,Country Club
+1929,264.0,Entire residential home,2.0,2.5,4.0,Five Points
+1930,202.0,Entire guest suite,2.0,1.0,4.0,Speer
+1931,150.0,Entire rental unit,1.0,1.0,1.0,Union Station
+1932,825.0,Entire townhouse,3.0,3.5,3.0,Five Points
+1933,396.0,Entire residential home,4.0,2.5,4.0,West Colfax
+1934,133.0,Entire guesthouse,1.0,1.0,2.0,Berkeley
+1935,103.0,Entire guest suite,2.0,1.0,3.0,Sunnyside
+1936,177.0,Entire residential home,3.0,2.0,3.0,Montbello
+1937,71.0,Entire guest suite,1.0,1.0,1.0,Virginia Village
+1938,100.0,Entire condominium (condo),2.0,2.0,2.0,Cherry Creek
+1939,85.0,Private room in residential home,1.0,1.0,1.0,Capitol Hill
+1940,178.0,Entire rental unit,2.0,1.0,4.0,Cheesman Park
+1941,80.0,Entire condominium (condo),1.0,1.0,1.0,Capitol Hill
+1942,349.0,Entire residential home,3.0,2.0,3.0,Northeast Park Hill
+1943,311.0,Entire townhouse,2.0,2.5,2.0,Cherry Creek
+1944,108.0,Entire guest suite,1.0,1.0,2.0,University
+1945,412.0,Entire rental unit,1.0,1.0,2.0,Five Points
+1946,110.0,Entire guest suite,1.0,1.0,1.0,Sunnyside
+1947,157.0,Entire guest suite,2.0,1.0,2.0,Lincoln Park
+1948,78.0,Entire condominium (condo),2.0,1.5,2.0,Hampden South
+1949,90.0,Entire guest suite,1.0,1.0,1.0,Congress Park
+1950,175.0,Entire rental unit,1.0,1.0,1.0,North Capitol Hill
+1951,34.0,Private room in townhouse,1.0,1.0,1.0,Skyland
+1952,552.0,Entire residential home,3.0,3.0,7.0,Five Points
+1953,98.0,Entire residential home,1.0,1.0,1.0,Villa Park
+1954,74.0,Entire condominium (condo),1.0,1.0,1.0,Union Station
+1955,60.0,Entire guest suite,1.0,1.0,1.0,Whittier
+1956,714.0,Entire residential home,4.0,3.0,5.0,Five Points
+1957,485.0,Entire residential home,3.0,2.0,3.0,Belcaro
+1958,115.0,Entire rental unit,1.0,1.0,1.0,Union Station
+1959,199.0,Entire residential home,4.0,2.5,5.0,Montbello
+1960,105.0,Entire rental unit,1.0,1.0,1.0,Union Station
+1961,38.0,Private room in residential home,1.0,1.0,1.0,Highland
+1962,70.0,Entire condominium (condo),1.0,1.0,1.0,North Capitol Hill
+1963,121.0,Entire condominium (condo),1.0,1.0,1.0,Speer
+1964,66.0,Entire condominium (condo),1.0,1.0,1.0,Speer
+1965,100.0,Entire rental unit,1.0,1.0,2.0,Regis
+1966,76.0,Entire rental unit,1.0,1.0,2.0,Congress Park
+1967,120.0,Entire bungalow,2.0,1.0,3.0,Chaffee Park
+1968,99.0,Entire condominium (condo),2.0,3.0,0.0,Capitol Hill
+1969,162.0,Entire residential home,2.0,1.0,6.0,East Colfax
+1971,57.0,Entire residential home,2.0,1.0,2.0,West Highland
+1972,139.0,Entire bungalow,2.0,1.0,2.0,Cole
+1973,24.0,Private room in townhouse,1.0,1.5,1.0,Mar Lee
+1974,157.0,Entire rental unit,2.0,1.0,0.0,Union Station
+1975,35.0,Private room in residential home,1.0,1.0,1.0,East Colfax
+1976,123.0,Entire townhouse,2.0,1.0,2.0,Cole
+1977,120.0,Entire rental unit,1.0,1.0,2.0,Capitol Hill
+1978,154.0,Entire condominium (condo),2.0,2.5,2.0,West Colfax
+1979,68.0,Private room in townhouse,1.0,1.0,2.0,Gateway - Green Valley Ranch
+1980,140.0,Entire townhouse,2.0,2.5,2.0,Stapleton
+1981,89.0,Entire condominium (condo),1.0,1.0,1.0,Hale
+1982,74.0,Entire condominium (condo),1.0,1.0,1.0,Platt Park
+1983,35.0,Private room in residential home,1.0,1.0,1.0,Skyland
+1985,836.0,Entire residential home,7.0,4.5,8.0,University
+1986,25.0,Private room in rental unit,1.0,1.0,1.0,Goldsmith
+1987,135.0,Entire residential home,2.0,1.0,2.0,Berkeley
+1988,205.0,Entire residential home,3.0,2.0,5.0,Wellshire
+1989,249.0,Entire residential home,2.0,2.5,3.0,West Colfax
+1990,120.0,Entire condominium (condo),2.0,1.5,2.0,Union Station
+1991,224.0,Entire townhouse,2.0,3.0,2.0,Jefferson Park
+1992,129.0,Entire condominium (condo),1.0,1.0,1.0,Washington Virginia Vale
+1993,99.0,Private room in residential home,1.0,1.5,1.0,Sloan Lake
+1994,45.0,Private room in bungalow,1.0,1.0,1.0,Sunnyside
+1995,74.0,Entire guest suite,1.0,1.0,1.0,Whittier
+1996,59.0,Entire condominium (condo),1.0,1.0,1.0,Capitol Hill
+1997,300.0,Entire residential home,3.0,2.0,3.0,University Park
+1998,37.0,Entire townhouse,2.0,2.5,3.0,Jefferson Park
+1999,74.0,Private room in townhouse,1.0,1.0,1.0,Skyland
+2000,103.0,Entire condominium (condo),2.0,1.5,2.0,Five Points
+2001,119.0,Entire guest suite,1.0,1.0,2.0,Berkeley
+2002,150.0,Entire residential home,2.0,1.0,2.0,Clayton
+2003,215.0,Private room in condominium (condo),1.0,1.0,1.0,Washington Virginia Vale
+2004,195.0,Entire condominium (condo),1.0,1.0,0.0,CBD
+2005,685.0,Entire townhouse,3.0,3.5,6.0,Five Points
+2006,46.0,Entire rental unit,1.0,1.0,1.0,Baker
+2007,80.0,Entire rental unit,1.0,1.0,1.0,Capitol Hill
+2008,178.0,Entire residential home,3.0,1.0,6.0,Northeast Park Hill
+2009,38.0,Private room in residential home,1.0,1.0,1.0,East Colfax
+2010,263.0,Entire bungalow,2.0,1.0,2.0,Rosedale
+2011,143.0,Entire residential home,1.0,1.0,0.0,College View - South Platte
+2012,106.0,Entire guest suite,1.0,1.0,1.0,Berkeley
+2014,72.0,Entire guesthouse,1.0,1.0,1.0,Skyland
+2015,109.0,Entire bungalow,1.0,1.0,1.0,Sunnyside
+2016,100.0,Entire guesthouse,1.0,1.0,1.0,Lincoln Park
+2017,98.0,Entire guest suite,1.0,1.0,1.0,Berkeley
+2018,52.0,Private room in residential home,1.0,1.0,1.0,Sunnyside
+2019,100.0,Entire residential home,2.0,1.0,2.0,City Park
+2020,30.0,Private room in guest suite,1.0,1.0,1.0,Northeast Park Hill
+2021,37.0,Private room in residential home,1.0,1.0,1.0,East Colfax
+2022,125.0,Entire residential home,3.0,1.0,3.0,Washington Virginia Vale
+2023,110.0,Entire guesthouse,2.0,1.0,2.0,Sloan Lake
+2024,90.0,Private room in townhouse,1.0,1.5,1.0,Baker
+2025,228.0,Entire rental unit,1.0,1.0,1.0,Union Station
+2026,407.0,Entire townhouse,3.0,3.5,6.0,Civic Center
+2027,248.0,Entire residential home,3.0,2.0,2.0,Washington Virginia Vale
+2029,189.0,Entire guest suite,1.0,1.0,2.0,City Park
+2030,162.0,Entire guest suite,1.0,1.0,2.0,Speer
+2031,167.0,Entire condominium (condo),1.0,1.0,1.0,Capitol Hill
+2032,60.0,Entire guest suite,1.0,1.0,1.0,West Highland
+2034,264.0,Entire townhouse,2.0,2.0,3.0,Highland
+2035,254.0,Entire rental unit,1.0,1.0,1.0,Union Station
+2036,89.0,Entire rental unit,1.0,1.0,2.0,Five Points
+2037,500.0,Entire townhouse,3.0,3.5,3.0,West Colfax
+2038,109.0,Entire guest suite,1.0,1.0,1.0,Barnum West
+2039,199.0,Entire guest suite,3.0,1.0,4.0,Harvey Park
+2040,78.0,Entire guest suite,1.0,1.0,2.0,Washington Park West
+2041,263.0,Room in boutique hotel,1.0,1.0,1.0,Highland
+2042,404.0,Room in boutique hotel,1.0,1.0,3.0,Highland
+2043,464.0,Room in boutique hotel,1.0,1.0,6.0,Highland
+2044,377.0,Room in boutique hotel,1.0,1.0,4.0,Highland
+2045,478.0,Room in boutique hotel,1.0,1.0,8.0,Highland
+2046,263.0,Room in boutique hotel,2.0,2.0,7.0,Highland
+2047,484.0,Room in boutique hotel,2.0,2.0,6.0,Highland
+2048,264.0,Entire residential home,2.0,1.5,2.0,Washington Park West
+2049,120.0,Entire rental unit,1.0,1.5,0.0,Five Points
+2050,145.0,Entire guest suite,1.0,1.0,1.0,West Colfax
+2051,189.0,Entire residential home,4.0,2.0,5.0,Valverde
+2052,261.0,Entire condominium (condo),2.0,2.0,2.0,CBD
+2053,180.0,Entire guest suite,1.0,1.0,1.0,Highland
+2055,58.0,Private room in residential home,1.0,1.5,0.0,Gateway - Green Valley Ranch
+2056,65.0,Private room in residential home,1.0,1.5,1.0,Gateway - Green Valley Ranch
+2057,133.0,Entire guest suite,1.0,1.0,1.0,Baker
+2058,114.0,Entire residential home,1.0,1.0,2.0,Stapleton
+2059,110.0,Entire residential home,3.0,1.0,3.0,Gateway - Green Valley Ranch
+2060,100.0,Entire loft,1.0,1.0,2.0,Five Points
+2061,407.0,Entire townhouse,2.0,3.0,2.0,West Colfax
+2062,771.0,Entire condominium (condo),3.0,2.0,9.0,Union Station
+2063,60.0,Private room in residential home,1.0,1.5,1.0,Windsor
+2064,89.0,Entire guest suite,1.0,1.0,2.0,Cory - Merrill
+2065,130.0,Entire residential home,2.0,1.0,3.0,East Colfax
+2066,99.0,Entire guest suite,2.0,1.0,2.0,Speer
+2067,130.0,Entire loft,2.0,2.0,2.0,Union Station
+2068,350.0,Entire residential home,3.0,2.0,4.0,Jefferson Park
+2069,94.0,Entire guest suite,1.0,1.0,2.0,Sunnyside
+2070,100.0,Entire residential home,2.0,1.0,3.0,West Colfax
+2071,225.0,Entire residential home,4.0,3.5,4.0,Stapleton
+2072,90.0,Entire residential home,2.0,1.0,2.0,Northeast Park Hill
+2073,280.0,Entire rental unit,2.0,2.0,2.0,Union Station
+2074,264.0,Entire residential home,2.0,2.5,2.0,Lincoln Park
+2075,264.0,Entire residential home,4.0,2.5,4.0,Elyria Swansea
+2076,40.0,Entire condominium (condo),1.0,1.0,1.0,Hampden
+2077,250.0,Entire townhouse,2.0,2.5,2.0,West Colfax
+2078,158.0,Entire guest suite,2.0,1.0,3.0,Cole
+2079,262.0,Entire guest suite,2.0,1.0,3.0,Highland
+2080,149.0,Entire guest suite,2.0,1.0,3.0,West Highland
+2081,40.0,Private room in residential home,1.0,1.0,1.0,University Hills
+2082,73.0,Farm stay,1.0,1.0,1.0,Barnum West
+2083,70.0,Private room in residential home,1.0,1.5,1.0,Washington Park West
+2084,136.0,Entire residential home,2.0,1.0,2.0,Barnum
+2085,107.0,Entire guest suite,1.0,1.0,1.0,Skyland
+2086,107.0,Entire guest suite,2.0,1.0,2.0,East Colfax
+2087,275.0,Entire residential home,3.0,3.5,5.0,Clayton
+2088,349.0,Entire townhouse,2.0,2.5,2.0,West Colfax
+2089,100.0,Entire condominium (condo),1.0,1.0,1.0,Goldsmith
+2090,231.0,Entire townhouse,2.0,1.5,2.0,Baker
+2094,75.0,Private room in bed and breakfast,1.0,1.0,1.0,Jefferson Park
+2095,75.0,Private room in condominium (condo),1.0,1.0,1.0,City Park West
+2096,80.0,Private room in residential home,1.0,1.5,1.0,West Highland
+2097,50.0,Private room in townhouse,1.0,1.5,1.0,Jefferson Park
+2098,150.0,Entire guest suite,2.0,1.0,2.0,City Park West
+2099,103.0,Private room in townhouse,1.0,1.5,1.0,Washington Virginia Vale
+2100,130.0,Entire residential home,1.0,2.5,2.0,Lincoln Park
+2101,40.0,Private room in condominium (condo),1.0,1.0,1.0,North Capitol Hill
+2102,599.0,Entire residential home,3.0,3.5,3.0,Highland
+2103,128.0,Entire rental unit,1.0,1.0,1.0,Regis
+2104,228.0,Entire rental unit,1.0,1.0,1.0,Union Station
+2105,237.0,Entire condominium (condo),1.0,1.5,1.0,Cherry Creek
+2106,126.0,Entire guest suite,1.0,1.0,1.0,Sunnyside
+2107,54.0,Entire rental unit,1.0,1.0,1.0,Baker
+2108,50.0,Private room in residential home,1.0,1.0,1.0,Gateway - Green Valley Ranch
+2109,76.0,Private room in residential home,1.0,1.0,1.0,Regis
+2110,85.0,Private room in residential home,1.0,1.0,1.0,Gateway - Green Valley Ranch
+2111,122.0,Entire guest suite,1.0,1.0,1.0,Globeville
+2112,120.0,Entire condominium (condo),1.0,1.0,1.0,Highland
+2113,164.0,Entire guest suite,2.0,1.0,2.0,Cheesman Park
+2115,120.0,Entire rental unit,1.0,1.0,1.0,Capitol Hill
+2116,97.0,Entire guest suite,1.0,1.0,3.0,Virginia Village
+2117,189.0,Entire condominium (condo),2.0,1.0,3.0,Five Points
+2118,228.0,Entire residential home,3.0,2.0,4.0,West Highland
+2119,50.0,Entire rental unit,1.0,1.0,1.0,Speer
+2120,257.0,Entire residential home,2.0,2.5,3.0,City Park West
+2121,66.0,Private room in residential home,1.0,1.0,1.0,Sunnyside
+2122,105.0,Entire guest suite,2.0,1.0,2.0,Hampden South
+2123,80.0,Private room in townhouse,1.0,1.5,0.0,Sunnyside
+2124,75.0,Private room in rental unit,2.0,1.0,1.0,Kennedy
+2126,105.0,Entire residential home,1.0,1.0,1.0,University
+2127,240.0,Entire residential home,3.0,2.0,3.0,South Park Hill
+2128,70.0,Entire residential home,3.0,2.0,3.0,Washington Park West
+2129,285.0,Entire townhouse,3.0,3.5,3.0,Baker
+2130,80.0,Entire condominium (condo),1.0,1.0,1.0,Union Station
+2131,102.0,Entire guesthouse,1.0,1.0,0.0,Sunnyside
+2132,115.0,Entire guest suite,1.0,1.0,2.0,South Park Hill
+2135,358.0,Entire rental unit,2.0,1.0,3.0,Highland
+2136,425.0,Entire rental unit,2.0,1.0,2.0,Highland
+2137,235.0,Entire rental unit,1.0,1.0,2.0,Highland
+2138,218.0,Entire guesthouse,1.0,1.0,3.0,Sloan Lake
+2139,92.0,Entire guest suite,1.0,1.0,2.0,Northeast Park Hill
+2140,100.0,Entire rental unit,1.0,1.0,2.0,North Park Hill
+2141,105.0,Entire residential home,2.0,1.0,2.0,Highland
+2142,260.0,Entire bungalow,4.0,2.0,6.0,South Park Hill
+2143,386.0,Entire residential home,3.0,2.0,3.0,Washington Virginia Vale
+2144,298.0,Entire rental unit,1.0,1.0,1.0,Highland
+2145,199.0,Private room in residential home,3.0,2.0,5.0,Five Points
+2146,54.0,Entire condominium (condo),2.0,1.0,3.0,Marston
+2147,240.0,Entire townhouse,3.0,3.5,3.0,Civic Center
+2148,120.0,Entire guest suite,1.0,1.0,2.0,Speer
+2149,111.0,Entire guesthouse,1.0,1.0,2.0,Washington Park
+2152,254.0,Entire rental unit,1.0,1.0,1.0,Union Station
+2153,75.0,Entire condominium (condo),2.0,1.0,2.0,Capitol Hill
+2154,262.0,Entire residential home,4.0,2.0,6.0,Gateway - Green Valley Ranch
+2155,49.0,Entire rental unit,1.0,1.0,1.0,Capitol Hill
+2157,599.0,Entire loft,3.0,2.0,5.0,Five Points
+2160,475.0,Entire townhouse,3.0,3.5,4.0,Cherry Creek
+2161,150.0,Entire residential home,3.0,2.0,3.0,Berkeley
+2162,83.0,Entire guest suite,1.0,1.0,3.0,University
+2163,80.0,Private room in rental unit,1.0,1.0,1.0,North Park Hill
+2164,272.0,Entire residential home,3.0,2.0,2.0,Cole
+2165,183.0,Entire rental unit,2.0,2.0,2.0,Union Station
+2166,35.0,Private room in residential home,1.0,1.5,1.0,Athmar Park
+2168,168.0,Entire rental unit,1.0,1.0,1.0,Union Station
+2169,127.0,Entire rental unit,2.0,1.0,2.0,Sloan Lake
+2170,199.0,Entire guest suite,1.0,1.0,1.0,Berkeley
+2171,120.0,Entire loft,2.0,1.0,2.0,Union Station
+2172,350.0,Private room in rental unit,1.0,1.0,1.0,Hampden
+2173,185.0,Private room in rental unit,1.0,1.0,0.0,Hampden
+2174,85.0,Private room in residential home,1.0,1.0,1.0,Stapleton
+2175,98.0,Entire rental unit,2.0,1.0,2.0,Speer
+2176,275.0,Entire residential home,4.0,3.5,6.0,Stapleton
+2177,135.0,Entire guest suite,2.0,1.0,2.0,East Colfax
+2178,107.0,Entire residential home,2.0,1.0,2.0,Congress Park
+2179,75.0,Entire rental unit,2.0,1.0,3.0,Lincoln Park
+2180,65.0,Private room in residential home,1.0,1.0,1.0,Stapleton
+2183,278.0,Entire townhouse,2.0,2.5,2.0,City Park West
+2184,158.0,Entire guest suite,2.0,1.0,3.0,Whittier
+2185,106.0,Entire condominium (condo),1.0,1.0,1.0,North Capitol Hill
+2186,59.0,Entire rental unit,1.0,1.0,1.0,Baker
+2187,56.0,Entire rental unit,1.0,1.0,1.0,Capitol Hill
+2188,314.0,Entire residential home,3.0,2.0,4.0,University
+2189,77.0,Entire guest suite,1.0,1.0,1.0,West Highland
+2190,80.0,Entire townhouse,2.0,1.0,0.0,Sunnyside
+2191,112.0,Entire townhouse,2.0,2.0,2.0,Speer
+2192,145.0,Entire guesthouse,1.0,1.0,3.0,West Highland
+2193,200.0,Entire residential home,2.0,2.0,2.0,Chaffee Park
+2194,160.0,Entire guest suite,2.0,1.0,2.0,Washington Park West
+2196,58.0,Private room in residential home,1.0,1.0,1.0,Montbello
+2197,32.0,Private room in residential home,1.0,1.5,1.0,Gateway - Green Valley Ranch
+2198,120.0,Entire condominium (condo),2.0,2.0,2.0,Gateway - Green Valley Ranch
+2199,44.0,Private room in townhouse,1.0,1.0,1.0,Sloan Lake
+2201,254.0,Entire rental unit,1.0,1.0,1.0,Union Station
+2205,94.0,Entire guest suite,1.0,1.0,2.0,University
+2206,150.0,Entire guest suite,2.0,1.0,2.0,Cole
+2207,195.0,Entire residential home,2.0,2.0,4.0,Highland
+2208,464.0,Entire residential home,4.0,2.0,10.0,Five Points
+2209,95.0,Private room in residential home,1.0,1.0,2.0,Gateway - Green Valley Ranch
+2210,159.0,Private room in bed and breakfast,1.0,1.0,1.0,Speer
+2212,185.0,Entire guesthouse,2.0,1.0,2.0,Berkeley
+2213,532.0,Entire townhouse,3.0,3.5,4.0,Sloan Lake
+2214,88.0,Entire rental unit,1.0,1.0,1.0,Capitol Hill
+2215,210.0,Private room in residential home,1.0,1.5,1.0,Capitol Hill
+2216,660.0,Entire townhouse,3.0,3.0,3.0,Civic Center
+2217,210.0,Private room in residential home,1.0,1.5,1.0,Capitol Hill
+2218,230.0,Private room in residential home,1.0,1.5,1.0,Capitol Hill
+2219,369.0,Entire condominium (condo),3.0,2.0,3.0,Union Station
+2220,210.0,Private room in residential home,1.0,1.5,2.0,Capitol Hill
+2221,295.0,Private room in residential home,2.0,1.5,2.0,Capitol Hill
+2222,122.0,Entire loft,1.0,1.0,4.0,Cherry Creek
+2223,245.0,Private room in residential home,1.0,1.5,2.0,Capitol Hill
+2224,254.0,Entire rental unit,1.0,1.0,1.0,Union Station
+2225,375.0,Private room in residential home,2.0,1.0,3.0,Capitol Hill
+2226,294.0,Entire residential home,3.0,2.0,4.0,Five Points
+2227,38.0,Private room in residential home,1.0,1.0,1.0,Northeast Park Hill
+2228,39.0,Private room in residential home,1.0,1.0,1.0,Northeast Park Hill
+2229,119.0,Entire rental unit,1.0,1.0,1.0,Cheesman Park
+2230,350.0,Entire residential home,4.0,3.5,5.0,Skyland
+2231,391.0,Entire residential home,4.0,4.0,3.0,Cole
+2232,110.0,Entire condominium (condo),3.0,2.0,3.0,Capitol Hill
+2233,34.0,Private room in townhouse,1.0,1.0,1.0,Hampden
+2234,53.0,Entire condominium (condo),1.0,1.0,1.0,Capitol Hill
+2235,168.0,Entire loft,2.0,1.0,2.0,Five Points
+2236,76.0,Private room in townhouse,1.0,1.0,1.0,Capitol Hill
+2238,576.0,Entire townhouse,3.0,2.0,3.0,Chaffee Park
+2239,85.0,Entire condominium (condo),1.0,1.0,1.0,City Park West
+2240,168.0,Entire rental unit,1.0,1.0,1.0,Berkeley
+2241,174.0,Entire rental unit,2.0,1.0,2.0,Berkeley
+2242,214.0,Entire rental unit,2.0,1.0,2.0,Berkeley
+2243,196.0,Entire rental unit,2.0,1.0,2.0,Berkeley
+2244,115.0,Entire loft,1.0,1.0,2.0,Five Points
+2245,355.0,Entire residential home,4.0,2.0,7.0,West Highland
+2246,65.0,Entire guesthouse,2.0,1.0,2.0,Barnum West
+2248,90.0,Entire residential home,1.0,1.0,1.0,Highland
+2249,59.0,Entire rental unit,1.0,1.0,1.0,Baker
+2250,121.0,Entire condominium (condo),1.0,1.0,1.0,Highland
+2251,111.0,Entire guest suite,2.0,1.0,2.0,Highland
+2252,139.0,Entire bungalow,2.0,1.0,3.0,Speer
+2253,117.0,Entire rental unit,1.0,1.0,1.0,Speer
+2254,140.0,Entire residential home,3.0,2.0,5.0,Marston
+2255,50.0,Private room in townhouse,1.0,1.5,1.0,City Park West
+2256,250.0,Entire guest suite,2.0,2.0,3.0,West Colfax
+2257,74.0,Entire guest suite,2.0,1.0,3.0,Washington Park
+2258,81.0,Entire condominium (condo),2.0,1.0,4.0,DIA
+2259,81.0,Entire guest suite,1.0,1.0,4.0,Sunnyside
+2260,35.0,Private room in residential home,1.0,1.0,1.0,Gateway - Green Valley Ranch
+2261,160.0,Entire residential home,2.0,1.0,2.0,Berkeley
+2262,248.0,Entire residential home,3.0,2.0,5.0,Sloan Lake
+2263,539.0,Entire residential home,5.0,2.5,6.0,East Colfax
+2264,131.0,Entire rental unit,1.0,1.0,1.0,Cheesman Park
+2265,99.0,Entire rental unit,2.0,1.0,3.0,Berkeley
+2266,375.0,Entire townhouse,3.0,4.0,5.0,Jefferson Park
+2267,125.0,Entire residential home,2.0,1.0,3.0,Five Points
+2268,166.0,Entire guesthouse,2.0,1.0,3.0,Highland
+2269,85.0,Entire rental unit,1.0,1.0,1.0,West Highland
+2270,330.0,Entire rental unit,1.0,1.0,2.0,Union Station
+2272,115.0,Entire rental unit,2.0,1.0,2.0,Baker
+2273,109.0,Entire rental unit,1.0,1.0,1.0,Five Points
+2274,172.0,Entire rental unit,3.0,1.0,3.0,Whittier
+2275,40.0,Private room in residential home,1.0,1.0,1.0,Gateway - Green Valley Ranch
+2276,280.0,Private room in residential home,1.0,1.0,1.0,Jefferson Park
+2277,176.0,Entire townhouse,2.0,2.5,2.0,West Colfax
+2278,656.0,Entire townhouse,3.0,3.5,5.0,Five Points
+2279,125.0,Entire rental unit,2.0,2.0,3.0,Southmoor Park
+2280,121.0,Entire rental unit,2.0,1.0,5.0,Rosedale
+2281,73.0,Entire rental unit,1.0,1.0,2.0,Rosedale
+2283,89.0,Entire residential home,1.0,1.0,1.0,Highland
+2284,162.0,Entire guesthouse,2.0,1.0,2.0,Washington Park
+2285,161.0,Private room in hostel,1.0,4.0,3.0,Five Points
+2286,100.0,Entire condominium (condo),1.0,1.0,1.0,Union Station
+2287,115.0,Private room in bungalow,2.0,1.0,3.0,Sunnyside
+2288,556.0,Entire townhouse,2.0,2.5,3.0,Five Points
+2289,180.0,Entire rental unit,1.0,1.0,3.0,City Park West
+2290,178.0,Entire serviced apartment,2.0,2.0,2.0,Lowry Field
+2291,513.0,Entire townhouse,3.0,3.5,3.0,Sunnyside
+2292,127.0,Entire loft,1.0,1.5,2.0,CBD
+2293,167.0,Entire serviced apartment,2.0,2.0,2.0,University Park
+2294,147.0,Entire residential home,3.0,2.0,4.0,East Colfax
+2295,125.0,Entire residential home,3.0,1.0,3.0,Highland
+2296,100.0,Entire residential home,2.0,1.0,3.0,University
+2297,264.0,Entire residential home,4.0,2.0,5.0,Five Points
+2298,144.0,Entire guest suite,1.0,1.0,4.0,Gateway - Green Valley Ranch
+2299,75.0,Entire condominium (condo),1.0,1.0,1.0,Capitol Hill
+2300,110.0,Entire guesthouse,1.0,1.0,0.0,Baker
+2301,100.0,Entire condominium (condo),1.0,1.0,0.0,Union Station
+2302,40.0,Private room in guesthouse,1.0,1.5,1.0,Gateway - Green Valley Ranch
+2304,330.0,Entire serviced apartment,1.0,1.0,2.0,Union Station
+2305,314.0,Entire serviced apartment,1.0,1.0,2.0,Union Station
+2307,462.0,Entire serviced apartment,2.0,2.0,3.0,Union Station
+2308,460.0,Entire serviced apartment,2.0,2.0,3.0,Union Station
+2309,449.0,Entire serviced apartment,2.0,2.0,3.0,Union Station
+2310,477.0,Entire serviced apartment,2.0,2.0,3.0,Union Station
+2311,505.0,Entire serviced apartment,2.0,2.0,3.0,Union Station
+2314,184.0,Entire serviced apartment,2.0,2.0,2.0,Highland
+2315,181.0,Entire serviced apartment,2.0,2.0,2.0,Highland
+2316,171.0,Entire serviced apartment,2.0,2.0,2.0,Lowry Field
+2317,135.0,Entire townhouse,1.0,1.0,1.0,Lincoln Park
+2318,187.0,Entire rental unit,2.0,2.0,2.0,Union Station
+2319,140.0,Entire residential home,2.0,2.0,2.0,West Highland
+2320,209.0,Entire condominium (condo),2.0,1.0,2.0,Five Points
+2321,190.0,Entire residential home,1.0,1.0,1.0,Speer
+2322,29.0,Private room in townhouse,1.0,1.0,1.0,Lincoln Park
+2323,37.0,Private room in residential home,1.0,1.0,1.0,Montbello
+2324,35.0,Private room in residential home,1.0,1.0,1.0,Gateway - Green Valley Ranch
+2325,366.0,Entire residential home,3.0,3.5,4.0,Country Club
+2326,276.0,Entire residential home,2.0,1.0,2.0,Five Points
+2327,567.0,Entire townhouse,3.0,4.0,4.0,West Colfax
+2328,146.0,Entire serviced apartment,1.0,1.0,1.0,Highland
+2329,80.0,Entire residential home,2.0,1.0,2.0,North Park Hill
+2330,541.0,Entire townhouse,3.0,4.0,3.0,Highland
+2331,415.0,Entire residential home,5.0,3.5,5.0,South Park Hill
+2332,458.0,Entire townhouse,4.0,2.5,7.0,Whittier
+2333,101.0,Entire guest suite,1.0,1.0,1.0,Villa Park
+2334,919.0,Entire residential home,2.0,3.0,2.0,West Colfax
+2335,500.0,Entire guest suite,3.0,2.0,4.0,Sloan Lake
+2336,359.0,Entire residential home,4.0,2.5,4.0,West Colfax
+2337,317.0,Entire rental unit,2.0,2.0,3.0,Union Station
+2338,254.0,Entire rental unit,1.0,1.0,1.0,Union Station
+2339,181.0,Entire serviced apartment,2.0,2.0,2.0,Washington Virginia Vale
+2340,141.0,Entire guest suite,2.0,1.0,3.0,North Park Hill
+2341,131.0,Entire rental unit,1.0,1.0,1.0,Hampden South
+2342,111.0,Entire residential home,2.0,1.0,3.0,Barnum
+2343,40.0,Private room in residential home,1.0,1.0,2.0,Gateway - Green Valley Ranch
+2344,135.0,Entire residential home,2.0,1.0,2.0,Virginia Village
+2345,105.0,Entire guest suite,1.0,1.0,1.0,Regis
+2346,27.0,Private room in residential home,1.0,1.0,0.0,Gateway - Green Valley Ranch
+2347,132.0,Private room in residential home,2.0,2.0,4.0,Athmar Park
+2348,75.0,Entire cottage,1.0,1.0,1.0,Five Points
+2349,120.0,Private room in townhouse,1.0,1.0,1.0,West Colfax
+2350,110.0,Entire guest suite,1.0,1.0,1.0,University Park
+2351,171.0,Entire residential home,2.0,1.0,2.0,Chaffee Park
+2356,76.0,Private room in residential home,1.0,1.5,1.0,Hale
+2357,463.0,Entire townhouse,2.0,2.5,3.0,Highland
+2359,83.0,Entire guest suite,1.0,1.0,2.0,Barnum
+2361,53.0,Private room in rental unit,1.0,1.0,1.0,Speer
+2362,29.0,Private room in rental unit,1.0,2.0,1.0,City Park
+2363,159.0,Entire rental unit,2.0,1.0,2.0,Cheesman Park
+2364,69.0,Private room in residential home,1.0,1.0,1.0,Skyland
+2365,200.0,Entire townhouse,3.0,2.0,3.0,Sunnyside
+2366,350.0,Entire townhouse,3.0,3.5,3.0,Lincoln Park
+2367,141.0,Entire rental unit,2.0,1.0,2.0,West Colfax
+2368,36.0,Private room in residential home,1.0,1.0,1.0,Chaffee Park
+2370,249.0,Entire bungalow,4.0,3.0,6.0,North Park Hill
+2371,176.0,Entire residential home,3.0,1.0,4.0,Congress Park
+2372,287.0,Entire rental unit,1.0,1.0,2.0,Union Station
+2373,362.0,Entire rental unit,2.0,2.0,3.0,Union Station
+2375,141.0,Entire residential home,2.0,1.0,2.0,Barnum West
+2376,156.0,Entire guest suite,2.0,1.0,2.0,Sunnyside
+2377,179.0,Entire residential home,3.0,1.5,3.0,Cole
+2378,80.0,Private room in rental unit,1.0,1.0,0.0,University
+2379,464.0,Entire residential home,3.0,3.5,3.0,Stapleton
+2380,120.0,Entire residential home,2.0,2.0,3.0,Cole
+2381,350.0,Entire townhouse,2.0,3.0,2.0,Jefferson Park
+2382,95.0,Private room in townhouse,1.0,2.0,2.0,Jefferson Park
+2383,39.0,Private room in residential home,1.0,1.0,1.0,Chaffee Park
+2384,155.0,Entire residential home,2.0,2.0,2.0,Washington Park West
+2385,142.0,Entire guest suite,2.0,1.0,2.0,South Park Hill
+2386,128.0,Entire rental unit,1.0,1.0,1.0,Union Station
+2387,90.0,Entire condominium (condo),1.0,1.0,1.0,CBD
+2390,105.0,Entire condominium (condo),2.0,1.0,2.0,Speer
+2391,140.0,Entire condominium (condo),2.0,2.0,2.0,North Capitol Hill
+2392,115.0,Entire rental unit,1.0,1.0,1.0,Union Station
+2393,164.0,Entire townhouse,3.0,3.0,3.0,University
+2394,105.0,Entire guest suite,1.0,1.0,2.0,Sunnyside
+2395,508.0,Entire residential home,4.0,3.0,7.0,East Colfax
+2396,86.0,Entire guest suite,1.0,1.0,1.0,Cole
+2397,65.0,Entire rental unit,1.0,1.0,2.0,City Park West
+2398,412.0,Entire residential home,4.0,3.0,6.0,Five Points
+2399,65.0,Entire rental unit,1.0,1.0,1.0,City Park West
+2400,30.0,Private room in residential home,1.0,1.5,1.0,Athmar Park
+2401,60.0,Private room in residential home,2.0,1.0,2.0,Baker
+2402,184.0,Room in boutique hotel,1.0,1.0,1.0,CBD
+2403,95.0,Entire residential home,2.0,1.0,2.0,Cheesman Park
+2404,38.0,Private room in residential home,1.0,1.0,2.0,Clayton
+2405,206.0,Entire guest suite,2.0,1.0,2.0,Highland
+2406,101.0,Entire residential home,1.0,1.0,1.0,Highland
+2407,75.0,Private room in residential home,1.0,1.5,1.0,Stapleton
+2408,120.0,Entire rental unit,2.0,1.0,2.0,West Highland
+2409,65.0,Private room in residential home,1.0,1.0,1.0,Stapleton
+2410,225.0,Entire guest suite,2.0,1.0,3.0,Jefferson Park
+2411,165.0,Entire residential home,2.0,1.0,3.0,Valverde
+2412,65.0,Private room in residential home,1.0,1.0,1.0,University Park
+2413,154.0,Entire loft,1.0,1.0,2.0,Five Points
+2414,349.0,Entire condominium (condo),3.0,1.0,3.0,Sunnyside
+2415,105.0,Entire bungalow,2.0,1.0,2.0,Highland
+2416,83.0,Entire residential home,1.0,1.0,1.0,Berkeley
+2417,130.0,Entire guest suite,1.0,1.0,1.0,Speer
+2418,179.0,Room in boutique hotel,1.0,1.0,1.0,CBD
+2419,38.0,Private room in condominium (condo),1.0,1.0,1.0,Villa Park
+2420,209.0,Entire residential home,3.0,2.0,3.0,Athmar Park
+2421,149.0,Entire townhouse,3.0,2.5,3.0,Washington Park West
+2422,88.0,Entire condominium (condo),2.0,1.0,2.0,Union Station
+2423,130.0,Entire rental unit,1.0,1.0,2.0,Ruby Hill
+2424,65.0,Entire guest suite,1.0,1.0,2.0,Hale
+2425,125.0,Entire guesthouse,1.0,1.0,1.0,Washington Park West
+2426,652.0,Entire residential home,5.0,2.0,9.0,Five Points
+2427,150.0,Entire townhouse,3.0,3.5,3.0,Stapleton
+2428,100.0,Entire rental unit,1.0,1.0,1.0,West Highland
+2429,194.0,Entire residential home,2.0,1.0,2.0,West Highland
+2430,136.0,Entire guest suite,2.0,1.0,2.0,Washington Park
+2431,200.0,Entire townhouse,2.0,2.5,4.0,West Colfax
+2432,254.0,Entire rental unit,1.0,1.0,1.0,Union Station
+2433,181.0,Room in boutique hotel,1.0,1.0,1.0,CBD
+2434,126.0,Private room in residential home,1.0,1.5,1.0,Gateway - Green Valley Ranch
+2435,100.0,Entire residential home,1.0,1.0,1.0,Baker
+2436,135.0,Entire guesthouse,1.0,1.0,1.0,Washington Park West
+2437,80.0,Entire residential home,1.0,1.0,1.0,Athmar Park
+2438,350.0,Entire residential home,4.0,4.0,6.0,Hale
+2439,64.0,Private room in residential home,1.0,1.0,2.0,University
+2440,127.0,Entire condominium (condo),2.0,1.0,2.0,Union Station
+2441,250.0,Entire residential home,2.0,1.0,2.0,Washington Park West
+2442,245.0,Entire townhouse,2.0,3.0,2.0,West Colfax
+2443,156.0,Entire guest suite,2.0,2.0,3.0,Washington Park
+2444,203.0,Entire residential home,2.0,2.0,2.0,University
+2446,110.0,Entire townhouse,2.0,3.0,2.0,Five Points
+2447,178.0,Entire serviced apartment,2.0,2.0,2.0,University Park
+2448,127.0,Entire serviced apartment,1.0,1.0,1.0,Baker
+2449,130.0,Entire residential home,2.0,1.5,2.0,Athmar Park
+2450,700.0,Entire loft,1.0,1.0,0.0,Windsor
+2451,489.0,Room in aparthotel,2.0,1.0,2.0,Union Station
+2452,231.0,Entire residential home,4.0,2.0,4.0,Valverde
+2453,90.0,Private room in residential home,1.0,1.0,1.0,Northeast Park Hill
+2454,175.0,Entire residential home,2.0,1.0,6.0,Barnum
+2455,50.0,Private room in residential home,1.0,1.0,3.0,Washington Virginia Vale
+2456,86.0,Entire condominium (condo),2.0,1.0,2.0,Virginia Village
+2457,135.0,Entire serviced apartment,1.0,1.0,1.0,Washington Virginia Vale
+2458,155.0,Entire serviced apartment,2.0,2.0,2.0,Washington Virginia Vale
+2459,433.0,Entire residential home,4.0,4.0,5.0,Washington Virginia Vale
+2460,84.0,Entire townhouse,2.0,1.0,3.0,North Capitol Hill
+2461,78.0,Entire guest suite,1.0,1.0,2.0,College View - South Platte
+2463,250.0,Entire residential home,3.0,3.5,3.0,Stapleton
+2464,156.0,Entire guest suite,3.0,1.5,4.0,Washington Park
+2465,228.0,Entire residential home,3.0,2.5,3.0,Wellshire
+2466,165.0,Entire loft,1.0,1.0,1.0,Globeville
+2467,200.0,Entire residential home,3.0,1.0,3.0,Elyria Swansea
+2468,45.0,Private room in condominium (condo),1.0,1.0,1.0,Highland
+2470,176.0,Entire guest suite,2.0,1.0,3.0,University
+2471,321.0,Entire condominium (condo),2.0,2.0,4.0,Speer
+2472,182.0,Room in boutique hotel,1.0,1.0,1.0,CBD
+2473,184.0,Room in boutique hotel,1.0,1.0,1.0,CBD
+2475,200.0,Entire condominium (condo),2.0,2.0,2.0,Cherry Creek
+2476,150.0,Entire residential home,1.0,1.0,1.0,Sloan Lake
+2478,175.0,Entire residential home,4.0,1.0,5.0,Cheesman Park
+2479,35.0,Private room in residential home,1.0,1.0,1.0,Gateway - Green Valley Ranch
+2480,90.0,Entire rental unit,1.0,1.0,1.0,Union Station
+2481,86.0,Entire guest suite,1.0,1.0,2.0,Athmar Park
+2482,752.0,Entire condominium (condo),3.0,2.0,5.0,Five Points
+2483,300.0,Entire residential home,3.0,1.5,6.0,Washington Park West
+2484,120.0,Entire guest suite,1.0,1.0,1.0,Skyland
+2486,72.0,Entire loft,1.0,1.5,1.0,Five Points
+2487,75.0,Private room in residential home,1.0,1.0,1.0,Northeast Park Hill
+2488,80.0,Entire rental unit,1.0,1.0,2.0,Lincoln Park
+2489,68.0,Private room in residential home,1.0,1.0,1.0,Southmoor Park
+2490,179.0,Entire residential home,3.0,2.0,5.0,Five Points
+2491,333.0,Entire rental unit,1.0,1.0,2.0,Union Station
+2493,169.0,Entire rental unit,2.0,1.0,3.0,Goldsmith
+2494,179.0,Room in boutique hotel,1.0,1.0,1.0,CBD
+2495,179.0,Room in boutique hotel,1.0,1.0,1.0,CBD
+2496,179.0,Room in boutique hotel,1.0,1.0,1.0,CBD
+2497,179.0,Room in boutique hotel,1.0,1.0,1.0,CBD
+2498,180.0,Room in boutique hotel,1.0,1.0,1.0,CBD
+2499,153.0,Entire rental unit,2.0,1.0,2.0,Capitol Hill
+2500,108.0,Entire townhouse,2.0,2.5,2.0,Montclair
+2501,259.0,Entire loft,2.0,2.0,4.0,Five Points
+2502,144.0,Entire loft,2.0,2.0,3.0,Five Points
+2503,259.0,Entire loft,3.0,2.0,6.0,Five Points
+2504,209.0,Entire loft,2.0,2.0,4.0,Five Points
+2505,110.0,Entire rental unit,1.0,1.0,1.0,Cole
+2506,236.0,Entire residential home,3.0,2.0,3.0,Northeast Park Hill
+2507,185.0,Entire residential home,2.0,1.0,2.0,Platt Park
+2508,125.0,Entire rental unit,2.0,1.0,2.0,West Highland
+2509,350.0,Entire residential home,4.0,2.0,3.0,Speer
+2510,30.0,Private room in residential home,1.0,1.0,1.0,Athmar Park
+2511,286.0,Entire loft,2.0,2.0,4.0,Five Points
+2512,153.0,Entire rental unit,2.0,1.0,2.0,Cheesman Park
+2513,359.0,Entire residential home,3.0,2.0,3.0,Five Points
+2514,124.0,Entire guesthouse,1.0,1.0,2.0,Platt Park
+2515,159.0,Entire serviced apartment,2.0,2.0,2.0,Lowry Field
+2516,225.0,Entire rental unit,1.0,1.0,1.0,City Park West
+2517,29.0,Private room in residential home,1.0,1.0,1.0,Montbello
+2518,117.0,Entire cottage,1.0,1.0,1.0,Five Points
+2519,280.0,Entire rental unit,1.0,1.0,1.0,Union Station
+2520,99.0,Entire condominium (condo),1.0,1.0,1.0,CBD
+2523,30.0,Private room in residential home,1.0,1.0,1.0,Gateway - Green Valley Ranch
+2525,174.0,Entire residential home,2.0,2.0,3.0,Villa Park
+2527,190.0,Entire residential home,2.0,1.5,2.0,Sunnyside
+2528,125.0,Entire guest suite,2.0,1.0,3.0,Sunnyside
+2530,140.0,Entire rental unit,1.0,1.0,1.0,Five Points
+2531,265.0,Entire residential home,2.0,1.5,2.0,Speer
+2532,161.0,Entire townhouse,2.0,1.0,2.0,Northeast Park Hill
+2533,180.0,Room in boutique hotel,1.0,1.0,1.0,CBD
+2534,179.0,Room in boutique hotel,1.0,1.0,1.0,CBD
+2535,179.0,Room in boutique hotel,1.0,1.0,1.0,CBD
+2536,179.0,Room in boutique hotel,1.0,1.0,1.0,CBD
+2537,191.0,Room in boutique hotel,1.0,1.0,1.0,CBD
+2538,179.0,Room in boutique hotel,1.0,1.0,1.0,CBD
+2539,179.0,Room in boutique hotel,1.0,1.0,1.0,CBD
+2540,179.0,Room in boutique hotel,1.0,1.0,1.0,CBD
+2541,129.0,Room in boutique hotel,1.0,1.0,1.0,CBD
+2542,139.0,Room in boutique hotel,1.0,1.0,2.0,CBD
+2543,250.0,Entire condominium (condo),2.0,2.0,2.0,Cherry Creek
+2544,131.0,Entire rental unit,1.0,1.0,1.0,Five Points
+2545,80.0,Entire residential home,2.0,1.0,2.0,Northeast Park Hill
+2546,37.0,Private room in residential home,1.0,1.0,1.0,Harvey Park South
+2547,104.0,Entire guest suite,1.0,1.0,1.0,Sloan Lake
+2548,122.0,Entire guest suite,1.0,1.0,1.0,North Capitol Hill
+2549,180.0,Entire townhouse,2.0,3.5,3.0,Lincoln Park
+2550,159.0,Entire rental unit,2.0,1.0,2.0,Capitol Hill
+2551,125.0,Entire condominium (condo),2.0,2.5,3.0,Cherry Creek
+2552,91.0,Entire guest suite,1.0,1.0,1.0,Baker
+2553,200.0,Entire residential home,3.0,1.5,2.0,Baker
+2554,294.0,Entire residential home,3.0,1.0,5.0,North Park Hill
+2557,55.0,Entire rental unit,1.0,1.0,1.0,Baker
+2559,175.0,Entire residential home,3.0,3.0,3.0,West Colfax
+2560,135.0,Entire townhouse,2.0,2.5,2.0,West Colfax
+2561,240.0,Entire residential home,3.0,1.0,5.0,West Highland
+2562,70.0,Private room in residential home,1.0,1.0,1.0,Virginia Village
+2563,181.0,Entire guest suite,1.0,1.0,2.0,Capitol Hill
+2564,106.0,Entire condominium (condo),2.0,2.0,2.0,Washington Park West
+2565,40.0,Private room in townhouse,1.0,1.5,1.0,Gateway - Green Valley Ranch
+2566,111.0,Entire guesthouse,1.0,1.0,2.0,Berkeley
+2567,160.0,Entire guest suite,2.0,1.0,3.0,Lincoln Park
+2568,200.0,Entire rental unit,1.0,1.0,1.0,Capitol Hill
+2570,197.0,Entire residential home,3.0,2.0,5.0,Villa Park
+2571,103.0,Entire residential home,2.0,1.0,2.0,North Park Hill
+2572,75.0,Entire residential home,1.0,1.0,1.0,Berkeley
+2573,232.0,Entire serviced apartment,1.0,1.0,1.0,Cherry Creek
+2575,100.0,Entire residential home,2.0,1.0,2.0,Baker
+2576,115.0,Entire residential home,4.0,2.0,3.0,Sloan Lake
+2577,228.0,Entire condominium (condo),1.0,2.0,1.0,North Capitol Hill
+2578,120.0,Entire residential home,1.0,1.0,2.0,Westwood
+2579,59.0,Entire rental unit,1.0,1.0,1.0,Baker
+2580,91.0,Room in boutique hotel,1.0,1.0,1.0,CBD
+2581,129.0,Room in boutique hotel,1.0,1.0,1.0,CBD
+2582,419.0,Entire residential home,2.0,2.0,2.0,Washington Park West
+2583,100.0,Private room in residential home,1.0,2.5,1.0,Gateway - Green Valley Ranch
+2584,359.0,Entire residential home,3.0,2.0,3.0,North Park Hill
+2585,200.0,Entire residential home,2.0,1.0,4.0,Globeville
+2586,413.0,Entire residential home,4.0,3.0,3.0,West Highland
+2588,156.0,Entire residential home,1.0,1.5,1.0,Jefferson Park
+2589,150.0,Entire residential home,4.0,3.0,4.0,Country Club
+2590,187.0,Entire residential home,2.0,1.0,2.0,Northeast Park Hill
+2591,79.0,Entire guest suite,1.0,1.0,1.0,Congress Park
+2592,201.0,Entire townhouse,2.0,1.0,2.0,Highland
+2594,155.0,Entire condominium (condo),2.0,3.0,2.0,Union Station
+2595,179.0,Entire condominium (condo),1.0,1.5,2.0,Overland
+2596,700.0,Entire residential home,3.0,2.5,3.0,Five Points
+2597,341.0,Entire townhouse,3.0,3.5,5.0,Lincoln Park
+2598,206.0,Entire bungalow,2.0,2.0,2.0,Sunnyside
+2599,150.0,Entire rental unit,1.0,1.0,1.0,Windsor
+2600,195.0,Entire residential home,2.0,1.0,2.0,Five Points
+2601,145.0,Entire rental unit,1.0,1.0,1.0,Cheesman Park
+2602,489.0,Entire residential home,3.0,4.0,7.0,Five Points
+2603,260.0,Entire residential home,4.0,3.0,9.0,Baker
+2604,139.0,Private room in residential home,1.0,1.0,3.0,Five Points
+2605,450.0,Entire rental unit,2.0,1.0,3.0,Skyland
+2606,70.0,Entire rental unit,1.0,1.0,1.0,Montclair
+2607,628.0,Entire residential home,2.0,3.0,3.0,Highland
+2608,128.0,Entire guest suite,2.0,1.0,3.0,Regis
+2609,151.0,Room in boutique hotel,1.0,1.0,1.0,CBD
+2610,104.0,Entire condominium (condo),2.0,1.0,2.0,Congress Park
+2611,77.0,Entire residential home,2.0,1.0,2.0,University Hills
+2612,131.0,Entire guest suite,2.0,1.0,3.0,Ruby Hill
+2613,150.0,Entire residential home,2.0,1.5,2.0,West Highland
+2614,135.0,Entire residential home,3.0,2.0,4.0,Five Points
+2615,178.0,Entire residential home,3.0,2.0,5.0,Congress Park
+2616,120.0,Private room in residential home,1.0,1.0,1.0,Gateway - Green Valley Ranch
+2617,50.0,Private room in townhouse,1.0,1.0,1.0,Hampden South
+2618,120.0,Entire cottage,1.0,1.0,1.0,South Park Hill
+2619,116.0,Entire condominium (condo),2.0,1.0,2.0,North Capitol Hill
+2620,46.0,Private room in residential home,1.0,1.0,1.0,Washington Park West
+2621,186.0,Entire serviced apartment,2.0,2.0,2.0,Highland
+2622,218.0,Entire townhouse,2.0,2.5,3.0,Stapleton
+2623,150.0,Entire rental unit,2.0,1.0,2.0,Capitol Hill
+2624,220.0,Entire condominium (condo),3.0,2.0,3.0,Union Station
+2625,250.0,Entire residential home,2.0,1.0,4.0,Lincoln Park
+2626,130.0,Entire condominium (condo),2.0,1.0,2.0,Whittier
+2627,134.0,Entire townhouse,1.0,1.0,2.0,Five Points
+2628,322.0,Entire rental unit,1.0,1.0,2.0,Union Station
+2629,149.0,Entire residential home,2.0,1.0,2.0,Cole
+2630,90.0,Entire condominium (condo),1.0,1.0,2.0,CBD
+2631,135.0,Entire townhouse,3.0,2.0,3.0,Speer
+2633,157.0,Entire guesthouse,2.0,1.0,2.0,Sunnyside
+2634,68.0,Entire guest suite,1.0,1.0,4.0,Congress Park
+2635,85.0,Entire condominium (condo),1.0,1.5,1.0,Five Points
+2636,139.0,Entire guesthouse,1.0,1.0,2.0,Berkeley
+2637,90.0,Entire condominium (condo),1.0,1.0,1.0,Congress Park
+2638,102.0,Private room in residential home,1.0,1.5,1.0,Highland
+2639,120.0,Entire rental unit,3.0,1.0,3.0,Lincoln Park
+2640,195.0,Entire residential home,5.0,3.0,5.0,Gateway - Green Valley Ranch
+2641,175.0,Entire loft,2.0,2.0,2.0,Union Station
+2642,225.0,Entire townhouse,1.0,1.5,2.0,Berkeley
+2643,80.0,Entire rental unit,1.0,1.0,2.0,Kennedy
+2644,399.0,Entire residential home,5.0,3.5,4.0,Washington Park
+2646,265.0,Entire guest suite,3.0,1.0,3.0,Washington Park West
+2647,80.0,Entire rental unit,1.0,1.0,0.0,Cheesman Park
+2649,134.0,Entire townhouse,1.0,1.0,1.0,North Capitol Hill
+2650,129.0,Entire condominium (condo),1.0,1.5,2.0,Five Points
+2651,51.0,Entire rental unit,1.0,1.0,1.0,Baker
+2652,75.0,Entire rental unit,1.0,1.0,1.0,Jefferson Park
+2653,125.0,Private room in residential home,1.0,1.5,1.0,Gateway - Green Valley Ranch
+2654,130.0,Private room in residential home,1.0,1.5,1.0,Gateway - Green Valley Ranch
+2655,110.0,Entire townhouse,2.0,2.5,2.0,Lowry Field
+2656,350.0,Entire residential home,3.0,2.5,4.0,Whittier
+2658,179.0,Entire rental unit,2.0,2.0,3.0,Highland
+2659,101.0,Entire rental unit,1.0,1.0,1.0,Five Points
+2660,150.0,Entire condominium (condo),1.0,2.0,1.0,Union Station
+2661,114.0,Entire residential home,2.0,1.0,2.0,Platt Park
+2662,650.0,Entire residential home,3.0,3.5,3.0,Sunnyside
+2663,132.0,Entire condominium (condo),1.0,1.0,2.0,Highland
+2664,116.0,Entire guest suite,1.0,1.0,2.0,East Colfax
+2665,186.0,Entire residential home,2.0,1.0,2.0,University Hills
+2666,88.0,Private room in guest suite,1.0,1.0,1.0,Jefferson Park
+2668,116.0,Entire guest suite,1.0,1.0,1.0,Sunnyside
+2669,200.0,Entire condominium (condo),1.0,1.0,1.0,Union Station
+2670,79.0,Entire residential home,2.0,1.0,3.0,Sloan Lake
+2671,108.0,Entire guest suite,2.0,1.0,2.0,Highland
+2672,80.0,Entire guest suite,1.0,1.0,4.0,University Hills
+2673,152.0,Entire guest suite,1.0,1.0,1.0,Lincoln Park
+2674,337.0,Entire residential home,2.0,2.5,4.0,Gateway - Green Valley Ranch
+2675,95.0,Entire condominium (condo),1.0,1.0,1.0,CBD
+2676,134.0,Entire guest suite,2.0,1.0,2.0,Regis
+2677,91.0,Private room in residential home,1.0,1.0,1.0,North Park Hill
+2678,181.0,Entire guesthouse,1.0,1.0,1.0,Speer
+2679,106.0,Entire guest suite,1.0,1.0,2.0,West Highland
+2680,373.0,Entire townhouse,2.0,3.5,2.0,West Colfax
+2681,87.0,Entire condominium (condo),2.0,2.0,2.0,Hampden South
+2682,780.0,Entire residential home,3.0,3.5,4.0,Five Points
+2683,250.0,Entire residential home,3.0,2.0,3.0,Athmar Park
+2684,198.0,Entire rental unit,3.0,2.0,3.0,Highland
+2686,300.0,Entire residential home,1.0,1.0,1.0,Highland
+2687,379.0,Entire serviced apartment,2.0,2.5,2.0,Civic Center
+2688,386.0,Entire serviced apartment,2.0,2.5,2.0,Civic Center
+2689,185.0,Entire rental unit,2.0,2.5,3.0,DIA
+2690,85.0,Entire residential home,1.0,1.0,1.0,Regis
+2691,500.0,Entire residential home,4.0,2.5,6.0,Cole
+2692,90.0,Entire residential home,2.0,1.5,2.0,Five Points
+2693,145.0,Entire residential home,2.0,1.5,2.0,Capitol Hill
+2694,110.0,Entire rental unit,1.0,1.0,1.0,Washington Park
+2695,123.0,Entire guesthouse,2.0,1.0,2.0,Berkeley
+2696,100.0,Entire rental unit,1.0,1.0,1.0,Highland
+2697,147.0,Entire condominium (condo),2.0,1.0,2.0,West Colfax
+2698,99.0,Entire guesthouse,2.0,1.0,2.0,Whittier
+2700,146.0,Entire rental unit,1.0,1.0,1.0,Gateway - Green Valley Ranch
+2701,128.0,Entire rental unit,1.0,1.0,1.0,Cheesman Park
+2702,70.0,Entire townhouse,1.0,1.0,1.0,College View - South Platte
+2703,110.0,Entire condominium (condo),1.0,1.0,1.0,University Park
+2704,162.0,Entire rental unit,2.0,1.0,2.0,Congress Park
+2705,40.0,Private room in townhouse,1.0,1.5,0.0,Stapleton
+2710,172.0,Entire guest suite,1.0,1.0,2.0,Clayton
+2711,221.0,Entire residential home,2.0,1.0,2.0,Highland
+2712,154.0,Entire guest suite,2.0,1.0,2.0,North Park Hill
+2713,70.0,Private room in guest suite,1.0,1.0,1.0,Sloan Lake
+2714,167.0,Entire residential home,3.0,2.0,3.0,Harvey Park
+2715,35.0,Private room in residential home,1.0,1.0,1.0,University Hills
+2716,141.0,Entire guest suite,1.0,1.0,2.0,West Colfax
+2717,80.0,Private room in residential home,1.0,1.0,1.0,Whittier
+2718,315.0,Entire residential home,1.0,1.0,1.0,Speer
+2719,140.0,Private room in residential home,2.0,1.0,3.0,Athmar Park
+2721,35.0,Private room in residential home,1.0,1.5,1.0,Gateway - Green Valley Ranch
+2722,65.0,Entire rental unit,1.0,1.0,1.0,Five Points
+2723,145.0,Entire rental unit,1.0,1.0,1.0,City Park West
+2724,100.0,Entire rental unit,1.0,1.0,1.0,City Park West
+2725,150.0,Entire townhouse,3.0,3.5,3.0,West Colfax
+2726,265.0,Entire residential home,4.0,2.0,6.0,Capitol Hill
+2727,200.0,Entire residential home,4.0,2.5,4.0,Stapleton
+2728,111.0,Entire guesthouse,1.0,1.0,1.0,Stapleton
+2729,350.0,Entire townhouse,2.0,2.0,2.0,Skyland
+2730,246.0,Entire residential home,2.0,2.0,2.0,West Highland
+2731,129.0,Private room in guest suite,2.0,1.0,2.0,Barnum West
+2732,170.0,Entire guesthouse,1.0,1.0,1.0,Platt Park
+2733,141.0,Entire guest suite,2.0,1.0,3.0,Villa Park
+2734,129.0,Entire townhouse,3.0,1.0,2.0,Five Points
+2735,383.0,Entire rental unit,2.0,2.0,3.0,Union Station
+2736,193.0,Entire rental unit,2.0,2.0,2.0,Union Station
+2738,178.0,Entire serviced apartment,2.0,2.0,2.0,Highland
+2740,105.0,Entire rental unit,1.0,1.0,1.0,North Capitol Hill
+2741,153.0,Entire residential home,2.0,1.0,2.0,Sloan Lake
+2742,236.0,Entire residential home,4.0,2.5,4.0,Gateway - Green Valley Ranch
+2743,118.0,Entire guest suite,1.0,1.0,2.0,West Colfax
+2744,57.0,Entire guest suite,1.0,1.0,2.0,Stapleton
+2745,656.0,Entire residential home,4.0,2.0,5.0,East Colfax
+2746,72.0,Private room in condominium (condo),1.0,1.5,1.0,Cheesman Park
+2747,69.0,Entire rental unit,1.0,1.0,2.0,North Park Hill
+2748,45.0,Private room in residential home,1.0,2.0,1.0,City Park West
+2749,64.0,Private room in residential home,1.0,1.0,1.0,Skyland
+2751,350.0,Entire townhouse,3.0,4.0,3.0,Hale
+2752,39.0,Private room in residential home,1.0,1.0,1.0,Gateway - Green Valley Ranch
+2754,107.0,Entire condominium (condo),2.0,1.0,2.0,Union Station
+2755,87.0,Entire rental unit,1.0,1.0,2.0,North Capitol Hill
+2756,555.0,Entire residential home,3.0,2.0,7.0,University Park
+2757,254.0,Entire rental unit,1.0,1.0,1.0,Union Station
+2759,72.0,Entire rental unit,2.0,1.0,2.0,Virginia Village
+2760,150.0,Private room in townhouse,1.0,1.0,1.0,Lincoln Park
+2762,120.0,Entire townhouse,2.0,2.5,1.0,West Colfax
+2763,70.0,Private room in townhouse,1.0,1.0,1.0,Whittier
+2764,49.0,Private room in residential home,1.0,1.0,1.0,Sunnyside
+2765,35.0,Shared room in rental unit,1.0,1.0,1.0,Washington Park
+2766,95.0,Entire condominium (condo),2.0,2.0,4.0,City Park West
+2767,145.0,Entire rental unit,1.0,1.0,1.0,Capitol Hill
+2768,216.0,Entire townhouse,3.0,4.0,4.0,Cherry Creek
+2769,43.0,Private room in condominium (condo),1.0,1.0,1.0,Speer
+2770,175.0,Entire bungalow,1.0,1.0,1.0,Highland
+2771,61.0,Entire condominium (condo),1.0,1.0,1.0,Speer
+2772,134.0,Entire residential home,2.0,1.0,2.0,Elyria Swansea
+2773,150.0,Entire guesthouse,1.0,1.0,2.0,Washington Park West
+2774,148.0,Entire bungalow,1.0,1.0,2.0,Barnum
+2775,184.0,Entire condominium (condo),1.0,1.0,1.0,Cheesman Park
+2776,111.0,Entire condominium (condo),1.0,1.0,1.0,Speer
+2777,70.0,Entire residential home,2.0,1.0,2.0,Chaffee Park
+2778,300.0,Entire condominium (condo),2.0,2.0,2.0,Highland
+2779,89.0,Entire condominium (condo),1.0,1.0,2.0,CBD
+2780,69.0,Entire condominium (condo),2.0,1.0,4.0,University
+2781,169.0,Entire guest suite,1.0,1.0,1.0,West Colfax
+2782,173.0,Entire serviced apartment,2.0,2.0,2.0,Lowry Field
+2783,66.0,Entire rental unit,1.0,1.0,1.0,North Park Hill
+2784,65.0,Entire rental unit,1.0,1.0,1.0,North Park Hill
+2785,125.0,Entire guest suite,2.0,1.0,3.0,Valverde
+2786,469.0,Entire residential home,5.0,3.5,5.0,Washington Park West
+2787,99.0,Entire condominium (condo),2.0,2.0,2.0,CBD
+2788,300.0,Entire townhouse,2.0,1.0,4.0,Speer
+2789,51.0,Entire rental unit,1.0,1.0,1.0,North Park Hill
+2790,65.0,Entire rental unit,1.0,1.0,1.0,North Park Hill
+2791,102.0,Entire condominium (condo),1.0,1.0,1.0,City Park West
+2792,25.0,Private room in townhouse,1.0,1.5,1.0,Virginia Village
+2793,515.0,Entire residential home,4.0,2.0,9.0,West Colfax
+2794,66.0,Entire rental unit,1.0,1.0,1.0,Five Points
+2795,300.0,Entire condominium (condo),2.0,2.0,2.0,Union Station
+2796,61.0,Entire rental unit,1.0,1.0,1.0,Five Points
+2798,67.0,Entire rental unit,1.0,1.0,2.0,North Park Hill
+2799,22.0,Private room in serviced apartment,1.0,0.0,1.0,Gateway - Green Valley Ranch
+2800,128.0,Entire serviced apartment,1.0,1.0,1.0,Baker
+2801,259.0,Entire residential home,2.0,1.5,2.0,Congress Park
+2803,125.0,Tiny house,1.0,1.0,1.0,Villa Park
+2804,125.0,Entire townhouse,2.0,2.0,2.0,West Colfax
+2805,212.0,Entire residential home,2.0,1.0,3.0,Cole
+2806,75.0,Private room in rental unit,1.0,1.0,0.0,Marston
+2807,150.0,Entire condominium (condo),1.0,1.0,1.0,Union Station
+2808,246.0,Entire loft,1.0,1.0,1.0,Union Station
+2809,206.0,Entire guest suite,2.0,1.0,3.0,Berkeley
+2810,150.0,Entire loft,1.0,1.0,1.0,Stapleton
+2811,150.0,Entire condominium (condo),1.0,1.0,1.0,Stapleton
+2812,112.0,Entire guest suite,1.0,1.0,3.0,Berkeley
+2813,146.0,Entire rental unit,1.0,1.0,1.0,Gateway - Green Valley Ranch
+2814,143.0,Entire rental unit,1.0,1.0,1.0,DIA
+2815,84.0,Entire guest suite,1.0,1.0,1.0,Virginia Village
+2816,435.0,Entire residential home,4.0,2.0,4.0,West Highland
+2817,228.0,Entire rental unit,1.0,1.0,1.0,Union Station
+2818,191.0,Entire residential home,2.0,2.0,2.0,Baker
+2819,140.0,Entire condominium (condo),1.0,1.0,1.0,Union Station
+2820,135.0,Entire rental unit,1.0,1.0,1.0,Speer
+2821,45.0,Private room in residential home,1.0,1.0,0.0,Ruby Hill
+2822,275.0,Entire rental unit,2.0,2.0,2.0,Highland
+2823,129.0,Entire rental unit,2.0,1.0,2.0,West Colfax
+2824,73.0,Entire residential home,2.0,1.0,1.0,Villa Park
+2825,178.0,Entire rental unit,3.0,2.0,3.0,Highland
+2826,235.0,Entire rental unit,1.0,1.0,2.0,Five Points
+2827,271.0,Entire residential home,5.0,2.0,5.0,Washington Virginia Vale
+2828,66.0,Entire rental unit,1.0,1.0,1.0,City Park West
+2829,600.0,Entire townhouse,6.0,4.5,7.0,Sloan Lake
+2830,225.0,Entire guest suite,2.0,1.0,5.0,University Park
+2831,230.0,Entire condominium (condo),1.0,1.0,2.0,Union Station
+2832,58.0,Private room in townhouse,1.0,1.5,1.0,Stapleton
+2833,155.0,Entire condominium (condo),2.0,1.0,2.0,Speer
+2834,118.0,Entire condominium (condo),1.0,1.0,1.0,Union Station
+2836,119.0,Private room in townhouse,2.0,2.0,2.0,Whittier
+2837,63.0,Entire residential home,1.0,1.0,1.0,Skyland
+2838,123.0,Entire residential home,2.0,1.0,2.0,Berkeley
+2839,75.0,Private room in townhouse,1.0,1.0,1.0,Skyland
+2840,228.0,Entire rental unit,1.0,1.0,1.0,Union Station
+2841,119.0,Entire residential home,2.0,1.0,2.0,Lincoln Park
+2842,399.0,Entire residential home,3.0,2.5,3.0,Sunnyside
+2844,195.0,Entire condominium (condo),1.0,1.0,1.0,Union Station
+2845,95.0,Entire condominium (condo),2.0,2.0,3.0,City Park West
+2846,81.0,Private room in bed and breakfast,1.0,1.5,1.0,Stapleton
+2847,100.0,Entire condominium (condo),2.0,2.0,4.0,City Park West
+2848,95.0,Entire condominium (condo),2.0,2.0,3.0,City Park West
+2849,100.0,Entire guest suite,2.0,1.0,3.0,Virginia Village
+2851,200.0,Entire residential home,2.0,2.0,3.0,Lincoln Park
+2852,49.0,Entire rental unit,1.0,1.0,1.0,Highland
+2853,200.0,Entire townhouse,2.0,2.5,2.0,Five Points
+2856,79.0,Entire condominium (condo),1.0,1.0,1.0,CBD
+2857,150.0,Entire loft,1.0,1.0,1.0,Stapleton
+2858,275.0,Entire residential home,2.0,1.0,3.0,Athmar Park
+2859,175.0,Entire condominium (condo),1.0,1.0,1.0,Capitol Hill
+2860,150.0,Entire loft,1.0,1.0,1.0,Stapleton
+2861,90.0,Private room in residential home,1.0,1.5,1.0,Gateway - Green Valley Ranch
+2862,89.0,Entire residential home,3.0,1.0,3.0,Harvey Park South
+2863,425.0,Entire townhouse,3.0,3.5,2.0,Sunnyside
+2865,417.0,Entire townhouse,2.0,3.0,2.0,Jefferson Park
+2866,166.0,Entire residential home,3.0,2.0,3.0,West Highland
+2867,131.0,Entire rental unit,1.0,1.0,1.0,Union Station
+2868,121.0,Entire rental unit,1.0,1.0,1.0,Union Station
+2869,155.0,Entire loft,1.0,2.0,2.0,Civic Center
+2870,231.0,Entire rental unit,2.0,2.0,2.0,Union Station
+2871,332.0,Entire townhouse,3.0,2.5,3.0,Highland
+2872,109.0,Entire residential home,1.0,1.0,1.0,Westwood
+2873,82.0,Entire rental unit,1.0,1.0,1.0,Congress Park
+2874,122.0,Entire guest suite,2.0,1.0,2.0,West Highland
+2875,231.0,Entire condominium (condo),2.0,2.0,2.0,Capitol Hill
+2876,182.0,Entire serviced apartment,2.0,2.0,2.0,Highland
+2877,186.0,Entire serviced apartment,2.0,2.0,2.0,Highland
+2878,107.0,Entire cottage,1.0,1.0,1.0,Capitol Hill
+2879,165.0,Entire bungalow,2.0,1.0,2.0,Speer
+2881,67.0,Entire rental unit,1.0,1.0,1.0,Speer
+2882,92.0,Entire condominium (condo),1.0,1.5,1.0,Rosedale
+2883,225.0,Entire townhouse,1.0,1.0,1.0,Sloan Lake
+2884,249.0,Entire guesthouse,1.0,1.5,0.0,Cole
+2885,72.0,Private room in residential home,1.0,1.0,1.0,Harvey Park
+2886,143.0,Entire serviced apartment,1.0,1.0,1.0,Highland
+2887,137.0,Entire rental unit,2.0,1.0,2.0,West Highland
+2888,104.0,Entire rental unit,1.0,1.0,1.0,West Highland
+2889,105.0,Entire rental unit,1.0,1.0,1.0,West Highland
+2890,119.0,Entire rental unit,1.0,1.0,1.0,West Highland
+2891,96.0,Entire rental unit,1.0,1.0,1.0,West Highland
+2892,152.0,Entire townhouse,3.0,3.5,3.0,North Park Hill
+2893,88.0,Entire residential home,1.0,1.0,2.0,Ruby Hill
+2894,75.0,Entire rental unit,1.0,1.0,1.0,Baker
+2895,52.0,Entire rental unit,1.0,1.0,1.0,Baker
+2896,210.0,Entire residential home,2.0,1.0,3.0,Villa Park
+2897,156.0,Entire residential home,2.0,1.0,2.0,Berkeley
+2898,128.0,Entire townhouse,1.0,3.5,1.0,West Colfax
+2899,140.0,Entire condominium (condo),2.0,1.5,2.0,Cheesman Park
+2900,229.0,Religious building,1.0,1.5,1.0,Athmar Park
+2901,116.0,Entire guesthouse,1.0,1.0,2.0,Cole
+2902,223.0,Entire residential home,2.0,1.0,2.0,Barnum West
+2903,115.0,Entire guest suite,1.0,1.0,1.0,Regis
+2904,40.0,Private room in residential home,1.0,1.0,1.0,Gateway - Green Valley Ranch
+2905,36.0,Private room in townhouse,2.0,1.5,1.0,Stapleton
+2906,142.0,Entire residential home,2.0,1.0,3.0,West Highland
+2907,176.0,Entire serviced apartment,1.0,1.0,1.0,Civic Center
+2909,65.0,Entire condominium (condo),1.0,1.0,1.0,Highland
+2910,115.0,Entire rental unit,2.0,1.0,2.0,Highland
+2911,156.0,Entire guesthouse,2.0,1.0,3.0,Sunnyside
+2912,106.0,Entire guesthouse,1.0,1.0,2.0,West Highland
+2913,181.0,Entire loft,1.0,1.0,1.0,Union Station
+2914,110.0,Entire bungalow,2.0,1.0,3.0,Lincoln Park
+2916,200.0,Entire townhouse,3.0,2.0,4.0,North Capitol Hill
+2917,150.0,Entire rental unit,2.0,1.0,2.0,West Highland
+2918,235.0,Entire rental unit,1.0,1.0,1.0,Union Station
+2919,150.0,Entire condominium (condo),2.0,2.0,3.0,Five Points
+2920,200.0,Entire residential home,3.0,2.5,3.0,Lowry Field
+2921,165.0,Entire rental unit,2.0,1.5,3.0,Five Points
+2923,249.0,Entire residential home,3.0,2.0,3.0,Five Points
+2924,67.0,Private room in residential home,1.0,1.0,1.0,East Colfax
+2925,211.0,Entire serviced apartment,1.0,1.0,1.0,Cherry Creek
+2926,542.0,Entire residential home,5.0,4.5,7.0,Highland
+2927,95.0,Entire guest suite,1.0,1.0,1.0,Highland
+2928,100.0,Entire condominium (condo),2.0,1.0,2.0,North Capitol Hill
+2929,150.0,Entire residential home,2.0,1.0,3.0,Bear Valley
+2930,238.0,Entire guest suite,3.0,2.0,4.0,Washington Virginia Vale
+2931,133.0,Entire guest suite,1.0,1.0,1.0,Five Points
+2932,139.0,Entire guesthouse,1.0,1.0,1.0,Berkeley
+2933,108.0,Entire guesthouse,1.0,1.0,2.0,Five Points
+2935,225.0,Entire residential home,2.0,2.0,2.0,Barnum
+2936,35.0,Private room in residential home,1.0,1.0,0.0,Lowry Field
+2939,373.0,Entire serviced apartment,2.0,2.5,2.0,Civic Center
+2940,135.0,Entire condominium (condo),2.0,1.0,2.0,Five Points
+2941,287.0,Entire townhouse,2.0,2.5,2.0,Washington Virginia Vale
+2942,149.0,Private room in residential home,1.0,1.0,1.0,Jefferson Park
+2944,272.0,Entire residential home,3.0,2.5,4.0,Gateway - Green Valley Ranch
+2945,254.0,Entire rental unit,1.0,1.0,1.0,Union Station
+2946,47.0,Private room in bungalow,1.0,1.0,1.0,Wellshire
+2947,89.0,Entire condominium (condo),2.0,1.5,2.0,Washington Virginia Vale
+2948,175.0,Entire serviced apartment,2.0,2.0,2.0,Highland
+2949,100.0,Entire townhouse,2.0,1.5,2.0,City Park West
+2951,82.0,Entire condominium (condo),1.0,1.0,1.0,Highland
+2952,104.0,Private room in residential home,1.0,1.0,1.0,Cole
+2953,168.0,Entire rental unit,2.0,2.0,2.0,West Colfax
+2954,121.0,Entire guest suite,2.0,1.0,3.0,West Highland
+2955,196.0,Entire serviced apartment,1.0,1.5,1.0,Civic Center
+2956,102.0,Entire guest suite,1.0,1.0,2.0,Sunnyside
+2957,395.0,Entire residential home,3.0,3.0,3.0,University Park
+2958,125.0,Entire guest suite,1.0,1.0,2.0,Highland
+2959,195.0,Entire bungalow,3.0,2.0,2.0,Chaffee Park
+2960,174.0,Entire guest suite,3.0,1.0,4.0,Harvey Park South
+2961,75.0,Private room in townhouse,1.0,1.0,1.0,Globeville
+2962,140.0,Entire condominium (condo),2.0,2.0,2.0,Capitol Hill
+2963,263.0,Entire condominium (condo),1.0,1.0,1.0,Five Points
+2964,220.0,Entire residential home,2.0,2.5,3.0,Cole
+2965,65.0,Entire condominium (condo),1.0,1.0,1.0,Capitol Hill
+2966,254.0,Entire rental unit,1.0,1.0,1.0,Union Station
+2967,150.0,Entire condominium (condo),3.0,2.5,5.0,West Colfax
+2968,238.0,Entire condominium (condo),2.0,1.0,3.0,Berkeley
+2969,129.0,Entire guest suite,1.0,1.0,1.0,Cheesman Park
+2970,200.0,Entire residential home,3.0,2.0,3.0,Hale
+2971,254.0,Entire rental unit,1.0,1.0,1.0,Union Station
+2972,306.0,Entire condominium (condo),2.0,2.0,3.0,Berkeley
+2975,200.0,Entire residential home,2.0,2.0,2.0,Congress Park
+2976,254.0,Entire rental unit,1.0,1.0,1.0,Union Station
+2977,129.0,Entire guest suite,1.0,1.0,3.0,Athmar Park
+2979,214.0,Entire guest suite,2.0,1.0,2.0,Baker
+2980,226.0,Entire condominium (condo),1.0,1.0,2.0,Berkeley
+2981,130.0,Entire condominium (condo),2.0,2.0,3.0,Baker
+2982,135.0,Entire loft,3.0,2.5,3.0,Five Points
+2983,218.0,Entire residential home,3.0,2.0,3.0,Gateway - Green Valley Ranch
+2984,70.0,Private room in rental unit,1.0,1.0,1.0,Union Station
+2985,37.0,Private room in townhouse,1.0,1.0,1.0,Hampden
+2986,244.0,Entire condominium (condo),2.0,1.0,3.0,Berkeley
+2987,258.0,Entire condominium (condo),2.0,1.0,2.0,Berkeley
+2988,226.0,Entire condominium (condo),2.0,1.0,3.0,Berkeley
+2989,211.0,Entire condominium (condo),1.0,1.0,2.0,Berkeley
+2990,24.0,Shared room in residential home,1.0,2.0,1.0,Stapleton
+2991,91.0,Entire serviced apartment,1.0,1.0,1.0,Five Points
+2992,110.0,Entire guesthouse,1.0,1.0,0.0,Platt Park
+2993,275.0,Entire residential home,4.0,2.0,4.0,West Highland
+2995,120.0,Entire residential home,3.0,2.0,3.0,Barnum West
+2999,90.0,Entire residential home,3.0,2.0,3.0,Barnum West
+3000,75.0,Entire residential home,1.0,1.0,1.0,Barnum West
+3002,162.0,Entire condominium (condo),2.0,1.0,2.0,Five Points
+3003,161.0,Entire condominium (condo),2.0,1.0,2.0,Five Points
+3004,185.0,Entire townhouse,2.0,1.5,2.0,DIA
+3005,314.0,Entire condominium (condo),2.0,2.0,3.0,Berkeley
+3006,308.0,Entire condominium (condo),2.0,2.0,3.0,Berkeley
+3007,308.0,Entire condominium (condo),2.0,2.0,3.0,Berkeley
+3008,80.0,Private room in residential home,1.0,1.0,1.0,Hale
+3009,258.0,Entire condominium (condo),2.0,1.0,3.0,Berkeley
+3010,218.0,Entire condominium (condo),1.0,1.0,2.0,Berkeley
+3011,207.0,Entire condominium (condo),1.0,1.0,2.0,Berkeley
+3012,258.0,Entire condominium (condo),2.0,1.0,3.0,Berkeley
+3013,230.0,Entire condominium (condo),1.0,1.0,2.0,Berkeley
+3014,258.0,Entire condominium (condo),2.0,1.0,3.0,Berkeley
+3015,209.0,Entire rental unit,2.0,1.5,2.0,Five Points
+3016,186.0,Entire condominium (condo),2.0,1.0,2.0,Five Points
+3017,150.0,Entire guesthouse,1.0,1.0,1.0,Platt Park
+3018,157.0,Entire condominium (condo),2.0,1.0,3.0,Five Points
+3019,297.0,Entire condominium (condo),4.0,2.0,4.0,Five Points
+3020,125.0,Entire condominium (condo),2.0,2.0,2.0,Union Station
+3021,228.0,Entire residential home,3.0,2.0,3.0,North Park Hill
+3022,321.0,Entire residential home,2.0,1.0,2.0,Washington Park West
+3023,53.0,Entire guest suite,1.0,1.0,1.0,City Park West
+3024,435.0,Entire bungalow,3.0,2.0,3.0,Washington Park West
+3025,150.0,Entire townhouse,2.0,2.5,2.0,Sloan Lake
+3026,175.0,Entire condominium (condo),2.0,1.0,2.0,Highland
+3027,140.0,Entire townhouse,1.0,1.0,1.0,Speer
+3028,204.0,Entire condominium (condo),2.0,2.0,2.0,Capitol Hill
+3029,185.0,Entire townhouse,2.0,2.5,3.0,Jefferson Park
+3030,160.0,Entire residential home,3.0,2.0,3.0,Whittier
+3031,140.0,Entire residential home,1.0,1.0,2.0,Chaffee Park
+3033,139.0,Entire guest suite,2.0,1.0,3.0,Stapleton
+3034,125.0,Entire rental unit,1.0,1.0,1.0,Speer
+3035,120.0,Entire residential home,2.0,1.0,2.0,Sunnyside
+3036,115.0,Entire guest suite,2.0,1.0,3.0,Harvey Park
+3037,144.0,Entire guest suite,1.0,1.0,3.0,Regis
+3038,149.0,Room in boutique hotel,1.0,1.0,0.0,CBD
+3039,136.0,Entire rental unit,1.0,1.0,1.0,Civic Center
+3040,184.0,Entire rental unit,1.0,1.0,1.0,Highland
+3041,185.0,Entire rental unit,1.0,1.5,1.0,Union Station
+3042,128.0,Entire guest suite,2.0,1.0,3.0,Hale
+3043,88.0,Entire guest suite,2.0,1.0,2.0,Ruby Hill
+3044,64.0,Entire rental unit,1.0,1.0,1.0,City Park West
+3045,129.0,Room in boutique hotel,1.0,1.0,1.0,CBD
+3046,295.0,Entire residential home,4.0,3.5,4.0,Stapleton
+3047,249.0,Entire residential home,2.0,2.0,3.0,Washington Park West
+3048,99.0,Entire rental unit,3.0,1.0,4.0,West Highland
+3050,176.0,Entire condominium (condo),2.0,2.0,3.0,Five Points
+3051,157.0,Entire condominium (condo),2.0,2.0,4.0,Five Points
+3052,299.0,Entire townhouse,4.0,4.0,6.0,City Park West
+3053,109.0,Entire rental unit,2.0,1.0,3.0,West Colfax
+3054,284.0,Entire rental unit,4.0,3.5,6.0,North Capitol Hill
+3055,224.0,Entire residential home,3.0,3.5,5.0,Cherry Creek
+3056,229.0,Entire townhouse,2.0,2.5,2.0,Five Points
+3057,199.0,Entire townhouse,3.0,2.5,4.0,West Colfax
+3058,250.0,Entire condominium (condo),2.0,3.0,4.0,Jefferson Park
+3059,166.0,Entire condominium (condo),2.0,1.0,2.0,West Colfax
+3060,184.0,Entire rental unit,1.0,1.0,1.0,Highland
+3063,129.0,Entire townhouse,2.0,2.5,3.0,Highland
+3064,140.0,Room in boutique hotel,1.0,1.0,2.0,CBD
+3065,200.0,Entire townhouse,3.0,1.5,3.0,Capitol Hill
+3066,124.0,Entire townhouse,3.0,2.0,3.0,Capitol Hill
+3067,169.0,Entire townhouse,3.0,2.5,4.0,Capitol Hill
+3068,154.0,Entire townhouse,2.0,2.0,3.0,Five Points
+3069,400.0,Entire residential home,3.0,2.0,6.0,Lincoln Park
+3070,95.0,Entire condominium (condo),1.0,1.0,1.0,Highland
+3071,180.0,Entire residential home,2.0,2.0,2.0,Regis
+3072,94.0,Entire guest suite,1.0,1.0,1.0,Congress Park
+3073,166.0,Entire guesthouse,2.0,1.0,3.0,Chaffee Park
+3074,280.0,Entire rental unit,1.0,1.0,1.0,Union Station
+3075,193.0,Entire residential home,1.0,1.5,2.0,Highland
+3077,162.0,Room in hotel,1.0,1.0,1.0,Northeast Park Hill
+3078,486.0,Entire residential home,3.0,2.5,3.0,Whittier
+3079,325.0,Room in hotel,2.0,2.0,2.0,Northeast Park Hill
+3080,664.0,Room in hotel,4.0,4.0,8.0,Northeast Park Hill
+3081,169.0,Room in hotel,1.0,1.0,2.0,Stapleton
+3082,315.0,Room in hotel,2.0,2.0,2.0,Northeast Park Hill
+3083,503.0,Room in hotel,3.0,3.0,6.0,Northeast Park Hill
+3084,335.0,Room in hotel,2.0,2.0,4.0,Northeast Park Hill
+3085,162.0,Room in hotel,1.0,1.0,1.0,Stapleton
+3086,32.0,Private room in residential home,1.0,1.0,1.0,Gateway - Green Valley Ranch
+3087,40.0,Private room in guesthouse,1.0,1.5,0.0,Gateway - Green Valley Ranch
+3088,294.0,Entire townhouse,3.0,2.5,3.0,Highland
+3090,90.0,Entire residential home,2.0,1.0,3.0,Gateway - Green Valley Ranch
+3091,140.0,Entire residential home,1.0,2.0,1.0,City Park West
+3092,99.0,Entire guest suite,1.0,1.0,1.0,Cole
+3093,418.0,Entire townhouse,4.0,3.5,5.0,Highland
+3094,95.0,Entire guest suite,1.0,1.0,1.0,Sunnyside
+3095,69.0,Entire condominium (condo),1.0,1.0,1.0,Speer
+3096,170.0,Entire guest suite,1.0,1.0,2.0,Speer
+3097,84.0,Entire rental unit,2.0,1.0,2.0,Congress Park
+3098,88.0,Entire condominium (condo),2.0,2.0,2.0,Hampden South
+3099,128.0,Entire rental unit,2.0,1.0,4.0,Valverde
+3100,150.0,Entire guesthouse,1.0,1.0,1.0,West Colfax
+3101,166.0,Entire rental unit,2.0,2.0,2.0,Highland
+3102,84.0,Entire residential home,2.0,1.0,3.0,Baker
+3103,130.0,Entire condominium (condo),2.0,2.0,2.0,Jefferson Park
+3104,172.0,Entire residential home,3.0,1.0,3.0,Athmar Park
+3105,180.0,Entire townhouse,2.0,2.0,2.0,Union Station
+3106,254.0,Entire rental unit,1.0,1.0,1.0,Union Station
+3107,70.0,Private room in residential home,1.0,1.0,1.0,Baker
+3108,219.0,Entire townhouse,2.0,2.0,2.0,Jefferson Park
+3110,89.0,Entire guest suite,1.0,1.0,0.0,City Park West
+3111,301.0,Entire residential home,4.0,2.0,4.0,Five Points
+3112,80.0,Entire residential home,2.0,1.0,2.0,Highland
+3113,299.0,Entire residential home,3.0,2.5,6.0,Gateway - Green Valley Ranch
+3114,180.0,Entire residential home,4.0,2.5,4.0,Whittier
+3115,24.0,Shared room in residential home,1.0,2.0,1.0,Stapleton
+3116,85.0,Entire condominium (condo),1.0,1.0,0.0,Windsor
+3117,213.0,Entire guest suite,2.0,1.0,2.0,University Park
+3118,66.0,Entire rental unit,1.0,1.0,1.0,Congress Park
+3119,88.0,Private room in residential home,2.0,1.0,3.0,Fort Logan
+3120,554.0,Entire residential home,4.0,3.5,4.0,Sunnyside
+3121,65.0,Entire guest suite,1.0,1.0,1.0,West Highland
+3122,60.0,Private room in rental unit,1.0,1.0,1.0,Hale
+3123,70.0,Entire rental unit,2.0,1.0,2.0,West Highland
+3124,150.0,Entire guest suite,2.0,1.0,3.0,Whittier
+3125,120.0,Entire guesthouse,1.0,1.0,1.0,Cole
+3126,135.0,Entire residential home,1.0,1.0,1.0,West Highland
+3127,356.0,Entire residential home,3.0,2.5,3.0,Congress Park
+3128,43.0,Private room in rental unit,1.0,1.0,1.0,Washington Virginia Vale
+3129,147.0,Entire townhouse,2.0,1.0,2.0,Cole
+3130,198.0,Entire rental unit,1.0,1.0,1.0,Cheesman Park
+3131,199.0,Entire residential home,1.0,1.0,1.0,Washington Park
+3133,24.0,Shared room in residential home,1.0,2.0,1.0,Stapleton
+3134,152.0,Entire townhouse,2.0,1.0,3.0,Five Points
+3135,471.0,Entire residential home,4.0,2.0,7.0,Chaffee Park
+3136,559.0,Entire residential home,4.0,3.0,3.0,Berkeley
+3137,110.0,Entire rental unit,1.0,1.0,1.0,Overland
+3138,499.0,Entire residential home,3.0,3.5,3.0,Whittier
+3139,171.0,Entire bungalow,1.0,1.0,0.0,Washington Park West
+3140,650.0,Entire townhouse,3.0,2.5,4.0,Highland
+3141,125.0,Entire residential home,3.0,2.5,3.0,Gateway - Green Valley Ranch
+3142,198.0,Entire residential home,2.0,1.0,3.0,Cherry Creek
+3143,230.0,Entire condominium (condo),2.0,2.5,2.0,West Colfax
+3144,275.0,Entire townhouse,1.0,2.5,1.0,Sloan Lake
+3145,348.0,Entire rental unit,2.0,2.0,2.0,Cheesman Park
+3146,228.0,Entire rental unit,1.0,1.0,1.0,Union Station
+3149,228.0,Entire rental unit,1.0,1.0,1.0,Union Station
+3150,254.0,Entire rental unit,1.0,1.0,1.0,Union Station
+3151,175.0,Entire residential home,4.0,4.0,6.0,Speer
+3152,123.0,Entire guesthouse,1.0,1.0,2.0,North Capitol Hill
+3153,139.0,Entire townhouse,2.0,1.5,2.0,Highland
+3154,96.0,Entire guest suite,1.0,1.0,1.0,Fort Logan
+3156,140.0,Entire rental unit,1.0,1.0,1.0,North Park Hill
+3157,63.0,Entire rental unit,1.0,1.0,1.0,Baker
+3159,59.0,Entire rental unit,1.0,1.0,1.0,Civic Center
+3160,125.0,Entire rental unit,1.0,1.0,2.0,West Highland
+3161,118.0,Entire condominium (condo),1.0,1.0,1.0,Five Points
+3162,133.0,Entire rental unit,1.0,1.0,1.0,Union Station
+3165,84.0,Private room in residential home,1.0,1.0,1.0,Northeast Park Hill
+3167,358.0,Entire residential home,4.0,4.0,4.0,Highland
+3168,87.0,Entire condominium (condo),1.0,1.0,1.0,Lincoln Park
+3169,133.0,Entire loft,2.0,1.5,1.0,Five Points
+3170,145.0,Entire rental unit,3.0,2.0,0.0,Speer
+3171,225.0,Entire residential home,2.0,1.0,2.0,Washington Park West
+3173,295.0,Entire townhouse,2.0,2.0,1.0,Jefferson Park
+3176,126.0,Entire guest suite,1.0,1.0,1.0,Montclair
+3177,144.0,Entire rental unit,3.0,2.0,3.0,Speer
+3180,299.0,Entire rental unit,3.0,2.0,3.0,Highland
+3181,336.0,Entire townhouse,2.0,3.0,2.0,Jefferson Park
+3183,109.0,Entire condominium (condo),1.0,1.0,1.0,Union Station
+3184,208.0,Entire rental unit,2.0,2.0,2.0,Capitol Hill
+3185,116.0,Entire guesthouse,2.0,2.5,2.0,Cherry Creek
+3187,99.0,Entire rental unit,2.0,1.0,4.0,North Capitol Hill
+3188,135.0,Entire rental unit,1.0,1.0,1.0,Speer
+3189,779.0,Entire residential home,5.0,3.0,4.0,Washington Park West
+3190,207.0,Entire residential home,3.0,2.0,4.0,Sloan Lake
+3191,65.0,Entire residential home,1.0,1.0,1.0,Platt Park
+3192,800.0,Entire residential home,5.0,4.5,5.0,Cheesman Park
+3193,120.0,Entire guest suite,1.0,1.0,1.0,Speer
+3194,95.0,Entire guest suite,1.0,1.0,1.0,Capitol Hill
+3195,140.0,Entire rental unit,2.0,1.0,2.0,City Park West
+3196,225.0,Entire townhouse,3.0,1.0,4.0,North Park Hill
+3197,177.0,Entire rental unit,1.0,1.0,2.0,Five Points
+3198,195.0,Entire guest suite,2.0,1.0,3.0,Speer
+3200,130.0,Entire residential home,2.0,2.0,2.0,Platt Park
+3201,147.0,Entire rental unit,1.0,1.0,1.0,University Hills
+3202,137.0,Entire condominium (condo),2.0,2.0,2.0,Overland
+3204,208.0,Entire townhouse,2.0,1.0,3.0,North Park Hill
+3205,170.0,Entire guest suite,1.0,1.0,2.0,West Colfax
+3206,65.0,Entire townhouse,1.0,1.0,1.0,Sloan Lake
+3207,46.0,Private room in residential home,1.0,1.0,1.0,Gateway - Green Valley Ranch
+3208,89.0,Entire condominium (condo),2.0,1.0,2.0,Hale
+3209,180.0,Entire townhouse,2.0,1.0,2.0,Northeast Park Hill
+3210,500.0,Entire townhouse,2.0,2.5,2.0,Five Points
+3211,109.0,Entire condominium (condo),1.0,1.0,2.0,Union Station
+3212,149.0,Entire guest suite,2.0,1.0,3.0,Ruby Hill
+3213,95.0,Entire residential home,1.0,1.0,1.0,Sunnyside
+3214,250.0,Entire residential home,4.0,2.0,4.0,Country Club
+3215,352.0,Entire residential home,3.0,2.0,5.0,Barnum West
+3216,567.0,Entire residential home,4.0,3.0,7.0,Westwood
+3217,867.0,Entire residential home,1.0,1.0,2.0,Westwood
+3219,154.0,Entire guesthouse,1.0,1.0,1.0,Whittier
+3220,85.0,Private room in condominium (condo),1.0,1.0,1.0,Skyland
+3221,102.0,Entire rental unit,1.0,1.0,2.0,Union Station
+3222,175.0,Entire rental unit,1.0,1.0,1.0,Union Station
+3223,32.0,Private room in rental unit,1.0,1.0,1.0,Gateway - Green Valley Ranch
+3224,500.0,Entire townhouse,3.0,2.5,4.0,Capitol Hill
+3226,227.0,Entire rental unit,2.0,2.0,2.0,Union Station
+3227,300.0,Entire residential home,1.0,1.0,1.0,Five Points
+3228,118.0,Entire rental unit,1.0,1.0,1.0,Speer
+3229,48.0,Private room in guest suite,1.0,1.0,1.0,Cheesman Park
+3231,173.0,Entire condominium (condo),2.0,1.0,2.0,West Colfax
+3232,204.0,Entire townhouse,2.0,2.5,2.0,Jefferson Park
+3233,115.0,Entire rental unit,1.0,1.0,1.0,Speer
+3234,307.0,Entire residential home,5.0,3.0,6.0,Cory - Merrill
+3236,141.0,Entire guesthouse,1.0,1.0,1.0,Speer
+3237,249.0,Entire rental unit,2.0,2.5,2.0,Union Station
+3238,254.0,Entire rental unit,1.0,1.0,1.0,Union Station
+3239,59.0,Private room in residential home,1.0,1.0,1.0,Gateway - Green Valley Ranch
+3241,150.0,Entire residential home,1.0,1.0,1.0,Cheesman Park
+3242,142.0,Entire guest suite,1.0,1.0,1.0,West Colfax
+3244,159.0,Entire rental unit,2.0,1.0,2.0,Speer
+3246,254.0,Entire rental unit,1.0,1.0,1.0,Union Station
+3248,201.0,Entire condominium (condo),2.0,1.5,2.0,Five Points
+3249,232.0,Entire rental unit,2.0,2.0,2.0,Union Station
+3250,245.0,Entire townhouse,3.0,3.0,2.0,Union Station
+3251,140.0,Entire condominium (condo),2.0,1.0,3.0,Congress Park
+3252,157.0,Entire guest suite,1.0,1.0,2.0,Five Points
+3253,99.0,Entire townhouse,3.0,3.0,3.0,Skyland
+3254,400.0,Entire townhouse,2.0,2.5,3.0,Highland
+3255,150.0,Entire condominium (condo),1.0,1.0,2.0,Cheesman Park
+3257,211.0,Entire residential home,2.0,1.0,2.0,Cole
+3260,145.0,Entire townhouse,1.0,1.0,1.0,Five Points
+3261,322.0,Entire residential home,4.0,2.0,4.0,Regis
+3263,136.0,Entire residential home,1.0,1.0,1.0,Baker
+3264,300.0,Entire residential home,4.0,3.5,3.0,West Highland
+3265,482.0,Entire residential home,3.0,3.5,6.0,West Colfax
+3266,53.0,Private room in residential home,1.0,1.0,1.0,Gateway - Green Valley Ranch
+3267,135.0,Entire condominium (condo),1.0,1.0,2.0,CBD
+3268,290.0,Entire bungalow,3.0,1.0,3.0,North Park Hill
+3269,199.0,Entire residential home,3.0,1.5,0.0,East Colfax
+3271,114.0,Entire condominium (condo),2.0,1.0,4.0,Villa Park
+3272,118.0,Entire rental unit,1.0,1.0,1.0,Speer
+3273,197.0,Entire rental unit,2.0,2.0,2.0,Southmoor Park
+3274,80.0,Entire residential home,3.0,1.0,3.0,Villa Park
+3276,284.0,Entire residential home,5.0,3.5,5.0,Congress Park
+3277,182.0,Entire rental unit,2.0,2.0,2.0,Gateway - Green Valley Ranch
+3278,162.0,Entire rental unit,1.0,1.0,1.0,Lowry Field
+3280,188.0,Entire rental unit,2.0,2.0,2.0,Lowry Field
+3281,170.0,Entire rental unit,2.0,2.0,2.0,Lowry Field
+3283,150.0,Entire residential home,1.0,1.0,2.0,Five Points
+3284,485.0,Entire residential home,4.0,3.5,5.0,Skyland
+3286,202.0,Entire rental unit,1.0,1.0,1.0,Union Station
+3287,149.0,Entire guest suite,2.0,1.0,2.0,Highland
+3288,128.0,Entire rental unit,1.0,1.0,1.0,Congress Park
+3289,75.0,Private room in villa,1.0,2.0,2.0,Villa Park
+3290,60.0,Entire condominium (condo),1.0,1.0,1.0,City Park West
+3291,99.0,Entire residential home,2.0,1.0,3.0,Lincoln Park
+3292,527.0,Entire townhouse,2.0,2.5,2.0,Highland
+3293,283.0,Entire rental unit,2.0,2.0,3.0,CBD
+3294,286.0,Entire rental unit,1.0,1.0,2.0,CBD
+3295,160.0,Entire residential home,3.0,3.0,4.0,Montclair
+3298,52.0,Private room in residential home,1.0,1.0,1.0,Athmar Park
+3300,550.0,Room in hotel,2.0,1.0,3.0,CBD
+3301,300.0,Entire rental unit,2.0,1.0,3.0,CBD
+3304,273.0,Entire townhouse,1.0,2.0,2.0,Berkeley
+3305,485.0,Entire residential home,3.0,2.0,3.0,Barnum
+3306,114.0,Entire residential home,1.0,1.0,1.0,Stapleton
+3307,162.0,Entire rental unit,2.0,1.0,4.0,Cole
+3308,312.0,Entire rental unit,2.0,1.0,2.0,CBD
+3309,115.0,Entire rental unit,1.0,1.0,1.0,Speer
+3310,296.0,Entire rental unit,2.0,1.0,2.0,CBD
+3311,312.0,Entire rental unit,2.0,1.0,2.0,CBD
+3312,286.0,Entire rental unit,2.0,1.0,3.0,CBD
+3313,298.0,Entire rental unit,2.0,1.0,3.0,CBD
+3314,237.0,Entire rental unit,1.0,1.0,2.0,CBD
+3315,261.0,Entire rental unit,1.0,1.0,1.0,CBD
+3316,349.0,Entire rental unit,1.0,1.0,1.0,Five Points
+3317,131.0,Entire residential home,2.0,1.0,3.0,Baker
+3318,135.0,Entire loft,2.0,1.5,3.0,Five Points
+3319,95.0,Entire rental unit,1.0,1.0,0.0,Speer
+3320,155.0,Entire guesthouse,1.0,1.0,2.0,Jefferson Park
+3321,285.0,Entire condominium (condo),1.0,1.5,2.0,Five Points
+3322,253.0,Entire townhouse,2.0,2.5,3.0,Five Points
+3323,58.0,Private room in residential home,1.0,1.0,1.0,Athmar Park
+3325,58.0,Private room in residential home,1.0,1.0,1.0,Athmar Park
+3328,66.0,Private room in residential home,1.0,1.0,1.0,Athmar Park
+3330,389.0,Entire residential home,5.0,4.5,6.0,Stapleton
+3331,88.0,Entire residential home,3.0,2.5,3.0,Gateway - Green Valley Ranch
+3332,104.0,Entire guest suite,1.0,1.0,1.0,Sloan Lake
+3333,343.0,Entire residential home,4.0,2.0,4.0,West Highland
+3334,65.0,Private room in residential home,1.0,1.0,1.0,Athmar Park
+3335,168.0,Private room in residential home,1.0,1.5,3.0,Gateway - Green Valley Ranch
+3336,200.0,Entire bungalow,2.0,1.0,2.0,Cole
+3337,100.0,Private room in residential home,1.0,1.0,1.0,Virginia Village
+3338,35.0,Private room in rental unit,1.0,0.0,1.0,Goldsmith
+3339,65.0,Entire condominium (condo),1.0,1.0,1.0,Goldsmith
+3340,129.0,Entire condominium (condo),1.0,1.5,1.0,Washington Virginia Vale
+3342,228.0,Entire rental unit,1.0,1.0,1.0,Union Station
+3344,110.0,Entire guest suite,2.0,1.0,2.0,Sunnyside
+3345,149.0,Entire condominium (condo),2.0,2.0,4.0,Highland
+3346,149.0,Entire condominium (condo),1.0,1.5,3.0,Highland
+3347,199.0,Entire condominium (condo),2.0,2.0,5.0,Highland
+3348,115.0,Entire residential home,1.0,1.0,0.0,Sloan Lake
+3349,249.0,Entire condominium (condo),3.0,2.5,6.0,Highland
+3350,149.0,Entire condominium (condo),1.0,1.5,3.0,Highland
+3351,149.0,Entire condominium (condo),1.0,1.5,3.0,Highland
+3352,199.0,Entire condominium (condo),2.0,2.0,5.0,Highland
+3353,149.0,Entire condominium (condo),2.0,2.0,4.0,Highland
+3354,149.0,Entire condominium (condo),1.0,1.0,1.0,Highland
+3355,149.0,Entire condominium (condo),1.0,1.5,1.0,Highland
+3356,450.0,Entire residential home,2.0,2.0,2.0,Rosedale
+3357,108.0,Entire rental unit,1.0,1.0,1.0,Union Station
+3359,166.0,Entire rental unit,1.0,1.0,1.0,Baker
+3360,493.0,Entire townhouse,3.0,3.0,3.0,Civic Center
+3361,345.0,Entire townhouse,2.0,3.0,2.0,Overland
+3362,119.0,Entire rental unit,1.0,1.0,1.0,Congress Park
+3364,280.0,Entire rental unit,1.0,1.0,1.0,Union Station
+3365,312.0,Entire rental unit,2.0,1.0,2.0,CBD
+3366,162.0,Entire guesthouse,2.0,1.0,3.0,Sunnyside
+3367,125.0,Entire guest suite,1.0,1.0,2.0,Cole
+3368,149.0,Entire condominium (condo),1.0,1.0,2.0,Highland
+3369,582.0,Entire residential home,4.0,2.0,14.0,Cole
+3370,160.0,Entire residential home,4.0,3.0,4.0,West Highland
+3371,105.0,Private room in residential home,1.0,1.0,1.0,Platt Park
+3372,351.0,Entire townhouse,2.0,2.5,2.0,Five Points
+3373,166.0,Entire rental unit,1.0,1.0,1.0,Baker
+3374,45.0,Private room in rental unit,1.0,1.0,1.0,Clayton
+3375,200.0,Private room in castle,1.0,1.0,1.0,City Park West
+3377,125.0,Private room in castle,1.0,1.0,1.0,City Park West
+3378,135.0,Private room in castle,1.0,1.0,1.0,City Park West
+3379,100.0,Private room in residential home,1.0,1.0,2.0,Virginia Village
+3381,149.0,Entire condominium (condo),1.0,1.0,1.0,Highland
+3382,149.0,Entire condominium (condo),1.0,1.5,3.0,Highland
+3383,199.0,Entire condominium (condo),2.0,2.0,5.0,Highland
+3384,199.0,Entire condominium (condo),2.0,2.0,4.0,Highland
+3385,149.0,Entire condominium (condo),1.0,1.5,3.0,Highland
+3386,149.0,Entire condominium (condo),1.0,1.0,3.0,Highland
+3387,234.0,Entire condominium (condo),2.0,2.0,4.0,Highland
+3388,149.0,Entire condominium (condo),1.0,1.0,1.0,Highland
+3389,299.0,Entire condominium (condo),3.0,2.5,6.0,Highland
+3390,85.0,Entire rental unit,2.0,2.0,2.0,West Colfax
+3391,378.0,Entire residential home,2.0,2.0,2.0,West Highland
+3392,189.0,Entire guest suite,3.0,1.0,3.0,West Highland
+3393,133.0,Entire rental unit,2.0,2.0,2.0,University Park
+3394,158.0,Entire rental unit,1.0,1.0,1.0,Indian Creek
+3395,101.0,Entire rental unit,1.0,1.0,1.0,University Park
+3396,147.0,Entire rental unit,1.0,1.0,1.0,University Hills
+3397,147.0,Entire rental unit,1.0,1.0,1.0,University Park
+3398,147.0,Entire rental unit,1.0,1.0,1.0,University Park
+3399,147.0,Entire rental unit,1.0,1.0,1.0,University Hills
+3400,147.0,Entire rental unit,1.0,1.0,1.0,University Park
+3401,147.0,Entire rental unit,1.0,1.0,1.0,University Park
+3402,147.0,Entire rental unit,1.0,1.0,1.0,University Hills
+3403,147.0,Entire rental unit,1.0,1.0,1.0,University Hills
+3404,147.0,Entire rental unit,1.0,1.0,1.0,University Hills
+3405,147.0,Entire rental unit,1.0,1.0,1.0,University Hills
+3406,147.0,Entire rental unit,1.0,1.0,1.0,University Hills
+3407,147.0,Entire rental unit,1.0,1.0,1.0,University Hills
+3408,147.0,Entire rental unit,1.0,1.0,1.0,University Park
+3409,147.0,Entire rental unit,1.0,1.0,1.0,University Hills
+3410,147.0,Entire rental unit,1.0,1.0,1.0,University Park
+3411,147.0,Entire rental unit,1.0,1.0,1.0,University Hills
+3412,169.0,Entire rental unit,2.0,2.0,2.0,University Hills
+3413,147.0,Entire rental unit,1.0,1.0,1.0,University Park
+3415,169.0,Entire rental unit,2.0,2.0,2.0,University Park
+3424,147.0,Entire rental unit,1.0,1.0,1.0,University Park
+3425,169.0,Entire rental unit,2.0,2.0,2.0,University Park
+3427,35.0,Shared room in condominium (condo),1.0,2.0,6.0,Hampden
+3428,149.0,Entire condominium (condo),1.0,1.0,1.0,Highland
+3429,369.0,Entire residential home,3.0,2.0,5.0,West Highland
+3433,255.0,Entire townhouse,2.0,2.5,5.0,West Colfax
+3434,162.0,Entire residential home,3.0,1.0,3.0,Mar Lee
+3435,160.0,Entire townhouse,2.0,2.5,2.0,West Colfax
+3436,309.0,Entire residential home,3.0,3.0,4.0,Villa Park
+3437,254.0,Entire rental unit,1.0,1.0,1.0,Union Station
+3439,146.0,Entire guest suite,2.0,1.0,2.0,Sloan Lake
+3440,152.0,Entire condominium (condo),2.0,1.0,2.0,West Highland
+3441,254.0,Entire rental unit,1.0,1.0,1.0,Union Station
+3442,146.0,Entire guesthouse,1.0,1.0,0.0,Sloan Lake
+3443,185.0,Entire guest suite,2.0,1.0,2.0,Cory - Merrill
+3445,175.0,Entire condominium (condo),1.0,1.0,1.0,Capitol Hill
+3447,118.0,Entire residential home,2.0,1.0,2.0,Cole
+3448,304.0,Entire residential home,3.0,2.5,4.0,Five Points
+3449,149.0,Entire condominium (condo),1.0,1.5,1.0,Highland
+3450,165.0,Entire rental unit,1.0,1.0,1.0,Capitol Hill
+3451,195.0,Private room in castle,1.0,1.0,1.0,City Park West
+3452,200.0,Private room in castle,1.0,1.0,1.0,City Park West
+3454,55.0,Private room in residential home,1.0,2.0,1.0,Mar Lee
+3455,126.0,Private room in castle,1.0,1.0,1.0,City Park West
+3456,156.0,Entire guest suite,1.0,1.0,1.0,Cheesman Park
+3457,232.0,Entire townhouse,1.0,1.5,1.0,Berkeley
+3459,251.0,Entire rental unit,1.0,1.0,2.0,Highland
+3460,251.0,Entire rental unit,1.0,1.0,2.0,Highland
+3461,279.0,Entire rental unit,1.0,1.0,3.0,Highland
+3462,279.0,Entire rental unit,1.0,1.0,3.0,Highland
+3463,355.0,Entire rental unit,2.0,2.0,3.0,Highland
+3464,120.0,Entire townhouse,1.0,1.0,1.0,West Colfax
+3465,55.0,Private room in residential home,1.0,1.0,1.0,Villa Park
+3466,198.0,Entire residential home,3.0,2.5,0.0,Gateway - Green Valley Ranch
+3467,120.0,Entire guesthouse,2.0,1.0,2.0,Sunnyside
+3469,125.0,Entire residential home,1.0,1.0,1.0,Baker
+3470,55.0,Private room in residential home,1.0,1.0,1.0,Villa Park
+3471,249.0,Entire condominium (condo),3.0,2.5,5.0,Highland
+3472,44.0,Private room in residential home,1.0,2.0,1.0,Mar Lee
+3473,43.0,Private room in residential home,1.0,2.0,0.0,Valverde
+3474,55.0,Private room in residential home,1.0,2.0,1.0,Mar Lee
+3475,55.0,Private room in residential home,1.0,2.0,1.0,Valverde
+3476,55.0,Private room in residential home,1.0,2.0,1.0,Mar Lee
+3477,55.0,Private room in residential home,1.0,2.0,1.0,Valverde
+3478,241.0,Entire rental unit,1.0,1.0,1.0,Union Station
+3479,202.0,Entire loft,2.0,2.0,2.0,Auraria
+3480,55.0,Private room in residential home,1.0,2.0,0.0,Valverde
+3481,55.0,Private room in residential home,1.0,2.0,1.0,Valverde
+3482,41.0,Private room in residential home,1.0,2.0,1.0,Valverde
+3486,200.0,Entire condominium (condo),1.0,1.0,1.0,Union Station
+3487,55.0,Private room in residential home,1.0,2.0,1.0,Mar Lee
+3488,200.0,Entire rental unit,1.0,1.0,2.0,West Colfax
+3489,175.0,Entire condominium (condo),1.0,1.0,1.0,University
+3491,330.0,Entire residential home,3.0,3.0,3.0,Montclair
+3494,110.0,Entire townhouse,2.0,1.0,2.0,Villa Park
+3495,30.0,Shared room in condominium (condo),1.0,2.0,6.0,Hampden
+3496,350.0,Entire residential home,1.0,2.0,1.0,Baker
+3497,256.0,Entire rental unit,2.0,2.0,2.0,Lowry Field
+3498,45.0,Private room in rental unit,1.0,1.0,1.0,Speer
+3499,125.0,Entire residential home,2.0,1.0,0.0,Highland
+3500,75.0,Entire residential home,2.0,1.0,3.0,Barnum
+3501,228.0,Entire rental unit,1.0,1.0,1.0,Union Station
+3502,450.0,Entire townhouse,3.0,3.5,2.0,Sunnyside
+3504,228.0,Entire residential home,2.0,2.5,2.0,Northeast Park Hill
+3505,127.0,Entire residential home,2.0,1.0,2.0,Northeast Park Hill
+3506,145.0,Entire rental unit,2.0,1.5,2.0,Hampden South
+3507,139.0,Entire residential home,1.0,2.0,1.0,Platt Park
+3508,125.0,Entire guest suite,2.0,1.0,2.0,West Highland
+3509,72.0,Private room in residential home,1.0,1.0,1.0,Cheesman Park
+3510,133.0,Entire guesthouse,1.0,1.0,1.0,City Park West
+3511,640.0,Entire rental unit,2.0,2.0,3.0,Five Points
+3512,99.0,Entire condominium (condo),1.0,1.5,1.0,Highland
+3513,103.0,Private room in residential home,1.0,1.5,1.0,Stapleton
+3516,450.0,Entire residential home,2.0,3.5,2.0,Highland
+3517,112.0,Entire residential home,2.0,1.0,2.0,Villa Park
+3518,339.0,Entire townhouse,4.0,3.0,4.0,West Colfax
+3519,99.0,Entire condominium (condo),1.0,1.5,1.0,Highland
+3520,153.0,Entire residential home,3.0,2.0,4.0,Cory - Merrill
+3521,214.0,Entire townhouse,2.0,1.0,2.0,Highland
+3522,220.0,Entire loft,1.0,1.0,1.0,West Colfax
+3523,244.0,Entire rental unit,1.0,1.0,2.0,West Colfax
+3524,310.0,Entire rental unit,1.0,1.0,2.0,West Colfax
+3525,228.0,Entire rental unit,1.0,1.0,1.0,Union Station
+3527,211.0,Entire residential home,2.0,2.0,2.0,Whittier
+3528,303.0,Entire residential home,4.0,4.0,4.0,Gateway - Green Valley Ranch
+3529,192.0,Entire residential home,2.0,2.5,2.0,Stapleton
+3530,125.0,Private room in residential home,1.0,1.0,1.0,Congress Park
+3531,150.0,Entire residential home,1.0,1.5,1.0,Cole
+3532,225.0,Entire villa,3.0,2.0,4.0,Villa Park
+3533,56.0,Entire loft,1.0,1.0,1.0,Five Points
+3534,310.0,Entire residential home,4.0,5.0,5.0,Highland
+3535,275.0,Entire residential home,5.0,4.5,0.0,Stapleton
+3536,111.0,Entire condominium (condo),1.0,1.5,1.0,Union Station
+3537,296.0,Entire townhouse,2.0,2.5,2.0,Berkeley
+3538,120.0,Entire rental unit,2.0,1.0,1.0,Windsor
+3539,85.0,Private room in condominium (condo),1.0,1.0,1.0,Hampden
+3541,125.0,Entire guesthouse,2.0,1.0,3.0,Regis
+3542,104.0,Entire guest suite,2.0,1.0,3.0,Cole
+3543,139.0,Entire rental unit,2.0,1.0,2.0,Speer
+3544,107.0,Entire guest suite,2.0,1.0,3.0,Westwood
+3546,108.0,Entire rental unit,1.0,1.0,1.0,University Park
+3547,106.0,Entire rental unit,1.0,1.0,1.0,University Park
+3548,119.0,Entire rental unit,1.0,1.0,1.0,Berkeley
+3549,67.0,Entire condominium (condo),1.0,1.0,1.0,Union Station
+3550,344.0,Entire townhouse,3.0,3.0,3.0,Speer
+3552,112.0,Entire rental unit,2.0,2.0,3.0,Goldsmith
+3554,80.0,Private room in townhouse,1.0,1.5,1.0,Chaffee Park
+3571,350.0,Entire residential home,4.0,3.5,5.0,Hale
+3573,70.0,Entire condominium (condo),1.0,1.0,1.0,Overland
+3575,254.0,Entire rental unit,1.0,1.0,1.0,Union Station
+3577,294.0,Entire rental unit,2.0,2.0,2.0,Union Station
+3579,120.0,Entire residential home,3.0,2.0,0.0,West Colfax
+3580,254.0,Entire rental unit,1.0,1.0,1.0,Union Station
+3581,120.0,Entire condominium (condo),2.0,2.0,1.0,Union Station
+3583,95.0,Entire residential home,1.0,1.0,2.0,Marston
+3584,150.0,Entire guest suite,1.0,1.0,2.0,Speer
+3586,131.0,Entire residential home,1.0,1.0,2.0,Sloan Lake
+3592,298.0,Entire residential home,3.0,2.0,4.0,Hale
+3593,90.0,Entire rental unit,1.0,1.5,1.0,Northeast Park Hill
+3594,254.0,Entire residential home,3.0,2.0,3.0,Whittier
+3595,165.0,Entire guest suite,1.0,1.0,1.0,Five Points
+3596,199.0,Entire residential home,2.0,2.0,2.0,Skyland
+3598,119.0,Entire condominium (condo),2.0,2.0,2.0,Northeast Park Hill
+3599,133.0,Entire residential home,3.0,1.0,3.0,Ruby Hill
+3602,99.0,Entire condominium (condo),1.0,1.0,1.0,Highland
+3603,149.0,Entire condominium (condo),1.0,1.0,1.0,Highland
+3605,198.0,Entire residential home,2.0,1.0,2.0,University Hills
+3606,84.0,Entire condominium (condo),2.0,1.0,1.0,Harvey Park
+3607,68.0,Entire condominium (condo),1.0,1.0,1.0,Cherry Creek
+3612,125.0,Entire condominium (condo),1.0,1.0,3.0,Highland
+3613,99.0,Entire condominium (condo),1.0,1.0,1.0,Highland
+3614,115.0,Entire rental unit,1.0,1.0,1.0,Capitol Hill
+3615,228.0,Entire rental unit,1.0,1.0,1.0,Union Station
+3616,254.0,Entire rental unit,1.0,1.0,1.0,Union Station
+3617,254.0,Entire rental unit,1.0,1.0,1.0,Union Station
+3619,422.0,Entire townhouse,3.0,3.5,3.0,Sloan Lake
+3621,109.0,Entire guest suite,2.0,1.0,2.0,Fort Logan
+3623,180.0,Entire residential home,2.0,2.0,2.0,Sunnyside
+3624,196.0,Entire townhouse,3.0,5.0,2.0,Jefferson Park
+3625,268.0,Entire residential home,3.0,2.0,2.0,Washington Park West
+3626,150.0,Entire bungalow,2.0,1.0,2.0,West Highland
+3627,115.0,Entire residential home,1.0,1.0,2.0,North Park Hill
+3628,161.0,Entire rental unit,2.0,2.0,2.0,University Park
+3629,169.0,Entire loft,1.0,2.0,2.0,Civic Center
+3630,100.0,Entire townhouse,1.0,1.5,1.0,Lincoln Park
+3631,149.0,Entire condominium (condo),1.0,1.0,1.0,Highland
+3632,65.0,Private room in residential home,1.0,1.0,1.0,Fort Logan
+3633,112.0,Entire condominium (condo),1.0,1.0,1.0,Union Station
+3634,70.0,Entire rental unit,1.0,1.0,2.0,Northeast Park Hill
+3638,165.0,Entire townhouse,2.0,1.0,3.0,Cole
+3639,150.0,Entire guest suite,2.0,1.0,2.0,Sunnyside
+3640,227.0,Entire residential home,2.0,2.0,2.0,West Highland
+3641,110.0,Entire rental unit,2.0,2.0,2.0,Gateway - Green Valley Ranch
+3642,168.0,Entire rental unit,1.0,1.0,1.0,Five Points
+3643,127.0,Entire rental unit,1.0,1.0,1.0,Five Points
+3644,130.0,Entire rental unit,1.0,1.0,1.0,Union Station
+3646,170.0,Entire residential home,2.0,1.0,3.0,Cole
+3651,94.0,Entire guest suite,1.0,1.0,1.0,Westwood
+3653,151.0,Entire residential home,2.0,2.0,3.0,Lincoln Park
+3654,149.0,Entire residential home,2.0,1.0,2.0,Baker
+3665,149.0,Entire condominium (condo),1.0,1.0,1.0,Highland
+3666,149.0,Entire condominium (condo),1.0,1.5,1.0,Highland
+3667,149.0,Entire condominium (condo),1.0,1.0,1.0,Highland
+3669,74.0,Private room in residential home,1.0,0.0,1.0,Cheesman Park
+3670,119.0,Private room in residential home,1.0,1.0,1.0,Platt Park
+3672,399.0,Entire townhouse,3.0,3.5,3.0,Cherry Creek
+3674,421.0,Entire villa,5.0,2.5,5.0,Cheesman Park
+3675,60.0,Private room in guest suite,1.0,1.0,1.0,Gateway - Green Valley Ranch
+3676,85.0,Entire rental unit,2.0,1.0,2.0,South Park Hill
+3678,125.0,Entire bungalow,3.0,2.0,3.0,Jefferson Park
+3679,87.0,Entire guesthouse,1.0,1.0,1.0,Ruby Hill
+3680,40.0,Shared room in condominium (condo),1.0,2.0,6.0,Hampden
+3681,192.0,Entire rental unit,2.0,2.0,2.0,University Park
+3682,113.0,Entire rental unit,1.0,1.0,1.0,University Park
+3685,172.0,Entire guest suite,1.0,1.0,1.0,Platt Park
+3686,199.0,Entire condominium (condo),2.0,2.0,2.0,Highland
+3687,181.0,Entire rental unit,1.0,2.0,1.0,Five Points
+3688,148.0,Entire condominium (condo),1.0,1.0,1.0,Union Station
+3691,44.0,Shared room in condominium (condo),1.0,2.0,6.0,Hampden
+3693,201.0,Entire residential home,4.0,2.0,5.0,Congress Park
+3695,193.0,Entire townhouse,3.0,3.5,3.0,Sloan Lake
+3696,45.0,Shared room in condominium (condo),1.0,2.0,6.0,Hampden
